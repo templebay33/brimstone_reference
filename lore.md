@@ -36,6 +36,19 @@ The more Gates appear, the bigger reality seems to get. While still quite a spec
 Gates are another central narrative element and often important features of quests, missions, and exciting encounters. They provide endless variety and opportunity to continue expanding the setting of Shadows of Brimstone into completely new places to keep the stories and adventures feeling fresh.
 
 ## Worlds
+Since Dark Stone causes tears in the fabric of reality and sometimes bridges two realites together through a gate, there are limitless possibilities when it comes to to the variety of settings that adventurers can explore when stepping through a gate to another world. 
+
+Within the game rules, each core set of the game (a "core set" provides all of the required minimum rules and components to play Shadows of Brimstone in a single box which can then be mixed with the content sold in other boxes such as expansions and other core sets.) has a default world setting which is native to the Heroes that come as part of the core set. For example, the Forbidden Fortress core set contains Heroes native to the high fantasy Feudal Japan setting and world. The world that is native to the Heroes can be thought of as the "home" or "main" world for the game, even though the rule books don't have a specific word for that in game terms.
+
+All other worlds that are **not** native to the Heroes are considered to be an "OtherWorld". Each core set comes with a single OtherWorld for the starting Heroes to explore. Each OtherWorld is a unique setting that might take place in a different time period, on a different planet, or even a different dimension or reality! In addition, each OtherWorld setting has a variety of Map Tiles, Artifacts, Encounters, and Enemies that are designed to be "native" to the OtherWorld, making each OtherWorld setting feel unique from the others during an adventure.
+
+Most OtherWorld settings feature some kind of Environment rule which is always in effect while the Heroes are located in the OtherWorld. These could be anything from unique weather game effects to anything else that makes good thematic use of the setting.
+
+Additional OtherWorlds can be purchased as part of Deluxe Expansions to increase the variety of OtherWorld settings that Heroes can explore on their adventure.
+
+Visiting an OtherWorld can happen either randomly or by design. During an adventure in the "main" world native to the Heroes, there is a random possiblity in most missions for a gate to an OtherWorld to spawn as the Heroes explore the map tiles. When a Gate is spawned, a deck of Environment cards matching each OtherWorld is shuffled and drawn randomly to see where the Gate leads. Players are of course free to pick a specific world that they want to visit instead, and some missions may specify that all Gates lead to a specific OtherWorld as part of their design.
+
+The rest this section provides narrative descriptions of each world setting, including all the "native" worlds. It is perfectly viable for fans to create new OtherWorld locations to visit, but this will typically require a lot of work due to the need for a lot of content that needs to be created for adding a new world, such as custom map tiles and cards, encounters, artifacts, a depth event chart unique to the world, and environment rule for the world, and several enemies to encounter which are native to the world. Of course, generative AI may be able to greatly assist fans in reducing the amount of effort needed to create all of the necessary content for adding new worlds to the game!
 
 ### Old West
 
@@ -55,12 +68,73 @@ Gates are another central narrative element and often important features of ques
 
 ### Swamps of Jargono
 
+### Sunken City of Pharrox
+Once a powerful kingdom of the ancient world, ruled by a dynasty of ruthless vampires, the island city of Pharrox Atlantea was destroyed, sinking to the cold depths of the sea. For millennia it was left undisturbed and forgotten to history; its ancient inhabitants dormant in a twilight slumber. Now, its shimmering gateways have been activated once again by those seeking its lost knowledge and treasures. But all they will find... are the Terrors of the Deep!
+
 ## Characters
 
-## Factions and Creatures
+## Heroe Classes
+These Hero Class descriptions help flesh out a better narrative picture of their roles within the setting of Shadows of Brimstone.
+### Valkyrie Shield Maiden
+Riding down from the sky on a winged steed, the death dealing Valkyrie is a warrior maiden in the service of Odin himself, the god of war! Though their numbers are few next to the hordes of beasts and demons that have overrun the land now tainted by the void energies of the Dark Stone, the Valkyries have come to help defend the lands of mortal men from the encroaching Darkness. 
+
+### Cursed Eternal
+One of the twelve crew of Ponce De Leon that explored the wilds to discover the Fountain of Youth, the Cursed Eternals succeeded in their quest for immortality, but at a grim cost. By drinking the Fountain's water, they were granted eternal life, but live out their days in a constant state of withering away, gaunt and pale. Only by cutting down Enemies with his tainted Ghost Blade, and stealing the life essence from his foes, can the Cursed Eternal hold his deterioration at bay.
+
+## Enemies & Factions
 While most factions and creatures are usually treated as dangerous Enemies in the game, sometimes players are able to play as characters belonging to a faction they are normally enemies with, such as Trederrans. Because of this, "Factions and Creatures" is used as the title for this section instead of "Enemies". There is always the possibility for narrative situations in which these characters take roles such as NPC's and companions instead of enemies during an adventure.
 
+Each enemy design is often narratively connected and native to one of the world settings in Shadows of Brimstone. Of course, due to Gates creating temporary bridges between two worlds, it is possible to encounter enemies that are not native to the world in which the Heroes find themselves exploring. But in general, encountering non-native enemies should be more rare in order to make each world setting feel more narratively cohesive. There are some enemies, such as the Shikari Nomad's, which are specifically designed as enemies that travel through Gates to worlds that are not native to themselves as part of their narrative design. 
 
+### Enemies - Various
+**Bastet Assassins**
+Using the shadows to move quickly, unseen and silent, the Bastet Assassins are nimble warriors of the Goddess Bastet. They strike without warning and fade back into the darkness with a whispering purr.
 
+The Bastet Assassins have a Supernatural Prowess to fade from shadow to shadow, repositioning themselves to the best advantage against the Heroes. With a Rapid Strike, they slice and stab their target with countless cuts, ducking and weaving their way through a fight.
 
+**Hell Train Void Conductor**
+Tainted by the corruption of the Darkness, the Void Conductor of the Hell Train rings his ominous bell to shift reality around him, tearing open rifts into the Void and spreading terror through the cursed Train!
 
+The Void Conductor is a Hell Train-themed Mini Boss that can buff other Enemies around him and Shift Reality to his will, opening tears in space to unleash fierce creatures from the Void. His body is twisted and in a constant state of mutation and flux, making him a difficult foe to lock down
+
+**Thunderforged Titan**
+Forged with roaring thunder and animated by arcing lightning bound within an armored metal shell, these titanic behemoths are the ultimate warriors of Hel, goddess of death. Bursting through the ancient gates of the Underworld, the towering titans emerge from the cold depths of Niflheim to sow chaos and devastation upon the worlds of men and gods alike! Emblazoned with the fiery runes of Muspelheim by the demon-giant Surtr, the Thunderforged Titans leave a trail of flames and erupting magma in their wake as they march to war, and the end of all things... Ragnarok!
+
+### Faction: The Trun
+
+**Trun Outcasts**
+Part of a brutish warrior race of reptilian soldiers, the Trun tower over humans, standing around 10' tall. With rippling muscles and a thick scaled hide, the Trun are the ultimate hunters in the galaxy, using brutal weapons and wearing heavy armor plating. They seek out deadly prey to test their skills, living and fighting in tribes of armored warriors.
+
+Sometimes, when a member of a Trun hunting pack becomes disgraced or fails in a critical hunt, they are banished from the tribe, an outcast to their people. These warriors often seek out a glorious death in combat or travel great distances to stalk the deadliest prey alive. But some... some choose to take on a new life. A life of adventure...danger...the life of a Hero! Or maybe just a mercenary. If the pay is high and the chance of glorious death is higher, a Trun Outcast can rarely say no.
+
+### Faction: The Scafford Gang
+
+The Scafford Gang are the most notorious mutant outlaws in the Southwest! Making their hideouts in the old caves and mines around the ruins of Brimstone, they have becoming grossly mutated by the cursed radiation of the Dark Stone. As their infamy grows, so too do their ranks, welcoming in any fellow mutants that have been ousted by the locals or that are just looking to make a dishonest buck!
+
+Lead by Colonel Scafford and his original gang of confederates (including his miscreant sons), the Scafford Gang mostly loots travelers on the road, knocks over frontier town banks, and raids caravans for their gold and precious Dark Stone cargo. But when it comes to bigger heists, the Colonel’s daughter, Captain Belle Scafford, rides out with her mutant Outriders to race down Trains in search of the big scores.
+
+**Belle Scafford**
+Favorite Daughter of the Colonel, Captain Belle Scafford is an expert horsemen, deadly duelist with a sabre, and a rogue of the highest order. She has a twinkle in her eye, and a cutthroat smile, with a ruthless disposition. Many men have died underestimating her skill, both on horseback and with a blade. Quick on the draw, she never shoots a man in the back… they are rarely fast enough to turn and run.
+
+**Scafford Outriders**
+The Scafford Outriders are mutant train robbers that descend from the hills to hit the rail lines that run through the valleys and gulches near Brimstone. Riding thunderous horses tainted by the Void energy of the black rock, these wild outlaws use their weird and wondrous mutations to great effect during a heist. With slippery skin to squeeze through the train’s windows, flailing tentacles to climb onto the rooftops, or extra limbs to hold up several passengers at once, they hit and run, leaving only a slimy trail and the faint echo of cackling laughter in their wake.
+
+**Safecrackers**
+When extra muscle is needed to tear the doors off a train or rip a steel safe to pieces, the Safecrackers always get the job done. These hulking mutants can charge up alongside a train, running at full bore before making a massive leap to land on the Rooftop. With meaty barbed claws and rippling muscle, they can shred right through anything that stands in their way, whether it’s the side of a train car, a reinforced bank safe, or even the unfortunate marshals that try to stop them. No cage can keep them in, no wall can keep them out.
+
+**Morty Scafford**
+Though afflicted with a hideous troll body and diminutive size, Mortimer J. Scafford makes up for his shortcomings by being the best heist planner and safe breaker in the West. Armed with the tools of the trade and a custom stethoscope for fine detail work, he often rides into battle perched atop one of the massive mutant Safecrackers to get him where he needs to be. Planning every heist down to the last detail, Morty Scafford leaves nothing to chance. If you think you know what he’s going to do, he’s most likely already been and gone, and he probably stole your wallet too.
+
+### Faction: Pharrox Vampires
+
+**Queen of the Dead**
+Ruling monarch of the last Dynasty of Pharrox, Ariandra the Third, Queen of the Dead, retreated into her inner sanctum as the towers burned and the foundations of the city were torn apart by Dark Stone explosions from sabotage within and a fierce onslaught above. As the entire island crumbled and slid beneath the surface into the watery depths, she swore an oath of vengeance on all those that opposed the mighty Kingdom of Pharrox and her bloodline.
+
+**Dynastic Guard**
+Heavily armored royal guardsmen of the crimson court, the Queen’s Dynastic Guard defended the gleaming spires of Pharrox Atlantea to the last moments before the kingdom fell. Bred for battle, only the largest and fiercest fighters would be granted the honor of the court’s chosen, often dueling to the First Blood Feed for position amongst their ranks.
+
+**Atlantean Automaton Warriors**
+For thousands of years, the mechanical warriors of Pharrox marched to war for their vampiric masters, sweeping away all opposition before the might of their unyielding blades. Using shimmering gateways, the armies of Pharrox would appear from the sea to crush any that would dare defy them. Unbothered by the harsh light of the sun above, these soldiers were relentless in battle. Once the island city toppled into the sea, they found new purpose in the dark halls of the submerged ruins, watching over the twilight slumber of their masters for millennia until the kingdom was ready for a new call to war.
+
+**Court Artificer**
+Masters of Atlantean technology and super science, the Court Artificers maintained the Kingdom’s defensive batteries of burning mirrors and legions of Automaton warriors. Brilliant tacticians and cunning fighters, the Artificers wield electrified polearms that are both tools of their trade and deadly weapons charged with Void energy.
