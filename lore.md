@@ -100,6 +100,16 @@ The Void Conductor is a Hell Train-themed Mini Boss that can buff other Enemies 
 **Thunderforged Titan**
 Forged with roaring thunder and animated by arcing lightning bound within an armored metal shell, these titanic behemoths are the ultimate warriors of Hel, goddess of death. Bursting through the ancient gates of the Underworld, the towering titans emerge from the cold depths of Niflheim to sow chaos and devastation upon the worlds of men and gods alike! Emblazoned with the fiery runes of Muspelheim by the demon-giant Surtr, the Thunderforged Titans leave a trail of flames and erupting magma in their wake as they march to war, and the end of all things... Ragnarok!
 
+### Faction: Setaris Kitewings
+
+**Setaris Ravagers**
+The Setaris Kitewings are a ruthless alien civilization, bent on conquest and devastation. A reptilian species with large, leathery wings, they descend from above to rain death upon their foes. Often acting in small bands of space pirates known as Ravager Enclaves, these cunning raiders have mastered Hit-and-Run attacks to strike quickly and without warning. Not known for taking prisoners, it is said that the Setaris have a habit of feeding on the dead.
+
+The Setaris Kitewings were first introduced in the Conquest of Planet Earth board game as one of the many Alien Races that players could control in their bid to conquer 1950's Earth. A reptilian species, the Setaris soar through the sky with their swooping wings and lashing tails, chittering and cawing to each other through their long vicious beaks filled with razor sharp teeth. But do not let their savage and monstrous demeanor fool you; they are an advanced civilization, ruthless in their desire for conquest, wielding dangerous technologies and armed with powerful weapons.
+
+Though not particularly tough, the Setaris Ravagers can strike fast and hard, blasting the Heroes with their Setaris Laser Rifles before closing in to scratch and claw with their talons. These sinister Enemies use the rules for Snap Fire,  giving them the opportunity to make a free Ranged Attack each turn before closing in on the Heroes to use their Combat; then falling back to a distance to be ready to start the process again the following turn. And, with their Masters of Snap Fire ability, the Ravagers are even harder to pin down than other Enemies that use Snap Fire. They are also quite fast as they fly through the air, evading damage with their Agile Dodge.
+
+As Alien pirates, enclaves of Setaris Ravagers can be found across the  galaxy, looting and pillaging travelers and settlements, then disappearing as quickly as they arrived. To represent this, the Setaris  Ravagers Enemy Pack includes OtherWorld Threat Cards for encountering them in the Swamps of Jargono, Blasted Wastes, the Targa Plateau, and the Derelict Ship, as well as the standard Threat cards for Low, Med, and High threats.
 ### Faction: The Trun
 
 **Trun Outcasts**
