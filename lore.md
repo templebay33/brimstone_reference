@@ -73,11 +73,50 @@ Once a powerful kingdom of the ancient world, ruled by a dynasty of ruthless vam
 
 ## Characters
 
-## Heroe Classes
+## Hero Classes
 These Hero Class descriptions help flesh out a better narrative picture of their roles within the setting of Shadows of Brimstone.
 ### Valkyrie Shield Maiden
 Riding down from the sky on a winged steed, the death dealing Valkyrie is a warrior maiden in the service of Odin himself, the god of war! Though their numbers are few next to the hordes of beasts and demons that have overrun the land now tainted by the void energies of the Dark Stone, the Valkyries have come to help defend the lands of mortal men from the encroaching Darkness. 
 
+## Team Heroes
+Team Heroes are additional Hero Classes that can be found in various Adventure Set and Expansion products. They function just like normal Hero classes, but are narratively designed to work together as a team. Being thematically part of a team, they likely have a shared overlapping history for role playing purposes.
+
+### Trederran Strike Team
+The Trederran Strike Team is an elite fighting squad of alien Special Forces soldiers, deployed on dangerous missions by the High Command of their Trederran Nation.
+
+This Expansion includes the new Trederran Team Heroes, with 4 unique types of Trederrans to play as - the Sergeant, leading the team with grim determination, the Legionnaire, an elite soldier pulled from the front lines, the Specialist, a master in using the various Weapons of War, and the Engineer, a demolitions and tech expert. This allows players to take on the role of a team of alien Anti-Heroes for the first time.
+
+The Trederran Strike Team Expansion includes the Trederran Team Hero Class, with 4 different Sub-Class specialties to play – the Sergeant, Legionnaire, Engineer, and Specialist.
+
+**Sergeant** – A veteran of many campaigns, the Sergeant is a grizzled soldier who charges into the fray, leading his men on deadly missions. Armed with a Sergeant’s Sabre and Master Forged Trench Pistol, he closes with deadly speed to engage his foes up close and personal, while giving Commands to his unit. 
+
+**Legionnaire** – Pulled from the Trenches to go on special operations as part of the Strike Team, the Legionnaire is the best at what he does. Equipped with the full trench gear, Shatter Grenades, and weaponry of a front lines soldier, he is a crack shot, armed to the teeth!  
+
+**Engineer** – The Engineer is a master of tech and demolitions, brandishing an Arc Light Pistol and using the latest in Trederran technology with an array of Dark Stone powered gadgets. Utilizing stealth over sheer force, the Engineer helps the team to overcome obstacles, locate their objectives, and is the best equipped to set up toxic gas generators and other nefarious devices.  
+
+**Specialist** – Heavily armored and trained in the use of a variety of powerful Weapons of War, the Specialist can select a different Special Weapon at the start of each Adventure, to suit the needs of the mission. Whether wielding a Grenade Launcher, a Dragon Fire Thrower, a Light Machine Gun, or even a brutal Chain-Blade, the Specialist adds extra punch to the Strike Team’s arsenal.   
+
+### Viking Team Heroes
+The Gates of Valhalla Adventure Set includes the Viking Team Hero Class, with 4 different Sub-Class specialties to play – the Jarl chieftain, Huscarl honor guard, Raider, and Berserker.
+
+**Jarl** – A Leader of the clan, the Jarl is a brutal and stubborn warrior. Armed with a two-handed War Axe and a heavy coat of Mail Armor, he splits his foes in half with deadly force, boosting his Rage by rolling Critical Hits or shrugging off damage with his chainmail armor. 
+
+**Huscarl** – One of the clan’s distinguished honor guard, the Huscarl carries a hefty Shield and Norse Sword, crafted to cut down the savage Beasts and Demons of the north. She is also an expert with the Viking Bow, used to pick off Enemies at a distance and take quick shots at the beginning of a skirmish, before she charges into the fray.
+
+**Raider** – The most classic Viking, a Raider is a warrior of few words, most often uttered as a Battle Roar before leaping into combat. Armed with Heavy Furs, a Raider’s Helmet, Shield, and Viking Axe, the Raider hacks Enemies apart, shrugging off hordes of foes as he goes.
+
+**Berserker** – Whipped into a frenzy of battle, the Berserker is a madman. Swinging two lethal axes, and fighting bare-chested, but for a wolf pelt slung over his shoulders, the Berserker unleashes his Rage in a swirling melee of death and destruction. Though not the most accurate or defensive of fighters, he makes up for it with a dizzying flurry of blows! 
+
+### Conquistadors
+The Valley of the Serpent Kings Adventure Set includes the Conquistador Team Hero Class, with 4 different Sub-Class specialties to play – El Capitan, the Explorer, Duelist, and Soldier.
+
+**El Capitan** – Leading the way, El Capitan is guided by his Boundless Ambition. Adorned in finely-crafted armor and a plumed helmet, he stands at the head of the expedition, slicing down any foes that stand in his way with an armored fist and his ruthless Steel Sword.
+
+**Explorer** – The quintessential Spanish Conquistador, the Explorer wears a classic breast plate and Morion Helmet, and is armed with a sword of finest Spanish steel. He specializes in helping the group to pick their way through the jungles and swamps, seeking out vast treasures and avoiding traps set by the villainous Serpentmen that stalk the Valley. 
+
+**Duelist** – A lightly armored fighter, the Duelist prefers speed and agility over brute strength. She is armed with a set of finely crafted Dueling Blades that slice through the air with deadly accuracy, easily parting her opponents from their limbs. The Duelist’s fighting style is more akin to an artful dance of death. 
+
+**Soldier** – Stalwart and stubborn, the Conquistador Soldier is heavily armored, from head to toe, carrying a powerful Crossbow to skewer his foes. A veteran fighter, trained on the battlefields of Europe for over a decade, the Soldier has joined the Expedition to seek out a fortune of his own. 
 ### Cursed Eternal
 One of the twelve crew of Ponce De Leon that explored the wilds to discover the Fountain of Youth, the Cursed Eternals succeeded in their quest for immortality, but at a grim cost. By drinking the Fountain's water, they were granted eternal life, but live out their days in a constant state of withering away, gaunt and pale. Only by cutting down Enemies with his tainted Ghost Blade, and stealing the life essence from his foes, can the Cursed Eternal hold his deterioration at bay.
 
@@ -95,11 +134,62 @@ The Bastet Assassins have a Supernatural Prowess to fade from shadow to shadow, 
 **Hell Train Void Conductor**
 Tainted by the corruption of the Darkness, the Void Conductor of the Hell Train rings his ominous bell to shift reality around him, tearing open rifts into the Void and spreading terror through the cursed Train!
 
-The Void Conductor is a Hell Train-themed Mini Boss that can buff other Enemies around him and Shift Reality to his will, opening tears in space to unleash fierce creatures from the Void. His body is twisted and in a constant state of mutation and flux, making him a difficult foe to lock down
+The Void Conductor is a Hell Train-themed Mini Boss that can buff other Enemies around him and Shift Reality to his will, opening tears in space to unleash fierce creatures from the Void. His body is twisted and in a constant state of mutation and flux, making him a difficult foe to lock down.
+
+**Hell Bear**
+Bursting through the snowy trees, the mammoth Hell Bear is a terrifying enemy to behold. Towering over the Heroes, this mutated behemoth is tainted by the Darkness and enraged by the power of the Hellborn! Often preceded by menacing roars that echo through the icy crags and across the frozen wastes, the Hell Bears of the Norse Lands are not subtle in their hunting methods. 
+
+The Rage of the Hell Bear is limitless, as it shreds anything within the reach of its massive jaws and powerful clawed arms. Though they often travel on their own, Hell Bears are also renowned for hunting in packs. While one of these wild creatures can be an unstoppable force, an encounter with a pack of them is rarely recounted, as there are few that live long enough to tell the tale.
+
+The Hell Bear is an XL Beast that can be found on regular Threats (LOW, MED, and HIGH), though often Heavily Mutated when traveling as a pack. A full-strength pack can be encountered as an EPIC Threat. They also appear in the Targa Plateau OtherWorld in the form of the savage Nomadic Yeti.
+
+Though their heavily mutated form prevents their Health from getting too high, the Hell Bear's Monstrous Rage allows them to be constantly Healing Damage for every Hit assigned to them! This includes Hits that do no Damage, so your Attacks may end up Healing the creature even if they can't break through its Defense.
+
+With its Ferocious Attack, the Hell Bear always Re-targets each turn, moving to get next to as many Heroes as possible, then making its full Attack against every adjacent Hero. This combined with its Terrifying Claws that ignore Defense on To Hit rolls of 6+, make Hell Bears dangerous foes to face. In addition, their Claws also give Hell Bear Combat Hits an extra Damage bonus if the Hero rolls a natural 1 on their Defense roll for that Hit, as the Hero has left themselves open to a more savage Attack from the creature.
+
+One XL Hell Bear is dangerous, but a pack of up to 3 Hell Bears at a time can be downright devastating to a Hero Party. One more reason that the Norse Lands are not to be traveled lightly.
+
+**Shadow Lurker**
+Shifting through the darkness that spreads across all worlds, the Shadow Lurkers are ancient demons of the Void. They are formless, malign entities that watch from the shadows, hungering to feed on the memories and experiences of their victims, as well as the most wretched of human emotions. Jealousy, lust, wrath; but above all...greed. They are drawn to the history and power of relics, stalking those that collect and carry artifacts from world to world. These creatures take on a monstrous humanoid form to erupt from the Darkness, with quivering cheeks and a hate beyond time as they relentlessly terrorize their prey, lashing out with long, clawed fingers and viciously jagged teeth. Shadow Lurkers are nightmares made manifest.
+
+**Feathered Serpents**
+On feathered wings, the Serpents of Kotak descend from the heavens to hiss and strike at those who would dare intrude on the temples dedicated to their ancient master.  With long, needle-like fangs, the Feathered Serpents deliver a powerful venom to their foes, piercing armor and flesh alike.  Highly agile, the winged serpents dart from target-to-target, lashing out with their tails and using their venomous bite to strike with deadly accuracy.  But perhaps their most dangerous asset is the protection afforded to them by Kotak himself; a powerful death ward that can mend even the most grievous of wounds with the cosmic magik of the Ancients.
+
+**Fenris Wolves**
+Howling echoes through the snow-capped forests, and the trees rustle in the shadowed crags of the frozen North. Great beasts stalk the mountain passes, and many a traveler and trader has gone missing in these icy hills. Smashed carts and blood-soaked snow are often all that remains after a pack of ravenous Fenris Wolves strikes their prey.
+
+Standing nearly 8 feet tall, a Fenris Wolf is a nightmare of myth and legend in the North. With great muscular shoulders and powerful jaws that can snap tree trunks like twigs, the Fenris Wolves hunt in packs, striking from the shadows to feed their supernatural hunger for flesh. Even the gods tremble with fear at the largest and most savage of these creatures. The blood of Fenrir, the greatest of their kind, courses through their veins, while the blood of their foes drips from their fangs.
+
+**Draugar**
+Another fearsome Enemy found in the frozen wastes of the Norse Lands are the Draugar. Fallen warriors corrupted by the Darkness, the Draugar rise back up from their rocky graves and snow covered battlefields to hunt down and drain the essence of the living! Still carrying their rusty weapons and broken shields, and adorned in tattered armor and rotting clothes, these Undead Vikings are mere husks of their former selves.
+
+It is said that the Draugar feed on the Darkness within, the evil that corrupts the hearts of mortal men, leaching the vitality and essence from all living things that lie in their path. Plants wilt and shrivel to a rotted brown as they pass by, while even the air around them grows icy cold and carries the stench of eternal despair.
 
 **Thunderforged Titan**
 Forged with roaring thunder and animated by arcing lightning bound within an armored metal shell, these titanic behemoths are the ultimate warriors of Hel, goddess of death. Bursting through the ancient gates of the Underworld, the towering titans emerge from the cold depths of Niflheim to sow chaos and devastation upon the worlds of men and gods alike! Emblazoned with the fiery runes of Muspelheim by the demon-giant Surtr, the Thunderforged Titans leave a trail of flames and erupting magma in their wake as they march to war, and the end of all things... Ragnarok!
 
+**Lumia Vampires**
+These dark broods travel by night and feed on the living!  They are an ancient and nomadic band of female Vampires of the old world!  Beautiful and haunting, the Lumia Vampires are deadly hunters - with fangs and claws, and an insatiable thirst for blood! Weaving sinister curses and hexing their prey, only the strongest willed Heroes can stand in the face of these terrifying succubi. Their undead flesh can regrow even the most brutal of wounds, mending before your eyes as they rise back up with a renewed hunger to spread their haunting curse with each Vampiric Bite.
+
+**Feljeagor Slayers**
+Forged in the underworld from thunder and lightning, the Feljeagors are animated suits of meteoric armor made for one purpose...to bring about the end times, Ragnarok! Crackling with dark energy, these automaton warriors march to war, brandishing their Slayer Axes to smite gods and men alike, while the deafening roar of their Fel Horns echo through the mountains, whipping their legions into a frenzy of rage.
+
+**Drowned Dead**
+One of the main Enemies that Conquistador Heroes will face in the Valley of the Serpent Kings Brimstone Adventures Set are the ghastly and terrifying Drowned Dead that roam the halls of the Spanish Forts! These shambling horrors were once fellow Conquistadors; explorers that came before and have fallen into darkness. Their Corroded Armor hangs loose on their rotten bodies, dripping water and trailing shreds of seaweed and vines pulled from the swamps as they clawed their way back out of the jungle. Wielding Cursed Blades that spread fear and corruption, the Drowned Dead are an Endless Horde, crawling out of the shadows to overwhelm the living!
+
+**Trolls**
+One of the main Enemies that Viking Heroes will face in the Gates of Valhalla Brimstone Adventures Set are the monstrous and hateful Trolls of the Norse Lands! These hulking, Mythic Beasts live in the wild lands of the north, attacking nearby villages and ambushing unwary travelers to feed on. With jagged claws and a satchel of hefty boulders to throw, Trolls spread fear throughout the dark forests and icy crags they call home. Able to Regenerate even the most gruesome injuries, an angry Troll can be a terrifying foe to face, let alone a group of them.
+
+**Deep Stalkers**
+Deep Stalkers are terrifying fish-men, emerging from the deep dark below the churning surface of the sea! With both gills and lungs, these slimy fiends are equally at home in water or on land. They climb aboard ships that stray into their domain, attacking the crew and stealing their supplies (as well as kidnapping the occasional crewman for their dark feedings).
+
+**Leviathan Tentacles**
+Leviathan Tentacles are the long, squid-like tentacles of a massive Leviathan, submerged below the surface of the water. These long Tentacles rise up from the deep to attack Heroes at sea, or those that linger too close to the coastlines.
+
+**Gremians**
+One of the new enemies featured in the Gates of Valhalla Shadows of Brimstone Adventures set, is the Gremians!  The set contains 12 of these small impish little demons, and they are nasty little guys!  This is a closer look at the miniature sculpt.  We named these guys for the Olde English word Gremian, which later evolved into the word Gremlin.  But any way you spell or pronounce it, they mean business.  Specifically, the business of trouble-making!  Each Gremian in Gates of Valhalla is armed with a sturdy little knife to poke, stick, and stab at heroes, and little clawed fingers and toes that can scratch at any heroes who cross paths with them!  
+
+Gremians can be found to infest many different Worlds, whether hiding among the snow-covered trees of the Norse Lands, or lurking in the shadowy corners and dark halls of the ancient city of the Targa Plateau.
 ### Faction: Setaris Kitewings
 
 **Setaris Ravagers**
@@ -148,3 +238,43 @@ For thousands of years, the mechanical warriors of Pharrox marched to war for th
 
 **Court Artificer**
 Masters of Atlantean technology and super science, the Court Artificers maintained the Kingdom’s defensive batteries of burning mirrors and legions of Automaton warriors. Brilliant tacticians and cunning fighters, the Artificers wield electrified polearms that are both tools of their trade and deadly weapons charged with Void energy.
+
+### Faction: Order of the Crimson Hand
+
+The Order of the Crimson Hand has a long and rich history of seeking out ancient relics and sinister offerings to unlock forbidden lore and the power of dark gods. These Acolytes of occult knowledge have devoted their souls to unlocking the secrets of these twisted and dark magiks. Carrying scrolls writ in tainted blood and runic amulets imbued with chaotic potential, the Dark Acolytes of the Crimson Hand set up wicked altars and lead depraved rituals aimed to summon demonic creatures and unleash this raw  power for their own nefarious goals.
+
+**Dark Acolytes**
+The Order of the Crimson Hand has a long and rich history of seeking out ancient relics and sinister offerings to unlock forbidden lore and the power of dark gods. These Acolytes of occult knowledge have devoted their souls to unlocking the secrets of these twisted and dark magiks. Carrying scrolls writ in tainted blood and runic amulets imbued with chaotic potential, the Dark Acolytes of the Crimson Hand set up wicked altars and lead depraved rituals aimed to summon demonic creatures and unleash this raw power for their own nefarious goals.
+
+The Dark Acolytes bring another facet of the sinister Order of the Crimson Hand into the game. Tasked with preparing the occult rituals and dark altars of the Order, these Acolytes are steeped in Arcane Lore, using scrolls and amulets to gain Runic Protection and to unleash spells on the Heroes. Arcane Magik is a new Spell Deck that allows the Dark Acolytes to summon Demons or Undead to the Fight, launch bolts of Arcane Energy, or even allow one of them to ignite their hand ablaze with a crimson fire to attack, a burning effigy of the ancient Master of the Order, Shi-Hai Da’kal. Though not as tough as their more numerous cultist brethren, Dark Acolytes are every bit as zealous, using arcane lore and forbidden knowledge to attack the Heroes.
+
+
+**Dread Inquisitors**
+
+Dread Inquisitors are part of the ancient Order of the Crimson Hand - a secret cult that has been around for centuries.  They are dark masters of pestilence, wielding vile plagues to unleash upon any that would stand in the way of their sinister plans!  Fueled by Dread, they are brutal and menacing, wielding metal  "man catcher" pole arms and some also carry long, curved blades for rending flesh from bodies!  They hold themselves with an air of confidence because no one dares to question their authority.
+
+The Inquisitors are the most feared and deadly branch of the Crimson Hand; a shadowy and sinister organization, even within the already secretive Order.  While most of the Crimson Hand are dedicated to seeking out ancient and occult artifacts to use in their dark rituals, the Dread Inquisitors of the Pestilarium Morbus are masters of death. Guiding and harnessing many of the worst plagues in human history, their goal is to control life and death itself, through the manipulation of disease and pestilence.  Wearing heavy layered robes, leather gloves, and menacing masks, the Dread Inquisitors are protected from the terrifying plagues they cultivate and spread. They are ruthless in their methods of death and destruction, and once you see them, it may already be too late!
+
+
+### Faction: Targa Robots
+
+**Targa Librarian**
+The Targa Librarians are sinister alien robots that preside over the Library Archives of the Targa Plateau. Guided by the Artificial Intelligence of the central Data Core, these caretakers float through the icy abandoned halls of the technological repository, gathering new information to add to Targa's vast Library of ancient knowledge.
+
+Standing more than 3 meters tall, they tower over most other robotic servants and drones within the hallowed halls. Connected directly to the Intelligence, the Librarians of Targa are its physical avatars that move about the Archive, managing the systems and controlling the lesser automatons. Though responsible for much of the Archive's upkeep and organization, the Librarians are also equipped with some of the most advanced technology and weapons that the Library has to offer. Unwitting explorers soon discover that the Librarians of Targa are just as cold and ruthlessly efficient at dealing with intruders as they are at filing new entries into the data columns of the Archive.
+
+The Targa Librarians can be one of the most deadly Enemies in Shadows of Brimstone, and that's saying something. Often appearing as a mini-Boss, the Librarians use their ancient technology for both powerful defense as well as deadly attacks. Whenever a Targa Librarian enters play, it draws one of the three cards from the Codex deck to determine what style of Librarian you are facing - Adjutant, Moderator, or Recordkeeper. This Codex modifies the Librarian's weapons and abilities, as well as its behavior in the fight.
+
+Covered in *Ceraphin Plating* to reduce the effectiveness of Critical Hits, and equipped with an Ancient Forcefield that deflects a good amount of Damage from every incoming attack, a Librarian can be difficult to damage. This combined with its Codex weapons and high Combat and Damage values, as well as its Adaptive Strategy, make the Librarian a terrifying foe to face.
+
+The Gates of Valhalla Adventure set comes with 3 Targa Librarian miniatures that can be assembled as one of each Codex. Usually Heroes will only fight 1 Librarian at a time, though some exceptionally dangerous fights may include up to 3 Librarians (which means you had better have your affairs in order). 
+
+**Centurion**
+When ancient sensors are tripped by unwary intruders, detachments of long-dormant, robotic Centurions come to life. Stepping out of their charging alcoves, they march to battle in defense of the frozen city. Armed with Power Swords and Blast Shields, these defenders of the Targa Plateau are ruthless in their cold and calculating tactics.
+
+Targa Centurions attack in groups, relentlessly marching toward the Heroes in a column of armored might. They have no remorse and give no quarter to their foes, only death. In battle, the Centurions' Power Swords slice through Armor and flesh, while blows deflected by their Blast Shield can cause a concussive burst of energy able to knock their attacker across the room! 
+
+### Faction: Trederra
+
+**Trederran MK IIs 'Lightning' Scout Tank**
+Feared across the battlefields of Trederra, the Mk IIs "Lightning' Scout Tank rolls over trenches and rumbles down burnt out streets in search of the enemy. Grinding gears and plumes of black smoke bellow from the steel beast as it scouts ahead of an armored column, or lends its deadly firepower as infantry support to the Legionnaires. Though smaller than most of the massive tanks of Trederra, the Lightning is more maneuverable, and fueled by Dark Stone, it still packs a punch. It is one of the only Tanks routinely used for excursions into OtherWorlds when the mission calls for overwhelming fire support.
