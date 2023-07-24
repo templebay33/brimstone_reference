@@ -1301,3 +1301,194 @@ Tokens to help fewer Heroes survive a little longer.
 | 6      | High Treats |
 
 ## Enemies
+Every Enemy Type is represented by a large Enemy Record Sheet that lists its stats and abilities. The Record Sheets are
+double-sided and have the normal (green) stats on one side, and the Brutal (red) stats on the other. The Brutal Enemy side is
+generally only used for groups of Heroes that are quite experienced and have been through many Adventures.  
+
+### Enemy Type
+This tells the name of the specific Enemy Type, such as
+Tentacles, Temple Guard, or Drowned Dead.  
+
+### Keyword
+All Enemies have one or more Keywords that define the
+category they fall into (Demon, Myth, Void, etc). Generally
+these Keywords don’t have any built-in meaning, but are often
+referenced by other cards or abilities.  
+
+### Size
+The Size of the Enemy - Small, Medium, Large, Extra
+Large, or even XXL.  
+
+### Initiative
+Just like Heroes, every Enemy has an Initiative that tells
+when they get to Activate in the turn order.  
+
+### Abilities
+Most Enemies have one or more Special Abilities that
+affect how they fight the Heroes.  
+
+### Move
+This is the number of spaces that the Enemy can move
+during their Activation. Unlike Heroes, Enemies have a fixed
+move which makes them predictable and easier to move in
+large groups.  
+
+### Escape
+When a Hero is adjacent to the Enemy and wants to move
+away, they must first pass an Escape test using this Escape
+value (more on this a bit later).  
+
+### 'To Hit' Values
+Just like Heroes, Enemies have a To Hit value for Ranged
+Attacks and Melee Attacks.  
+
+### Combat
+The number of Combat dice the Enemy gets to roll against
+a Hero when making a Melee Attack.  
+
+### Damage
+The amount of Damage a Hero takes for each Enemy
+Combat Hit they fail to block with their Defense.  
+
+### Defense
+Unlike a Hero’s Defense (which is a roll to block
+Damage), an Enemy’s Defense is a fixed amount of Damage
+that is prevented from each Hit the Enemy would take.  
+
+### Health
+The number of Wounds that it takes to kill the Enemy.  
+
+### XP Value
+Every Enemy is worth XP to the Hero that kills it.
+Many larger or tougher Enemies give XP to a Hero just for
+Wounding it.  
+
+### Elite Chart
+Every Enemy Type has an Elite Chart of six extra Abilities
+that make it harder to defeat or more deadly in a Fight. When
+a group of Enemies is Elite, they get to roll on the Chart to
+see what extra Ability or Abilities that group of Enemies has.  
+
+### Brutal Side
+Brutal Enemy Side
+The back side of each Enemy Record Sheet has the Brutal
+version of that Enemy Type, displayed with a red background.
+These Brutal Enemies are generally only encountered by higher
+level Heroes that have played many Adventures. This is a way
+of scaling the Enemies that the Heroes have to fight over the
+course of a campaign.  
+
+## Fights
+When the Heroes come across a group of Enemies, their exploration of the area takes a back seat to fighting for their lives.
+These engagements are called Fights and cover the time from when Enemies appear until the last Enemy is defeated and the
+Fight is over. Fights make up the bulk of the action in the game and are an exciting way for the Heroes to get XP and Loot,
+though they can also be quite dangerous.  
+
+### Attack!
+The most common way for a Fight to
+begin is by finding an Attack Exploration
+Token while Exploring a Room. When
+an Attack occurs, the Heroes must draw a
+Threat card to see what has attacked them.
+Attacks can also be caused by other things
+as well, such as Darkness cards, Encounters, a
+Depth Event, etc.  
+
+### Drawing Threat Cards
+When a Fight begins,
+the first thing that the
+players need to do is find
+out what Enemies are
+actually attacking them.
+Usually, this means drawing
+a Threat card (though
+sometimes the Attack will
+call for a specific Type of
+Enemy as listed on the card
+or Event that caused the
+Attack in the first place).  
+To draw a Threat card,
+you simply take the top card
+from the Threat Deck of the
+appropriate Threat Level. This
+is based on the number of Heroes in the Party.
+1-2 Heroes use the Low Threats (green), 3-4 Heroes use the
+Med Threats (yellow), and 5-6 Heroes use the High Threats
+(red).  
+
+### Attacks by Specific Enemies
+When a card or event calls for an Attack by a specific
+Enemy Type, there is no need to draw a Threat card. Instead,
+the Type and number of Enemies is pre-set and listed in the
+text for that card/event.  
+
+### Number of Enemy Models
+Sometimes the number of Enemy
+models that will be taking part in the Fight
+is simply listed on the card. Many times,
+however, it will be a variable number of
+Enemies that the players must roll for, using
+a D6, D3, or the Peril Die {P}.  
+The Peril Die is a special 6-sided die that has
+faces marked 3, 3, 4, 4, 5, and 6. This allows for a
+variable number of Enemies to show up, but never
+less than 3 at a time.  
+The Peril die is represented on cards and text as
+the symbol: {P}  
+Sometimes multiple Peril Dice will be used to find
+the number of Enemies for an Enemy Type that favors
+larger groups. For instance, Tentacles often show up with
+up to 12 Enemies at a time, and will frequently be listed
+on a Threat card as:  
+{P}{P} Tentacles  
+In these cases, the Peril Die should be rolled twice and the
+two numbers added together to find the total.  
+
+### Placing Enemies on the Board
+Once you have determined what Types of Enemies are
+taking part in the Fight, and how many there are of each
+Type, it is time to place them on the board. Enemies from an
+Attack Exploration Token are placed on the Map Tile where
+the Token was revealed.  
+Enemies are placed on the board in reverse
+order of Initiative, from lowest to highest. So
+the slowest Enemies are always at the back of
+the group.  
+Starting with the lowest Initiative Enemy Type, models
+are placed on the Map Tile in every other space, forming a
+checkerboard pattern starting in the row farthest from the Map
+Tile Entrance, all the way to the back left (as shown in the
+diagram below). This includes any puzzle connection halfspaces.  
+Once all of an Enemy Type has been placed, continue
+on to the next lowest Initiative Enemy Type, until all Enemies
+have been placed on the board. If more than one Enemy
+Type shares the same Initiative, roll randomly between them
+for which is placed first.  
+Skip over any spaces that are not valid map spaces (less
+than 50% of a space) as well as any spaces that already have
+a model in it.  
+
+### Placing Enemy Example
+Since this is a text only example with no visual diagrams, let's imagine a Map Tile on the table with each space number and display as below as columns and rows:  
+
+      |01|02|  
+      |03|04|05|06|  
+|07|08|09|10|11|12|  
+|13|14|15|16|17|18|19|  
+   |20|21|22|23|24|25|  
+         |26|27|  
+         |28|29|  
+
+The Map Tile entrance spaces in the above map would be spaces 28 and 29. 
+If you had to play 2 Temple Guard (Initiative 3) and 6 Serpentmen Archers (Initiative 6), the Temple Guard would be placed first, starting on the opposide side of the Map Tile entrance spaces. Once all Enemy models were placed they would be located as follows:
+- Temple Guard: 01, 04
+- Serpentmen Archers: 06, 07, 09, 11, 14, 16
+
+If there are more Enemy models to place than will fit in
+the checkerboard pattern on the Map Tile, return to the back
+row and begin placing models to fill in the spaces between.  
+If there are more models than will fit on the Map Tile,
+even with every space filled (which is rather rare), overflow
+models should be placed onto the Map Tile connected to
+the Entrance of the Room (most likely filling in around the
+Heroes) until they have all been placed.
