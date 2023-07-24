@@ -71,6 +71,25 @@ The rest this section provides narrative descriptions of each world setting, inc
 ### Sunken City of Pharrox
 Once a powerful kingdom of the ancient world, ruled by a dynasty of ruthless vampires, the island city of Pharrox Atlantea was destroyed, sinking to the cold depths of the sea. For millennia it was left undisturbed and forgotten to history; its ancient inhabitants dormant in a twilight slumber. Now, its shimmering gateways have been activated once again by those seeking its lost knowledge and treasures. But all they will find... are the Terrors of the Deep!  
 
+### Valley of the Serpent Kings
+It is the Age of Exploration, and Spanish voyages set out across
+the vast oceans, making landfall on the sandy shores of the New
+World. But these jungle islands and rocky coasts hold more than
+new trade opportunities and rumored riches. The local people tell
+tales of a magical Dark Stone found in the volcanic mountains, and
+strange shimmering gateways that lead to another world. A world
+ruled by a ruthless civilization of cold blooded Serpentmen that
+have been raiding their villages since the black rock was discovered.
+Constructing stone forts to defend against these strange creatures, the
+Conquistadors sent word back to Spain for reinforcements. But they
+did not know the Darkness that had already begun to spread within.
+Initially at odds with the nearby Aztec Empire, who had already
+been at war with the Serpentmen for some time, it soon became clear
+that if humanity had any chance of survival, the Conquistadors and
+Aztecs would need to work together to hold back this Darkness from
+spreading out across the world.  
+
+
 ## Characters
 
 ## Hero Classes
