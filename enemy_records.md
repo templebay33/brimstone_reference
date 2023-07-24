@@ -23,7 +23,7 @@ XP: 15
 - Cursed Blades: Any Hero that takes 1 or more Wounds from Drowned Dead Combat Hits during a turn also takes 1 Corruptoin Hit.
 - Endless Hordes: At the end of each Fight Round, while there are 1 or more Drowned Dead on the board, roll a D6. If the roll is higher than the number of Drowned Dead in play, add D6-3 to the Fight, placed adjacent to Random Heroes.
 
-**Elite Chart**
+**Elite Chart**  
 Note: While they have *any* Elite ability, Drowned Dead also gain To Hit (Melee): 4+.  
 
 1. Nightmarish: Each Combat Hit caused by the Drowned Dead also causes 1 Horror Hit to the target.
