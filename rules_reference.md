@@ -3603,6 +3603,131 @@ Each Hero Class has a free Upgrade Bonus Chart. Whenever your Hero Levels Up, yo
 | Standing Your Ground<br>Once per Adventure, Ready your Badge. At the start of your Activation each turn during a Fight, Recover a Grit on the D6 roll of 4, 5, or 6.<br>+1 Spirit | | | |
 
 
+Here are the rules for the Lawman on page 34 formatted in markdown:
+
+# U.S. Marshal
+
+U.S. Marshals are 'tough as nails' bounty hunters, working for the government. No stranger to working alone, they travel the land looking for those who need a little justice. When the need arises though, they step up to lead those around them, descending into the very depths of hell if necessary to get the job done.
+
+## Playing a U.S. Marshal
+
+U.S. Marshals are one of the toughest Hero Classes in the game. With a Defense 3+, they can easily be a frontline fighter, blocking a hall or wading into groups of Enemies, shrugging off most incoming Attacks. With their Shotgun and Double-Shot ability, a U.S. Marshal can also deal out large amounts of damage as a virtual one man army. The Marshal's Badge makes them a solid team player, waiting until just the right time to flash the Badge and give every Hero a boost to their next Attack!
+
+## Starting Upgrade Choices 
+
+U.S. Marshal Starting Upgrades focus on Recovering Grit, gaining extra XP, and Healing.
+
+### Rolling Thunder
+
+This ability is great for offsetting the potential ‘feast or famine’ of only getting to roll a single Shot each turn with the Shotgun. It is fantastic for making sure you always have the Grit you need to Re-roll dice and to activate your more powerful abilities as you level up.
+
+### Cleaning Up the West 
+
+By Cleaning Up the West, you can make sure that you are always Healing a little bit of Health and Sanity as you fight, helping you to stay alive while getting up close and personal with your Shotgun. It also gives you a boost to Max Grit and XP, giving you a leg up on Leveling Up, especially early on in your Hero’s career.
+
+### Hardened Resolve
+
+To focus on a more team leader style role, Hardened Resolve gives you a solid ability to Heal yourself and the rest of the posse, even at a distance. It also makes Tonic Tokens you bring along in your Side Bag far more effective.
+
+## Leveling Up a U.S. Marshal
+
+Whenever you go up to a new Hero Level, roll 2D6 on the following chart for your free Upgrade Bonus. You may also choose one new Ability from the U.S. Marshal Upgrade Chart (as detailed above in the section on Leveling Up a Hero).
+
+2D6 Roll Upgrade Bonus
+
+2: Vendetta - Choose an Enemy Keyword (Demon, Undead, etc). From now on, any time you collect XP from those Enemies, collect an extra +10 XP.
+
+3: On the Trail - Start each Adventure and Travel/Town with 1 extra Grit. 
+
+4: +1 Max Grit
+
+5: +1 Strength or +1 Agility. Also, gain +D6 Health/Sanity (any mix)
+
+6: +1 Cunning or +1 Spirit. Also, gain +D6 Health/Sanity (any mix) 
+
+7: +D6 Health and +D6 Sanity
+
+8: +1 Lore or +1 Luck. Also, gain +D6 Health/Sanity (any mix)
+
+9: +1 Side Bag Token Capacity. Also, gain +D6 Health/Sanity (any mix)
+
+10: +2 Corruption Resistance  
+
+11: +1 Initiative
+
+12: Not on My Watch - Once per Adventure, you may force the Hold Back the Darkness roll to be Re-rolled.
+
+Here is the upgrade chart for the U.S. Marshal on page 35 formatted in markdown:
+
+# U.S. Marshal Upgrade Chart
+
+## Traveler 
+
+- A Story to Tell  
+    +1 Lore  
+    You gain extra Movement each turn equal to your Lore.
+
+- No Shame in It  
+    Once per turn, you may take 1 Corruption Hit to use a Dark Stone in place of a Grit. 
+
+- "Look Out!"  
+    Once per turn, choose another Hero within 2 spaces. That Hero may Re-roll a single Defense roll just failed. If the Re-roll is successful, gain 15 XP.
+
+- Focus  
+    +1 Max Grit  
+    You no longer need to target adjacent Enemies first with Ranged Attacks. 
+
+- Back Up Plan  
+    You may now Recover a Grit on a Move roll of 6 as well as on the roll of 1.
+
+## Resolve
+
+- No Nonsense  
+    Add +1 Shot to any Shotgun you are using.
+
+- Above the Law  
+    Once per Adventure, use 2 Grit to Ready your Badge.
+
+- Hunter  
+    +1 Max Grit  
+    At the start of each Adventure, choose an Enemy Keyword (Void, Undead, etc). You are +1 Damage against those Enemies and gain $20 for each you kill.
+
+- Rolling a Mutation you already have on the chart has no effect on you now.
+
+## Honor
+
+- +1 Strength
+
+- Saddle Bags  
+    You may now carry an extra 4 Tokens in your Side Bag, and your Side Bag Tokens are Hidden. 
+
+- "I Don't Think So!"  
+    Use 2 Grit as an Attack to roll your full Combat against each adjacent Enemy.
+
+## Bounty Hunting
+
+- Dead or Alive  
+    +1 Max Grit  
+    Use 2 Grit to cancel a Darkness or Growing Dread card.
+
+- Been Around  
+    +1 Lore  
+    Your Hits are +1 Damage for each Mutation you have (max +3). 
+
+- That Does It!  
+    Once per turn, you may take 1 Corruption Hit to force an Enemy on your Map Tile to Re-roll a single die just rolled.
+
+- +1 Strength  
+    +2 Max Grit
+
+- End of the Line  
+    Once per Fight, during your Activation, use 2 Grit to do one automatic Hit to every Enemy on your Map Tile. These Hits use the D8 for Damage.
+
+- One Man Army  
+    While you are the only Hero on your Map Tile, you gain +1 Combat and +1 Shot with a Gun.
+
+- Whirling Strike  
+    Use 2 Grit as an Attack to roll your full Combat against each adjacent Enemy.
 # SHRINE
 
 Roll 2D6 to determine the **Location Event**:
