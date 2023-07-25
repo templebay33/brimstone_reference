@@ -50,3 +50,22 @@ This section will discuss specific design mechanics of the game rules and ideas 
 
 ### Activation System
 
+**Alternating**  
+The simplest activation system is alternating activations. One player chooses a unit that has not yet activated in the current round to activate. Once that unit activation is complete, play passes to his opponent who then chooses an un-activated unit to activate. Play passes back and forth this way until both players have activated all units, then a new round begins.  
+Sometimes each round begins with an initiative roll where both players roll dice to see who gets to go first. Sometimes units have abilities that modify the initiative roll at the beginning of the round. Sometimes players who in the initiative roll get to decide whether to go first or force their opponent to go first.
+
+**Random Activations**  
+This approach randomizes the order in which units activate to keep the game moving fast and simulate the chaos of combat. One of the most common ways to do this is with a "chit pull" mechanic that historical wargames often use, which is to assign some kind of unique token to each unit, mix all the units for both players into a draw bag or cup, and then randomly draw each token out of the cup.  
+Some systems try and make this more interesting by introducing special tokens into the bag other than the unit tokens, such as a wildcard token which allows activating any unit, or a token which allows a player to execute some kind of special ability.  
+The downside to this approach is the percieved lack of control and degradation in the games' ability to allow players use of their tactical planning skills.
+
+## Dice
+Most skirmish games use dice to resole combat and other game effects, although there are exceptions, such as Malifaux which remove dice in favor of a deck of cards.
+
+**Buckets of Dice**  
+This is usually considered the Games Workshop approach. Rolling large handfuls of D6 dice, with certain values considering a success or failure. The values required for success are usually modified by game context (e.g. a flanking bonus for being behind the target of an attack).  
+It's fun to roll big chunks of dice and the small numbers on each die are easy to work with. This approach can be a bit messy on the table though. But this is the system tha the Shadows of Brimstone board game uses, so it would b a natural fit for a skirmish variant.
+
+**2D6**  
+This is probably my personal favorite approach. 2D6 gives a nice probability curve, with more common results toward the middle and more rare results on the ends (double 1's and 6's). This has a nice effect where common results happen more often and rare results happen less often, which feels natural.  
+Another thing I like about this is less table clutter and easy to apply modifiers. 

@@ -50,7 +50,7 @@ Visiting an OtherWorld can happen either randomly or by design. During an advent
 
 The rest this section provides narrative descriptions of each world setting, including all the "native" worlds. It is perfectly viable for fans to create new OtherWorld locations to visit, but this will typically require a lot of work due to the need for a lot of content that needs to be created for adding a new world, such as custom map tiles and cards, encounters, artifacts, a depth event chart unique to the world, and environment rule for the world, and several enemies to encounter which are native to the world. Of course, generative AI may be able to greatly assist fans in reducing the amount of effort needed to create all of the necessary content for adding new worlds to the game!  
 
-### Old West
+### Brimstone
 
 ### Feudal Japan
 
