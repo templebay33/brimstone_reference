@@ -1470,7 +1470,7 @@ a model in it.
 
 ### Placing Enemy Example
 Since this is a text only example with no visual diagrams, let's imagine a Map Tile on the table with each space number and display as below as columns and rows:  
-
+```
       |01|02|  
       |03|04|05|06|  
 |07|08|09|10|11|12|  
@@ -1478,7 +1478,7 @@ Since this is a text only example with no visual diagrams, let's imagine a Map T
    |20|21|22|23|24|25|  
          |26|27|  
          |28|29|  
-
+```
 The Map Tile entrance spaces in the above map would be spaces 28 and 29. 
 If you had to play 2 Temple Guard (Initiative 3) and 6 Serpentmen Archers (Initiative 6), the Temple Guard would be placed first, starting on the opposide side of the Map Tile entrance spaces. Once all Enemy models were placed they would be located as follows:
 - Temple Guard: 01, 04
