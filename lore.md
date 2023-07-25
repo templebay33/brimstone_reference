@@ -118,7 +118,147 @@ These Hero Class descriptions help flesh out a better narrative picture of their
 Riding down from the sky on a winged steed, the death dealing Valkyrie is a warrior maiden in the service of Odin himself, the god of war! Though their numbers are few next to the hordes of beasts and demons that have overrun the land now tainted by the void energies of the Dark Stone, the Valkyries have come to help defend the lands of mortal men from the encroaching Darkness.  
 
 ## Team Heroes
-Team Heroes are additional Hero Classes that can be found in various Adventure Set and Expansion products. They function just like normal Hero classes, but are narratively designed to work together as a team. Being thematically part of a team, they likely have a shared overlapping history for role playing purposes.  
+Team Heroes are additional Hero Classes that can be found in various Adventure Set and Expansion products. They function just like normal Hero classes, but are narratively designed to work together as a team. Being thematically part of a team, they likely have a shared overlapping history for role playing purposes. 
+
+## Team Heroes - Conquistadors
+
+### El Capitan
+A leader of the
+expedition, El Capitan is
+a skilled swordsman and
+explorer of noble lineage.
+His armor and helmet are
+adorned with gold filigree
+and a striking feather
+plume, indicative of his
+suave nature and regal
+stature.  
+
+**Armor and Sword**  
+El Capitan’s Ornate
+Helmet and Conquistador
+Armor grant him a built
+in extra Armor 5+ save
+against each individual
+Wound he might take, as
+well as increasing his ability to hold and use Ambition. Armed
+with a Spanish Sword, El Capitan is also skilled with a blade,
+making his Critical Hits deadly with a side step and a thrust.  
+
+**Ambitious Leader**  
+Ruthless and confident, El Capitan is the military leader of
+the group. Selecting the Boundless Ambition Starting Upgrade
+lets him make full use of his Ambition, with a chance to
+Recover it whenever he kills a foe, and letting him spend up
+to 2 Ambition per turn for Re-rolls. The Expedition Leader
+Upgrade allows El Capitan to bring an extra Team Ability card
+to each Adventure, and to use his experience and Battle Plans
+to help his fellow explorers Re-roll a To Hit or Defense die
+while nearby.  
+
+### Explorer
+The Explorer is an
+expert at guiding the
+expedition, seeking out the
+objectives and treasures the
+party is searching for.  
+
+**Versatile Gear**
+The Explorer’s Armor
+is not as heavy or robust
+as that of the Soldier, but
+it still grants an Armor 6+
+save against Wounds he
+would take. In addition,
+the Morion Helmet helps
+by letting him Re-roll a
+single Armor save or a
+single die on a Skill test
+once per turn. Topped off
+with a Spanish Sword for
+doing extra damage on
+Critical Hits makes the Explorer a good combat fighter as well.  
+
+**In Search of Discovery**  
+Using the Thirst for Discovery Starting Upgrade, the
+Explorer can move faster and gains extra XP for Looking
+Through Doors and Scavenging the area. It also grants him
+bonus Grit for exploring new Map Tiles. The Dark Stone
+Hunter Upgrade instead focuses on collecting the magical
+black rock. It lets the Explorer carry Dark Stone without being
+corrupted by it, and gives him the ability to use Dark Stone to
+cancel Darkness cards during the Adventure.  
+
+### Duelist
+A nimble master of
+fencing, the Duelist relies
+on speed and her skill
+with the blade to carry the
+day. Forgoing the heavy
+armor of her teammates,
+she lunges and thrusts
+to skewer her foes, while
+parrying their strikes away.  
+
+**Dueling Blades**  
+The Dueling Blades
+of the Duelist are quite
+versatile and can be
+equipped as either singlehanded
+or two-handed.
+While just using one
+Hand Slot, they let you
+force an adjacent Enemy
+to Re-roll one of their To
+Hit rolls once per turn.
+This allows you to protect yourself, or others that are nearby.
+While equipped in both of your Hand Slots, it also grants you
++1 Combat, giving an extra die for your Melee Attack. This
+versatility means that the Dueling Blades are great to use on
+their own, but can be easily paired with another weapon you
+find along the way.  
+
+**Master of Death**  
+The Duelist’s Starting Upgrade options help her to deal
+out death, or avoid it altogether. With Dance of Death, she
+gets to roll an extra Combat die whenever she rolls a Critical
+Hit. This can turn a fairly basic Attack into a whirlwind of
+destruction. With Laughs at Death, she gets to use a D8 for a
+single Defense roll per turn (even getting to roll against a Hit
+that would ignore Defense), and if she needs to use a Revive
+Token, she has a great chance of not having to discard it.  
+
+### Soldier
+A stern veteran of
+warfare in Europe, the
+Soldier is a hardened
+warrior. He is heavily
+armored and equipped
+for combat, wading into
+hordes of Enemies that
+would crush a less seasoned
+fighter.  
+
+**Heavy Crossbow**  
+The Soldier is armed
+with a heavy Crossbow to
+punch through even the
+toughest defenses of his
+opponents. The Crossbow
+uses the D8 To Hit, giving
+him much better odds of
+getting Critical Hits. At the
+same time, he is the toughest of the group, with a high Health
+and heavy Conquistador Armor granting him an extra Armor
+5+ save against incoming Wounds.  
+
+**Veteran Mercenary**  
+Sanity from already experiencing the horrors of war up
+close, as well as a Grizzled Scowl letting him Re-roll one of his
+To Hit rolls each turn for free. The Mercenary Upgrade instead
+focuses on doubling the Gold you collect just for killing each
+Enemy, and giving you Grit back in a more consistent flow
+(which of course can also be taken as Ambition).
 
 ### Trederran Strike Team
 The Trederran Strike Team is an elite fighting squad of alien Special Forces soldiers, deployed on dangerous missions by the High Command of their Trederran Nation.  
