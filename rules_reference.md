@@ -3601,3 +3601,46 @@ Each Hero Class has a free Upgrade Bonus Chart. Whenever your Hero Levels Up, yo
 | Battle Plan<br>Use 2 Grit to give every Hero +1 Damage on their Attacks until the end of the turn (or +2 Damage while there are more than one Enemy Type on the board). | Never Gives Up<br>While KO’d, at the start of each turn, roll a D6. On the roll of 5 or 6, Heal D6 Wounds/Sanity (any mix) and stand back up, without rolling for Injury/Madness. | Use 2 Grit to make all of your Hits count as Critical Hits until the end of the turn or to allow one of your Hits to ignore an Enemy’s Tough or Endurance Ability. | Once per Fight, use 1 Grit to add Damage to one of your Hits, or Damage if you are at less than half Health. |
 | Long Arm of the Law<br>+1 Combat and +1 Strength and +1 Max Grit | Learning to Live With It | Judge, Jury and Executioner<br>+1 Max Grit +1 Initiative | Justice Never Sleeps<br>+1 Initiative and +2 Max Grit |
 | Standing Your Ground<br>Once per Adventure, Ready your Badge. At the start of your Activation each turn during a Fight, Recover a Grit on the D6 roll of 4, 5, or 6.<br>+1 Spirit | | | |
+
+
+# SHRINE
+
+Roll 2D6 to determine the **Location Event**:
+
+| 2D6 | Event | Description |
+| --- | ----- | ----------- |
+| 2 | Dragon Worshippers | The Monks here are not of the Brotherhood at all, but the Order of the Crimson Hand! As you struggle with the Dragon Inquisitor, make a Strength 6+ test. If passed, you seize the Artifact he was trying to use on you and dispatch him with it - Draw a Fortress Artifact card. If failed, he steals an Artifact from you!
+| 3 | Possession | Choose one Artifact you are carrying that he grabs (discard) before disappearing into the streets. Either way the Shrine is Destroyed and may not be visited for the rest of this Town Stay.
+| 4-5 | Dark Stone Altar | Overcome by a powerful, unseen force, one of the Brotherhood Monks crumples to the floor. Rising once again, he turns to you, stating into your soul. With a terible voice he rasps, Tou will all die here!
+| 6-8 | The Eternal Fight | The end has come... for you and your pitiful civilization? With that, he explodes in a shower of gore.
+Take 3 Horror Hits and any Sanity lost is permanent.
+| 9-10 | A Gift of Blessing |
+| 11 | Protective Shield |
+| 12 | Divine Fortitude |
+
+## Monk Rituals
+
+1. **Exorcism of Madness** (Cost: D6×$50) - Removes a chosen Madness.
+2. **Banish Corruption** (Cost: $100) - Removes D6-2 Corruption points.
+3. **Resurrection** (Cost: $500 > Hero Level) - Revives a Dead Hero.
+  
+## Blessed Auras
+
+1. **Aura of Shadows** (Cost: 1 Dark Stone) - Pass all Escape tests on the roll of 2+.
+2. **Aura of Fortitude** (Cost: 2 Dark Stone) - Gain Spirit Armor 5+.
+3. **Aura of the Yamabushi** (Cost: 2 Dark Stone) - Prevent all Damage from a single hit.
+4. **Aura of Wrath** (Cost: 3 Dark Stone) - Add +D6 Damage to a single hit.
+5. **Aura of Divine Light** (Cost: 3 Dark Stone) - Gain a Cover 4+ save against each Damage Source until the end of the turn.
+6. **Aura of The Guardian** (Cost: 3 Dark Stone) - Cancel a Status Effect marker on the D6 roll of 5+.
+
+## Purchase Items
+
+1. **Banishment Scroll** (Cost: $300)
+2. **Yamabushi Hat** (Cost: $800)
+3. **Balanced Ki Staff** (Cost: $1,200)
+4. **Divine Guardian Star** (Cost: $4,850 + 12 Dark Stone)
+
+## Folklore Tales
+
+1. **Consult the Old Texts** (Cost: Free)
+2. **Recentered Wrap** (Cost: $450)
