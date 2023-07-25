@@ -3635,3 +3635,35 @@ Take 3 Horror Hits and any Sanity lost is permanent.
 
 1. **Consult the Old Texts** (Cost: Free)
 2. **Recentered Wrap** (Cost: $450)
+
+
+## Side Bag Token Reference
+This is a list of every Side Bag token and the associated game rules and effects.   
+
+- **Bandages:** Discard to Heal D6 Wounds.  
+- **Whiskey:** Discard to Heal D6 Sanity.
+- **Dynamite:** Discard to throw as a Ranged Attack.  
+  - Range: Strength +3  
+  - If missed To Hit roll, bounces D3 times before exploding (see rules for bouncing).  
+  - Models in the target space and adjacent take D6 Wounds each, ignoring Defense.
+- **Bomb:** Discard to throw as a Ranged Attack.  
+  - Range: Strength +3  
+  - If missed To Hit roll, bounces D3 times before exploding (see rules for bouncing).  
+  - Models in the target space and adjacent take D6 Wounds each, ignoring Defense.
+- **Tonic:** Discard to Recover 1 Grit. 
+- **Dark Stone Shiv:**: 
+  - Free Attack: Discard to do D6 Wounds to an adjacent Enemy, ignoring Defense. 
+  - Restricted to keyword Performer Heroes only.
+- **Exotic Herbs:** Discard to Heal D3 Corruption Points.
+- **Fine Cigar:** Discard to gain Armor 3+ until the end of the turn.
+- **Potion:** Discard to add +2 to one of your Skills (Agility, Lore, etc) until the end of the turn.
+- **Hatchet:** Discard to throw as a Free Attack.  
+  - Range: Strength +3 
+  - Shots: 1
+  - +2 Damage 
+  - Although this is a Ranged Attack, use your Melee To Hit for the roll.
+- **Lantern Oil:** Discard to Re-roll one of the dice for a Hold Back the Darkness roll.
+- **Tequila:** Discard to Heal 2D6 Sanity Damage.
+- **Spice:** Discard to add D3 Damage to a single Hit. You also take 1 Wound, ignoring Defense
+
+
