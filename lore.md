@@ -89,6 +89,26 @@ that if humanity had any chance of survival, the Conquistadors and
 Aztecs would need to work together to hold back this Darkness from
 spreading out across the world.  
 
+Where most of Jargono is
+covered in a dense canopy of
+jungle swamps, the Valley of
+the Serpent Kings is a vast
+stretch of marshlands
+and rivers, nestled
+between winding
+mountainous
+ridges. Ruled
+over by the
+warring
+tribes of the
+Serpentmen
+and their
+powerful Kings,
+the valley is dotted with
+stepped pyramids, sacred
+temple courtyards, and golden cities of untold riches and
+danger.  
+
 
 ## Characters
 
@@ -195,6 +215,13 @@ Forged in the underworld from thunder and lightning, the Feljeagors are animated
 
 **Drowned Dead**  
 One of the main Enemies that Conquistador Heroes will face in the Valley of the Serpent Kings Brimstone Adventures Set are the ghastly and terrifying Drowned Dead that roam the halls of the Spanish Forts! These shambling horrors were once fellow Conquistadors; explorers that came before and have fallen into darkness. Their Corroded Armor hangs loose on their rotten bodies, dripping water and trailing shreds of seaweed and vines pulled from the swamps as they clawed their way back out of the jungle. Wielding Cursed Blades that spread fear and corruption, the Drowned Dead are an Endless Horde, crawling out of the shadows to overwhelm the living!  
+Tainted by the Darkness,
+the Drowned Dead are Spanish
+explorers from previous expeditions
+that have been corrupted, rising
+from their watery graves for
+revenge upon the living.  
+
 
 **Trolls**  
 One of the main Enemies that Viking Heroes will face in the Gates of Valhalla Brimstone Adventures Set are the monstrous and hateful Trolls of the Norse Lands! These hulking, Mythic Beasts live in the wild lands of the north, attacking nearby villages and ambushing unwary travelers to feed on. With jagged claws and a satchel of hefty boulders to throw, Trolls spread fear throughout the dark forests and icy crags they call home. Able to Regenerate even the most gruesome injuries, an angry Troll can be a terrifying foe to face, let alone a group of them.  
@@ -297,3 +324,12 @@ Targa Centurions attack in groups, relentlessly marching toward the Heroes in a 
 
 **Trederran MK IIs 'Lightning' Scout Tank**  
 Feared across the battlefields of Trederra, the Mk IIs "Lightning' Scout Tank rolls over trenches and rumbles down burnt out streets in search of the enemy. Grinding gears and plumes of black smoke bellow from the steel beast as it scouts ahead of an armored column, or lends its deadly firepower as infantry support to the Legionnaires. Though smaller than most of the massive tanks of Trederra, the Lightning is more maneuverable, and fueled by Dark Stone, it still packs a punch. It is one of the only Tanks routinely used for excursions into OtherWorlds when the mission calls for overwhelming fire support.  
+
+### Faction: Serpentmen
+
+**Temple Guard**  
+Massive and brutish Serpentmen, the Temple Guard
+are terrifying foes to behold. Trained from a hatchling in
+the ways of the ancient warriors, these hulking reptiles
+protect the sacred temples and shrines throughout the Valley
+of the Serpent Kings.  

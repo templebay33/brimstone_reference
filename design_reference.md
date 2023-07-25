@@ -206,10 +206,74 @@ Another unique aspect of the Creeping Shadows is their Living Darkness ability, 
 
 If these sound like a fun and dynamic Enemy to battle, encouraging tactical play... they are! And as part of this update, we wanted to give everyone the chance to start facing off against Creeping Shadows as an early Print and Play preview! This is easier to do because there are no models for these Enemies, so no proxy models are needed, just print out the cards, counters, and Enemy Record Sheet linked to below, and you can add these fun new Enemies to any game of Shadows of Brimstone.  
 
+### Carnivorous Plants
+Though they are
+Immobile, these man-eating
+plants use their long, animated
+vines to wrap around the
+Heroes and pull them in for
+the kill.  
+As the Carnivorous Plants are writhing
+masses of snapping mouths and twisting vines, they each attack
+all Heroes within 2 spaces, and may be attacked with Melee
+Attacks by Heroes from up to 2 spaces away. This means that
+at a distance, you may be safe (until they pull you in with their
+vines), but up close they will eat you alive.  
+
+### Temple Guard
+Temple Guard have Ceremonial Armor giving them extra
+protection from each Wound they might take (see page 27 for
+the rules on Armor for Enemies). They also wield powerful
+clubs to Crush intruders, ignoring a Hero’s Defense on their
+To Hit rolls of 6+ (note that this is similar to the Smash ability
+of Tentacles, but has an extra caveat in case the Temple Guard
+already ignore Defense).  
+Lastly, the Temple Guard‘s
+Gortek’a Training ability allows
+them to Re-roll their To Hit
+rolls of 1, even multiple times
+within the
+same Attack.
+This means
+that Temple
+Guard will
+never have a
+1 To Hit roll,
+as they will
+con t i nue
+to Re-roll
+it until it is
+not a 1.  
+
+### Croxin Beast
+Massive reptilian creatures, the Croxin are used by the
+Serpentmen as beasts of war. They have a thick hide giving
+them the Endurance ability to limit the amount of damage they
+can take from each Hit, and they have a brutal Smash letting
+their To Hit rolls of 6+ ignore Defense. This is especially
+deadly with their extra Tail Attack that they roll using a D8,
+after their normal Combat dice (this Tail can also get a Smash
+on a To Hit roll of 6+ on the D8).  
+But perhaps the most terrifying ability of the Croxin
+is its Tenacious (3). This grants it an extra +3 Combat
+on each consecutive Melee Attack targeting the same Hero.
+So if a Hero is targeted and Attacked by the
+Croxin, and then
+the Hero chooses
+not to Escape and
+move away on their
+Activation, the Croxin
+will get +3 Combat during
+its next Melee Attack on that
+Hero (or +6 on the third turn,
+etc). Note that the extra free
+Tail Attack is not affected by
+the Croxin’s Tenacious ability.  
+
 ### Dread Inquisitors
 The Dread Inquisitors are a fearsome group of Enemies. With Vicious Weapons that ignore Armor and have a Damage value equal to their To Hit roll, they can make quick work of even heavily-armored Heroes. Fueled By Dread, they can become formidable foes as they adjust their tactics based on how much Growing Dread the Heroes have collected up, and how much Dread the Heroes have already endured. This can give them a very different feel in battle, depending on how far into the Adventure they reveal themselves, or what type of Mission is being played.  
 
-But, perhaps the most dangerous aspect of the Dread Inquisitors is their manipulation of plagues and disease! These Crimson Hand Enemies use Bring Out Your Dead to place Rotten Corpse Tokens, spreading sickness and death, and unleashing Vile Plagues of terrifying pestilence on the Heroes. The Vile Plagues deck was first introduced in the Onmorake Deluxe Enemy Pack for Forbidden Fortress, but gets a burst of deathly new cards with the Dread Inquisitors!  
+But, perhaps the most dangerous aspect of the Dread Inquisitors is their manipulation of plagues and disease! These Crimson Hand Enemies use Bring Out Your Dead to place Rotten Corpse Tokens, spreading sickness and death, and unleashing Vile Plagues of terrifying pestilence on the Heroes. The Vile Plagues deck was first introduced in the Onmorake Deluxe Enemy Pack for Forbidden Fortress, but gets a burst of deathly new cards with the Dread Inquisitors!    
 
 ### Feljeagor Slayers
 Feljeagors are perhaps one of the deadliest enemies in the game,  dispatched to bring ruin on the world of men. Brutish suits of animated Thunderforged armor, they cannot be reasoned with or stopped. They continue to fight until they are literally smashed apart; and that is no easy feat. With a hefty Armor 4+ and Defense of 4, these constructs are terrifyingly durable. Their Slayer Axes have the potential to cut even the toughest of Heroes down to size. But one of  the main features of the Feljeagor Slayers is the bellowing roar of their Fel Horns, buffing themselves and all other Enemies around with Rage tokens that can give them extra Combat or allow them to shrug off damage. When the Thunderforged warriors march  to war, there can be no doubt that Ragnarok is upon us!  
@@ -218,6 +282,15 @@ Feljeagors are perhaps one of the deadliest enemies in the game,  dispatched to 
 As Drowned Dead are a common Enemy to encounter while exploring a Spanish Fort, the Valley of the Serpent Kings Adventures Set includes a set of Drowned Dead Trait Cards that are drawn from when a group of these shambling dead attack the Heroes, adding extra variety and challenge to your adventures.  
 
 A Trait Card is drawn for a group of Drowned Dead when they enter play to determine what variety of these undead explorers are taking part in the Fight. Each Trait Card tells what style of Drowned Dead they are (The Tower Guard, Watery Graves, etc.), includes additional stat modifiers and extra abilities they have, as well as any extra XP they are worth for the Heroes. This means you can face off against Drowned Dead again and again over the course of your adventures, and they always feel fresh and different…and scary!  
+As Undead monstrosities that rise up out of the water to
+shamble through the halls of the fort, Drowned Dead have
+the power to bring on additional models at the end of each
+turn with their Endless Hordes ability. Note that if there are
+not enough models to place, Endless Hordes
+does NOT add Elite abilities to the Enemy
+Group (as you might do if multiple Threat
+cards tried to spawn them without enough
+models).
 
 ### Trolls
 As Trolls are a common Enemy to encounter in the Norse Lands, the Gates of Valhalla Adventures Set includes a deck of 5 Troll Trait Cards that are drawn from when a group of Trolls attack the Heroes, adding extra variety and challenge to your adventures.  

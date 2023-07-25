@@ -153,6 +153,78 @@ Hero markers can be used for determining a Random
 Hero from the group. KO’d Hero markers are placed in the
 space where a Hero was KO’d.  
 
+## Hero Characters
+Each player must choose what type of Hero they want to play. These different Hero ‘types’ are called Classes. In some
+Adventure Sets, all of the Heroes included are from a single Hero Class - (Conquistador, Viking, etc.). However, the Hero
+Class is a ‘Team Hero’ Class meaning that it is a group of Heroes that all share a common background and basic abilities, but
+are further defined by having several different Sub-Classes (El Capitan, Duelist, Explorer, and Soldier). Each of these Sub-Classes
+is still considered a Conquistador Hero, but has a unique Character Sheet with all of its basic Skills, Abilities, and Starting Gear
+listed on it. Below is a list of the different elements of
+a Hero Character Sheet:
+
+### Hero Class and Sub-Class
+A character’s Hero Class is the main thematic defining
+factor for their Skills and Abilities. The Sub-Class for a Team
+Hero further defines the theme that sets them apart from other
+Heroes of that Class.  
+
+### Keywords
+A Hero’s Keywords are traits of that character. They do
+not have any inherent meaning, but are referenced by other
+cards and Abilities (often as restrictions for certain Items).  
+
+### 'To Hit' Values
+What the Hero needs to roll on their dice to hit Enemies
+when making an Attack. There are two different To Hit values,
+one for Ranged Attacks and one for Melee Attacks.  
+
+### Combat
+The base number of dice that the Hero gets to roll when
+making a Melee Attack, even if they have no weapons.  
+
+### Max Grit
+The max number of Grit the Hero can have at one time.  
+
+### Skill Attributes
+There are 6 different Skills that every Hero has, Agility,
+Cunning, Spirit, Strength, Lore, and Luck. These Skills are
+used for making tests during the game.  
+
+### Initiative
+Initiative determines how quick a character is and how
+early in the turn they get to Activate. Each turn models are
+Activated in Initiative order, from highest to lowest.  
+
+### Abilities
+Every Hero Class has one or more special Abilities that
+are an important part of being that Hero Class. These Abilities
+are not always beneficial, but fundamentally effect how the
+Hero plays.  
+
+### Starting Items
+Gear that any character of that Hero Class/Sub-Class starts
+their adventuring career with.  
+
+### Health
+A representation of the Hero’s physical well being. Health
+is reduced by taking Wounds. If your Health is ever reduced
+to 0, you are KO’d.  
+
+### Defense
+Any time the Hero takes one or more Hits, they may
+use their Defense as a saving roll against each Hit to prevent
+taking Wounds.  
+
+### Sanity
+Sanity is just like Health, but for the Hero’s mental well
+being. Sanity is reduced by taking Sanity Damage. Just like
+Health, if your Sanity ever reaches 0, you are KO’d.  
+
+### Willpower
+Just like Defense is to Health, Willpower is a saving roll
+for Sanity to prevent taking Sanity Damage or Corruption.  
+
+
 ## Depth Track
 The Depth Track represents the general path of the Heroes and tracks how deep the Hero Party has journeyed into the wild, and how close the Darkness is to escaping and wreaking havoc on the countryside (resulting in failure for the Heroes). At the start of the game, the Hero Party marker is placed at the Entrance space on the far left of the track, while the Darkness marker is placed on the Darkness Start space on the far right.  
 
@@ -1492,3 +1564,1529 @@ even with every space filled (which is rather rare), overflow
 models should be placed onto the Map Tile connected to
 the Entrance of the Room (most likely filling in around the
 Heroes) until they have all been placed.
+
+### Not Enough Models
+If you are called on to place more Enemies of a particular
+Enemy Type than you have models available (for instance, you
+must place 2 Temple Guard, but you only have 1 model as the
+rest are already on the board), place all of the models that you
+do have available, and ALL Enemies of that Type gain a free
+Elite ability for the duration of this Fight.  
+
+### Elite Enemies
+Sometimes the Heroes will encounter a particularly nasty
+group of Enemies that are stronger, tougher, or more dangerous
+than normal. This is represented by Enemies having one or
+more Elite abilities.  
+When a group of Enemies is Elite, you must roll once on
+the Elite Chart at the bottom of the Enemy’s Record Sheet to
+see what extra ability they have. This Elite ability is applied to
+ALL Enemies of that Type for the duration of the Fight (so if
+you have 4 Tentacles on the board and 2 more show up that are
+Elite, all Tentacles on the board will get the Elite ability rolled).
+You may place a marker or die on the Enemy Record Sheet to
+keep track of which Ability they have gained (1-6).  
+It is possible, especially as Heroes gain experience and go
+up in Hero Level, that a group of Enemies may have more
+than one Elite ability (double Elite or even triple Elite, etc).
+This just means that you must roll multiple times on the Elite
+Chart to see what abilities those Enemies have. If the same
+Elite ability is rolled more than once, Re-roll (unless noted
+otherwise in the text of that Ability).  
+There is a bonus to fighting Elite Enemies, however, in
+that Elite Enemies are worth +5 XP for each Elite Ability they
+have.  
+
+## Ambush Attacks
+Sometimes an Enemy Attack will be listed as an Ambush
+Attack. This means that the Enemies have surprised the
+Heroes and are able to spring from the shadows to attack.  
+In an Ambush Attack, instead of being placed in the
+standard checkerboard pattern at the back of a room, Enemies
+are placed directly adjacent to the Heroes! If there are different
+Initiatives with the Enemies being placed in an Ambush Attack,
+the Enemies with the highest Initiative are placed first (so that
+the faster Enemies have priority on selecting targets).  
+Ambushing Enemies are placed adjacent to
+the Heroes and gain +2 Initiative during the first
+turn of the Fight.  
+If a new group of Enemies is placed by Ambush while a
+Fight is already going on, the new Enemies get the +2 Initiative
+during the first turn of the Fight they are involved in, as do any
+other Enemies already in the Fight that are the same specific
+Type as the Ambushers (Tentacles, Drowned Dead, etc).  
+
+### Enemy Placement
+To determine exactly where the Ambushing Enemies are
+placed, start with the highest Initiative group of Enemies and
+place one model in any space adjacent to a Random Hero.
+That Enemy is said to be targeting that Hero to attack.  
+The next Enemy model is placed in any space adjacent
+to a Random Hero with the least number of Enemies of that
+Type targeting it and has at least one open space adjacent to
+it. In this way, the Enemies are placed to be evenly spread,
+targeting all of the different Heroes (though some Heroes will
+likely have more Enemies placed adjacent to them than others,
+due to limited open spaces). This process continues until all of
+the Ambushing Enemies are placed targeting Heroes.  
+Any Enemies that cannot be placed adjacent to a Hero,
+due to lack of open spaces, are placed as close to the Heroes
+as possible. These Enemies are not considered to be targeting
+any specific Hero, yet.  
+
+### Enemies Appearing Mid-Turn
+On rare occasion, a new group of Enemies will Ambush
+Attack during the Models Activate in Initiative Order portion of
+the turn, usually by way of a Hero Scavenging and finding a
+Darkness card. When this happens, the Enemies are placed
+and the current turn immediately ends! A brand new turn
+begins, starting the Fight. Note that this is not the case if
+Enemies Ambush during the Hold Back the Darkness phase, as
+the Activating of models has not yet started.  
+
+## Turns During a Fight
+Turns work much the same during a Fight as they do
+when Enemies are not on the board, the main difference is
+that the Enemies get to Activate as well as the Heroes. Also,
+the Heroes will actually be attacking during their Activation,
+instead of just moving and exploring.  
+
+Enemies get to Activate first if their Initiative
+is tied with a Hero.  
+
+All Enemies of a specific Type (such as Tentacles or Temple
+Guard) are Activated at the same time, as a group. If more
+than one Enemy Type have the same Initiative, roll randomly
+between them each turn to see which gets to Activate first.  
+When a Type of Enemies is Activated, they will get to
+Move and Attack just like a Hero would; they just get to do so
+as a group. This is covered in detail below.  
+
+### Fear, Terror, and Unspeakable Terror
+Some especially scary creatures will cause Horror Hits
+on Heroes just for being near them! These Enemies have an
+Ability called Fear (x), Terror (x), or Unspeakable Terror
+(x), and are defined on the Enemy’s Record Sheet.  
+Fear does Horror Hits to adjacent Heroes, Terror does
+Horror Hits to Heroes that are on the same Map Tile as it,
+and Unspeakable Terror does Horror Hits if the Hero is on the
+same or even adjacent Map Tile to the creature. The (x) is the
+number of Horror Hits done.  
+These abilities can be very effective at reducing a Hero’s
+Sanity, as they stack up for each Enemy that causes them, and
+they do the Horror Hits every turn as long as the Enemy is
+alive.  
+Note that Horror Hits only do 1 Sanity Damage each
+unless specifically noted as doing more on the card or ability.  
+
+### Hero Movement During a Fight
+Heroes move normally during a Fight, with one exception.
+If a Hero ever has an Enemy in an adjacent space to them,
+the Hero must first try to Escape before starting or continuing
+to move.
+
+**Escape Tests**  
+Every Enemy has an Escape value listed on their Record
+Sheet. When a Hero is adjacent to that Enemy and wants to
+move, they must first roll an Escape Test.  
+To make an Escape Test, roll a D6. If the result is equal
+to or higher than the Enemy’s Escape value, the test is passed
+and the Hero may move for the rest of this turn ignoring any
+adjacent Enemies that have that Escape value or lower.  
+For example, if a Hero is adjacent to an Enemy with a 4+
+Escape value, they must roll a 4, 5, or 6 on a D6 to be able to move.
+Once they do, however, for the rest of the turn, that Hero may move
+past any adjacent Enemy with an Escape value of 4+, 3+, or 2+.  
+If the Hero becomes adjacent to another Enemy with a
+higher Escape value (ie - 5+ or 6+ in the previous example),
+they must stop their move and make a new Escape Test with
+the higher difficulty to keep going.  
+
+**No Searching or Room Exploration**  
+As noted in the section on Hero Movement, Searching
+and Room Exploration may not be done during a Fight (this
+includes Scavenging as the Heroes are a little busy).  
+
+### Hero Attacks
+After a Hero has moved, they are allowed to make one
+Attack. This can be a Melee Attack using their basic Combat
+value, or a Ranged Attack using a Ranged Weapon like a
+Crossbow or Gun.  
+
+**Melee Attacks**  
+Every Hero has a built-in Melee Attack available to them
+in the form of their Combat value. This represents the Hero
+punching, kicking, or using simple improvised weapons. A
+Melee Attack uses the Hero’s basic Combat value, which is
+usually 2, as well as any bonuses they may have from Items or
+Abilities. A Melee Attack may only target adjacent Enemies,
+so you will need to get up close to use it.  
+
+A Hero’s Combat value is the number of dice
+they get to roll when making a Melee Attack.  
+
+A Hero can use any number of Items and Abilities they
+have to add bonuses to their Melee Attack as long as they
+observe all relevant restrictions (such as having no more than
+2 {One Handed} worth of Items equipped, etc).  
+
+**Ranged Attacks**  
+Ranged Attacks are provided by a Ranged Weapon the
+Hero has, such as a Bow or Gun. These Items are listed as
+having a Range as well as a number of Shots.  
+Range is the number of spaces away that an Enemy can
+be and still be hit by the Attack.  
+Shots is the number of dice the Hero gets to roll for a
+Ranged Attack made with that Weapon.  
+
+**Roll 'To Hit'**  
+Every Hero has two different ‘To Hit’ values listed on
+their Character Sheet - Melee To Hit and Ranged To Hit. Melee
+To Hit is used when making a Melee Attack and Ranged To
+Hit is used when making a Ranged Attack.  
+The Hero rolls their dice and each roll that is equal to or greater than their appropriate ‘To Hit’ value counts as one Hit.
+Any dice that rolled a 6+ counts as a Critical Hit and gets a
+special bonus when rolling for Damage.  
+
+**Assigning Hits**  
+After all of the Hero’s dice have been rolled and the
+number of Hits determined, the Hero is allowed to assign
+those Hits, one at a time, to any Enemies within Range.  
+
+Hits may always be assigned and resolved
+one at a time, or in groups. It is your choice.  
+
+For Melee Attacks, Hits may only be assigned to adjacent
+Enemies.  
+
+For Ranged Attacks, Hits may be assigned to any Enemies
+within the Range of the Weapon and within the Hero’s Line
+of Sight. However...  
+
+If there are Enemies adjacent to you, you
+must always assign and resolve Ranged Hits
+against them first.  
+
+If your initial Hits kill all Enemies adjacent to you, you
+may then begin assigning subsequent Ranged Hits to other
+Enemies.  
+
+### Line of Sight
+To be able to see an Enemy and assign Hits to them,
+you must be able to draw a straight line from the center of
+the Hero’s space to the center of the target’s space without
+it crossing a Wall (the thick black border of the Map Tiles).
+Only Walls block Line of Sight; other models have no effect
+on it.  
+
+### Line of Sight Example
+Since this is a text only example with no visual diagrams, let's imagine a Map Tile on the table with each space number and display as below as columns and rows:  
+```
+         |11|12|
+|13|14|15|16|17|18|19|  
+   |20|21|22|23|24|25|  
+         |26|27|  
+         |28|29|  
+```
+
+In addition to the layout of the map tile diagram above:  
+  - The Hero is in space 28.
+  - Enemy A is on space 18.
+  - Enemy B is on space 25.
+  - The northeast corner of space 17 is blocked by a wall.
+  - The southeast corner of space 23 is blocked by a wall.
+
+In this example, the Hero would have Line of Sight to Enemy A but line of sight to Enemy B would be blocked.  
+
+### Rolling for Damage
+Each successful Hit that the Hero scored on an Enemy
+does D6 Damage to that Enemy. These Damage rolls are
+made separately for each Hit (though all Damage rolls for Hits
+assigned to a single target may be rolled together so that the
+Hero may use 1 Grit to Re-roll any number of them).  
+
+### Enemy Defense
+Enemy Defense works a little bit differently than Hero
+Defense. Instead of being a saving roll that
+the Enemy gets (which would be a little
+cumbersome), an Enemy’s Defense value is
+simply subtracted from the Damage that each
+incoming Hero Hit would do. The remaining
+Damage after Defense is the number of
+Wounds actually done to that Enemy.  
+So, for example, if a Hero scores 2 Hits and rolls a 3 and a 5 for
+Damage, an Enemy with Defense 3 would take a total of 2 Wounds
+(Damage 3 - Defense 3 =0 and Damage 5 - Defense 3 =2).  
+
+### Critical Hits
+As noted above, any Hero To Hit rolls of 6+ count as
+Critical Hits! These special Hits allow you to ignore an
+Enemy’s Defense and apply all of the Damage that Hit does
+directly to the Enemy’s Health. This can be very powerful,
+allowing you to wound or kill an Enemy, even if it has a fairly
+high Defense value.  
+
+### Wounding and Killing an Enemy
+When a Hero does one or more Wounds to an Enemy,
+Wound markers should be placed by that Enemy model to
+track how much damage it has taken. These Wounds stay on
+that Enemy until it is killed.  
+An Enemy is killed as soon as it has a number of Wounds
+equal to its Health. When an Enemy is killed, it is immediately
+removed from the board and the Hero that caused the last
+Wound gains XP.  
+
+### Enemies with Armor
+Some Enemies have an ability that gives them Armor (Note
+that the ‘Armor’ ability is different from normal ‘Defense’).
+Applying damage to an Enemy with Armor requires an extra
+step. After you have determined how much Damage a Hit has
+done to the Enemy, and subtracted the Enemy’s Defense value,
+you must then roll an extra D6 for each individual Wound you
+are about to cause. For each roll that is equal to or higher than
+the Enemy’s Armor value, that Wound is prevented.  
+For example, a Hero does 2 Hits to an Enemy model that has
+Defense 4 and Armor 5+. The Damage rolls for those 2 Hits are 5
+and 6. This would normally cause 3 Wounds total to the Enemy (5 -
+Defense 4 = 1 Damage, and 6 - Defense 4 = 2 Damage, for a total
+of 3 Damage). But before the Damage is applied, the player must
+roll 3 dice for the Enemy’s Armor (one for each individual point of
+Damage). For each roll of 5 or 6 (Armor 5+), that individual Wound
+is prevented by the Armor.  
+
+### Collecting XP
+Every Enemy has an XP value listed on its Record Sheet,
+just below its Health. For smaller Enemies, this XP value is
+the amount of XP gained by a Hero that kills it (causes the last
+Wound which removes it from the board).  
+For larger Enemies, this XP value works a bit differently
+and is marked as a Base number of XP ‘+5 Each’. For these
+larger Enemies, Heroes gain XP just for Wounding them. This
+allows all of the Heroes to get XP for doing their part in helping to take down a larger creature.  
+During a Hero’s Attack, the Base XP is gained once if the
+Hero does any Wounds at all to the Enemy model, and the ‘+5
+Each’ is gained for each Wound done to that Enemy model
+across all of the Hero’s Hits during the Attack.  
+For example, if a Hero scores 2 Hits on a large Enemy with
+‘10XP +5 Each’ as its XP value, and those Hits do 2 Wounds and 4
+Wounds after the Enemy’s Defense, the Hero would gain a total of
+40 XP (10 XP for Wounding the target as well as +5 XP for each of
+the six Wounds actually caused: 10+30 = 40 XP).  
+As noted earlier, Elite Enemies are worth +5 XP per Elite
+ability they have. This is only added to the base XP value for
+larger Enemies that give XP per Wound.  
+
+### Free Attacks
+Some cards and abilities give
+a Hero a Free Attack. A Free
+Attack is a special type of Attack
+that a Hero may use during their
+Activation, and is in addition
+to their normal Attack. It can
+be made either before or after
+making a normal Attack.  
+
+No more than 1 Free
+Attack may be made by a
+Hero in a single turn.  
+
+A Free Attack is Exhausted when used
+(unless discarded)and lists in ( ) how often it may be used
+(that is, when the player may Ready the Item or Ability that
+grants the Free Attack). This is usually Once per Fight or Once
+per Adventure.  
+Free Attacks are always listed as either a Ranged Attack
+or Melee Attack.  
+Ranged Free Attacks have a Range as well as number of
+Shots used for the Attack.  
+Melee Free Attacks have a listed Combat value that is
+used instead of the Hero’s Combat value. They do NOT gain
+any Combat bonuses or modifiers that would normally affect
+the Hero’s Melee Attacks, such as those granted by other Hand
+Weapons that are equipped.  
+
+### Throwing a Bomb or Dynamite
+A Hero may throw a Bomb or Dynamite Token as a
+Ranged Attack. The Range of the throw is up
+to the Hero’s Strength +3 and it may be thrown
+at ANY space in Range as long as the Hero has
+Line of Sight to that space (even if
+Enemies are adjacent to the Hero).  
+Roll once To Hit. If successful,
+the Bomb lands in the targeted space
+and explodes. If the To Hit roll was
+missed, the Bomb will instead Bounce
+D3 times in Random Directions before
+exploding. Use the D8 to determine
+the direction of each space the Bomb
+Bounces into.  
+When the Bomb explodes, it does
+D6 Wounds, ignoring Defense, to each model in the same
+and adjacent spaces to it. Roll the Damage for each model
+separately.  
+
+Since the Bounce Diagram image for Bombs and Dynamite cannot be shown, the direction of a Bounce using a D8 can be easily mapped to cardinal directions in a text description. The direction of each Bounce according to each possible D8 result is:  
+1. NW
+2. N
+3. NE
+4. E
+5. SE
+6. S
+7. SW
+8. W
+
+## Enemy Movement
+When a Type of Enemy is Activated, they get to Move and
+then Attack as a group.  
+
+### Activating an Enemy Type
+As discussed above, all of the Enemies of a specific Type
+are Activated together when their Initiative comes up in the
+turn order. When Activated, the first thing that the Enemies do
+is to Target Heroes and move towards them to Attack.  
+
+### Targeting Heroes and Movement
+Though all of the Enemies of a specific Type are Activated
+together, they choose their targets and move one at a time,
+starting with the Enemy model that is closest to the Heroes. If
+more than one are at equal distance to the nearest Hero, you
+may choose the order that they are moved in.  
+The first Enemy model targets a Random Hero that they
+can reach - within their Move distance (printed on the Enemy
+Record Sheet) and with a clear path to get there. That Enemy
+is said to be targeting the selected Hero to Attack and is moved
+as far as it can be to a space adjacent to that Hero. This will
+usually have the Enemy move to the far side of the Hero,
+getting in behind them and making way for other Enemies.  
+It is often a good idea to have the Enemy models physically
+turned to face the Hero they are targeting so that it is very clear
+where each Enemy is placing its Attacks.  
+Then, the next closest Enemy model will target a different
+Random Hero with the least number of Enemies of that Type
+targeting it and is within reach. In this way, the Enemies are
+moved to be evenly spread, targeting all of the different Heroes
+(though some Heroes will likely have more Enemies reach
+them than others, due to paths being blocked or not enough
+movement). This process continues until all of the Activating
+Enemies have been moved.  
+Any Enemies that cannot reach a Hero will move as far
+as they can toward the nearest Hero. These Enemies are not
+considered to be targeting any specific Hero yet.  
+
+### Staying on Target
+Once an Enemy targets a Hero, it will continue to target
+and attack that Hero until they are KO’d or until the Hero is
+no longer adjacent. Enemies do NOT change target based on
+who is attacking them.  
+
+### Choosing a New Target
+If the Hero being targeted by an Enemy moves away or is
+KO’d, at the start of the Enemy’s next Activation it will select a
+new Hero using the same process described above.  
+In this way, if a Hero is feeling overwhelmed, they can
+always try to Escape and run away in the hopes that the
+Enemies targeting them will choose a new and different target
+during their next Activation.  
+
+### Large Enemies
+Large Size Enemies have a special built-in ability to brush
+aside and push past smaller Enemies to reach the Heroes.
+Whenever a Large Size Enemy (or bigger) is selecting a
+target Hero, they may move through other Enemies that are
+Medium or Small Size that would normally block their path.
+As the Large Enemy moves, it may enter a Medium/Small
+Enemy’s space, displacing that smaller Enemy into the space
+that the Large Enemy just left. In this way, the Large Enemy
+swaps places with the smaller one to push past it and get closer
+to the Hero.  
+Large Enemies may displace any number of Small/
+Medium Enemies like this during their move to reach their
+target Hero. They may not, however, displace other Large
+Size Enemies or Heroes to reach their target.  
+
+## Enemy Attacks
+Once all of the currently Activating Enemies have targeted
+a Hero and been moved, it is time for each of them to Attack!  
+
+### Rolling 'To Hit'
+Rolling To Hit for Enemy Attacks works just like it does
+for a Hero Attack. The only difference is that Enemies DO
+NOT get Critical Hits on rolls of 6+. Some Enemies do,
+however, have special Abilities which might be triggered by
+To Hit rolls of 6+ (such as Tentacles with their Smash Ability).  
+Each Enemy rolls a number of dice equal to their Combat
+value against the Hero it is targeting. Every die that successfully
+rolls equal to or greater than the Enemy’s ‘To Hit’ value causes
+one Hit on the Hero.  
+Note that as the game itself is playing the Enemies, it is
+up to other players to actually roll the dice for the Enemies’
+Attacks. A player should not roll the Enemy Attacks on their
+own Hero (that would be bad form). Instead, one of the other
+players should roll the dice for the Enemy Attacks against you.
+It is usually good to simply always roll the Enemy Attacks
+against the player to your left, or to just exchange (“I’ll roll the
+Enemy Attacks on you and you roll the Attacks against me”).  
+As a general rule, all of the Attacks on a Hero from
+models in the current Enemy Group should be rolled at the
+same time (as one big group of dice).  
+
+### Hero Defense Rolls
+For each Hit a Hero takes, they must make a Defense roll
+to attempt to block it.  
+If Attacked by multiple models from the same Enemy
+Group, it is recommended that the Hero rolls all of their
+Defense dice at the same time (to speed up game play and
+allowing you to Re-roll all of your missed Defense rolls for
+those Attacks with a single Grit).  
+
+### Taking Damage
+For each Hit that the Hero failed to block with their
+Defense, they take a number of Wounds equal to the Enemy’s
+Damage value.  
+
+## Completing a Fight
+Once all of the Enemies on the board have been defeated,
+the Fight immediately ends and it is time for the Heroes to
+Catch Your Breath, Recover from being KO’d, and collect Loot
+for the Fight.  
+
+This immediately ends the current turn, as
+well as the Fight itself.  
+
+### Catching Your Breath
+Each Hero is allowed to Catch Your Breath at the end of
+every Fight, Healing D3 Wounds/Sanity (any mix).  
+If the Fight ended before a Hero got to Activate, or take
+any Actions, that Hero instead gets to Heal D6 Wounds/
+Sanity (any mix) or Recover 1 Grit. This is an extra bonus for
+each Hero that didn’t get an Activation in the last Fight round.  
+
+### Recovering From Being KO'd
+Any Hero that was KO’d during the Fight now gets to
+Recover, placing their figure back on the board and Healing 2D6 Wounds/Sanity (any
+mix) They do, however, also need to roll
+once on the Injury Chart or Madness Chart
+(Injury if their Health was reduced to 0,
+Madness if their Sanity was reduced to 0). This represents
+any long-lasting effects of being KO’d.  
+In the event that both a Hero’s Health and Sanity were
+reduced to 0 at the same time, they must roll an Injury and a
+Madness, but they are allowed to Heal 2D6 Health and 2D6
+Sanity.  
+
+### Drawing Loot Cards
+After a Fight, the Heroes get Loot for their hard work.  
+
+At the end of a Fight, every Hero is allowed
+to draw one Loot card for each Threat card that
+added Enemies to the Fight (to a max of 3 Loot
+Cards each).  
+
+This also includes each instance of Enemies that were
+added to the Fight by other means, such as a Darkness or
+Encounter card, or the Depth Event chart.  
+The Loot Deck has no discard pile and should be fully
+shuffled before the Heroes draw one or more cards from it.
+All of the Heroes draw from the Loot Deck at the same time.
+If there are not enough Loot cards to cover all of those that
+need to be drawn by the Heroes, the Loot Deck would need to
+be shuffled before the remaining Heroes could finish drawing.  
+
+### Dark Stone and Gold
+Dark Stone and Gold are
+the two main currencies of
+the game and are the most
+common reward that can be
+found in the Loot Deck.  
+Gold represents a mixture
+of coins and raw ore that can
+be found on an Adventure.
+The Gold prices listed on Items
+are meant to reflect the abstract
+nature of having a generalized
+‘money’ currency and the overinflated
+economy of a region
+engulfed in chaos, where equipment is in
+short supply.  
+Gold is really only used when keeping Heroes from
+game to game and can be spent when visiting Camp between
+Adventures. Dark Stone is mainly used for the Campaign
+game as well, for forging Items and Upgrades in Camp,
+though several Items and abilities are fueled by Dark Stone
+even during an Adventure.  
+
+## Enemy Behavior Special Rules
+
+### Shootout
+Models with Shootout will generally
+attempt to stay back, away from the
+Heroes, and attack them from a distance.
+The rules for Shootout are summarized on
+the Shootout Reference card, but are also covered
+here in greater detail. 
+
+**Ambushing**  
+When a group of Enemies with the
+Shootout Standard Ability needs to be placed
+in Ambush, they are not placed adjacent to
+the Heroes like other Enemies. Instead, select
+a Random Hero and place all of the Shootout Enemies from
+that group on the selected Hero’s Map Tile, as far from any
+Heroes as possible. This usually allows them to sneak in from
+a side passage or get placed at the end of a hall or room,
+maybe even behind the Heroes. If there are not enough empty
+spaces on that Map Tile, any remaining Enemies are placed as
+far from the Heroes as possible on any Map Tiles adjacent to
+the selected Hero.  
+
+**Retreating**  
+When an Enemy with Shootout starts its Activation
+adjacent to one or more Heroes, it will usually try to move
+away. Roll a D6 for the Enemy model. On the roll of 4, 5,
+or 6, the Enemy immediately makes a Free Move along the
+shortest distance to no longer be adjacent to any Heroes. This
+Free Move is outside of the Enemy’s normal Move and does
+not count against its Movement allowance for the turn.  
+
+**Melee Attacks**  
+Any Shootout Enemy that failed to Retreat (or was stuck
+adjacent to a Hero, and could not move away), will make a
+normal Combat Attack against a Random adjacent Hero this
+turn, instead of their Ranged Attack.  
+
+**Shootout Markers**  
+hootout markers are used to denote which
+Heroes have been targeted, and by how many
+Enemy Ranged Attacks. Any suitable markers can
+be used for this. Shootout markers are a simple
+way to keep track of which Heroes have already been
+targeted, and by how many of the Enemies.  
+
+**Targeting**  
+After any Retreat moves, the Shootout Enemies that
+are not adjacent to a Hero, will each find a Target for their
+Ranged Attacks. Step through the Shootout Enemies, one by
+one, completing the following procedure for each of them.  
+Select a Random Hero that does not have a Shootout
+marker on him yet (or that has the fewest Shootout markers
+if all Heroes already have one) and move the shortest distance
+to get within Range and Line Of Sight to that Target. The
+Enemy may not end its Move adjacent to any Heroes. The
+Enemy MAY move through other Enemies from its group
+during this movement, as they make way for one another.  
+At the end of this Move, if the selected Target is within
+Range and Line Of Sight, place a Shootout marker on that
+Target. If not, select a new Random Hero that is currently
+within Range and Line Of Sight to the Enemy (prioritizing
+those with the fewest Shootout markers) and place a Shootout
+marker on him instead.  
+Then proceed to the next Enemy in the group.  
+
+**Making Ranged Attacks**  
+Once all of the Enemy Group has moved and
+placed their Shootout markers, roll Ranged Attacks
+from the Enemies against each Hero equal to
+the number of Shootout markers on that Hero.
+Then, remove all of the Shootout markers.  
+
+## Advanced Rules
+The following are Advanced Rules that are meant to be integrated into the game after you are comfortable with the basics
+and want to add in the rest of the game features. These mainly include the Epic Threat boss enemies, the Campaign system of
+keeping Heroes from game to game, and stepping through gateways to OtherWorlds!  
+
+### Epic Threats
+Epic Threat cards represent much larger
+and deadlier boss Enemies that are rare to
+come across and hard to defeat. These are
+most often used only for final Objective
+Room fights as noted in the details of each
+individual Mission.  
+
+**1 or 2 Heroes**  
+With Hero Parties of only 1 or 2
+Heroes, anytime an Epic Threat would be
+needed, draw a High Threat card instead. Fighting the
+massive boss Enemies often found on Epic Threats can be
+overly difficult for only 1 or 2 characters to handle. Of course,
+if you are ambitious, you can use Epic Threats anyway, but
+you have been warned!  
+
+## Status Effect Markers
+Sometimes an Encounter or Enemy Attack will continue
+to affect a Hero for some time after the initial event. These
+effects are represented by Status Effect markers which are
+placed on a Hero and have on ongoing effect.  
+
+### Poison
+Poison is a deadly and long lasting effect that can wear a
+Hero down over time. A Hero may gain 1 or more
+Poison markers from Encounters, Enemy attacks, or
+even environmental effects; such as moving through
+a cloud of toxic gas.  
+Every turn in which a Hero has one or
+more Poison markers on them at the start of their
+Activation, they must roll a D6 for each Poison marker
+they currently have. On the roll of 1 or 2, the Hero takes 1
+Wound, ignoring Defense (as well as any Armor/Shield). On
+the roll of 3, 4, or 5, there is no effect for that marker. On the
+roll of 6, the Poison has worn off and the marker is discarded.
+If a Hero is KO’d (or at the end of the Adventure), all Poison
+markers on them are automatically removed.  
+
+### Bleeding
+Bleeding markers represent deep wounds or particularly
+nasty burns by acid or steam. For each Bleeding marker
+a model has, it is -3 Health. Note that because this
+is a negative modifier to the model’s actual Health
+value, it cannot be Healed like Wounds.  
+A Hero may
+spend a Grit at any
+time to remove a
+Bleeding marker (note
+that Ambition may
+NOT be used for
+this).  
+
+## Immobile Enemies
+Though not very common, some Enemies have an Ability
+that makes them Immobile, meaning that they cannot move.
+Immobile Enemies usually will either have a Ranged Attack
+to use against the Heroes, or be a Spawner, generating new
+Enemies for the Heroes to fight until the Spawner can be
+destroyed.  
+
+### Ambush with Immobile Enemies
+When placing Immobile Enemies during an Ambush
+Attack, roll a Random Hero’s Map Tile and place the Immobile
+Enemies on that Map Tile in spaces that are as far from any
+Heroes as possible (not in the standard Checkerboard fashion).
+It is assumed that they were already there and that the Heroes
+did not see them until it’s too late.  
+Ambushing Immobile Enemies should be placed before
+any other Enemies.  
+
+### Escaping From Immobile Enemies
+While Immobile Enemies are the only Enemies on the
+board, Heroes may Explore (Look Through Doors and
+Scavenge) during the Fight. At the start of any turn, remove
+any Immobile Enemies from the board that are not within 18
+spaces of a Hero. These Enemies do not count as having been
+defeated and no XP or Loot card is gained from them.  
+In this way, the Heroes may decide to escape from
+Immobile Enemies rather than stay to fight them.  
+Note that, because many Immobile Enemies are Spawners,
+as soon as an Enemy model is Spawned onto the board that
+is not Immobile, the Heroes lose the option to Explore and
+escape like this until that new Enemy model is defeated.  
+
+## Immune To...
+Sometimes a model will be Immune to a certain type of
+Damage, Critical Hits, or even particular types of Status Effect
+markers.  
+
+### Immune to <Keyword>
+If a model is Immune to a certain Keyword (such as Fire
+or Weather), that means that the model may ignore all of the
+effects and Damage from any Source that is using an ability or
+Item with that Keyword.  
+
+### Immune to Critical Hits
+Some Enemies have the Tough ability, making them
+Immune to Critical Hits. For these models, Critical
+Hits from a Hero do not ignore the Enemy’s Defense,
+though any other special bonuses triggered for rolling a
+Critical Hit may still take effect.  
+
+### Immunity and Status Effect Markers
+If a model is Immune to a certain type of Status Effect
+marker, that means that markers of that type are never placed
+on that model.  
+
+## Extra Large Enemies
+Some Enemies are so large and menacing that they take
+up multiple spaces on the game board! These are usually boss
+creatures and are part of an Epic Threat Fight.  
+
+### Extra Large Base Size
+Extra Large Size Enemies actually take up four spaces on
+the board in a 2x2 square. When one of these Enemies is being
+placed on the board, it uses a single one of its four spaces as
+the anchor space for placement and should be positioned so
+that the rest of the base is placed into spaces that are viable and
+have no other models in them.  
+
+### Movement
+When moving, once again the Enemy uses a single one of
+its four spaces as an anchor space for counting movement and
+distance to a Hero.  
+Just like Large Size Enemies, an Extra Large Enemy may
+brush aside and push past any Small or Medium Size Enemies
+in its way, swapping spaces with them as it goes (it just usually
+moves them two spaces back, instead of one, to account for its
+larger base size).  
+
+### Overflowing the Board
+In some cases, the only way for an Extra Large Enemy
+to reach a Hero is to smash through the walls to get to them.
+This is called Overflowing the Board and allows the Enemy to
+hang off the edge of the Map Tiles to fit into a smaller space
+than their base would normally allow. The Enemy must keep
+at least half of its base on the board at the end of its move.  
+
+### Area Effect and Extra Large Bases
+Even though an Extra Large Enemy takes up multiple
+spaces on the board, they are only ever affected once by
+weapons and abilities that target an area (like a Bomb for
+instance). Even if the explosion would cover two or more
+spaces that the Enemy base is in, the Enemy is still only
+affected by it once.  
+
+## Enemy Ranged Attacks
+Some Enemies have Abilities that give them a Ranged
+Attack to battle the Heroes with.  
+
+### Targeting Heroes and Movement
+Enemies with a Ranged Attack will target a Hero as
+normal, however they will use the Range of their Ranged
+Attack, rather than their Move value, to choose their targets.
+This means that they will target a Random Hero based on the
+Range of their Attack and Line of Sight rather than on their
+Move and a clear Path, like a normal Enemy would. If there
+are one or more Heroes adjacent to the Enemy, it will attempt
+to target those Heroes first.  
+Another aspect of this is that Enemies with a Ranged
+Attack will re-target each turn instead of staying with a single
+target that they keep attacking.  
+These Enemies will generally not Move unless there are
+no viable Hero targets for them to Attack. When this is the
+case, the Enemy will move toward the nearest Hero until they
+are in Range and Line of Sight, then select a target.  
+
+### Ranged or Melee
+value, it will only make a Melee Attack if there is an adjacent
+Hero to it (the Enemy will not move to make a Melee Attack).
+When choosing a target each turn, the Enemy will first select
+a Random target from any adjacent Heroes, and if there are
+none, it will then select a target at Range.  
+
+### Extra Ranged Attacks
+Some Enemies have a Ranged Attack as part of a special
+ability that they perform in addition to their normal Melee
+Attack (usually at the beginning of their Activation or at the
+end of their move). These extra Ranged Attacks do not change
+the Enemy’s normal behavior and do not effect how the Enemy
+Targets and moves to make its normal Melee Attack.  
+
+## Helping a KO'd Hero
+When a Hero gets KO’d during a Fight, it can often be
+a slippery slope to defeat for the rest of the party. There are
+some ways though that the other Heroes can try to help the
+fallen get back into the fight!  
+
+### Recovering a KO'd Hero mid-Fight
+A Hero that is adjacent to a KO’d Hero marker may give
+up their Attack to help that Hero Recover. This may only be
+done as long as there are no Enemies on the same Map Tile
+as the KO’d Hero marker. The KO’d Hero immediately rolls
+on the Injury/Madness chart as appropriate and Heals their
+2D6 Wounds/Sanity (any mix) as normal. Their figure is
+placed back onto the board, but they do not get an Activation
+in the same turn that they Recover (they are still a bit dazed).  
+
+### Dragging a KO'd Hero
+Any Hero in the same or adjacent space to a KO’d Hero
+marker may drag that Hero with them while they move. To
+do so, simply use 1 extra movement point for each space you
+want to move while dragging the KO’d Hero (so 2 move per
+space).  
+The KO’d Hero marker will be moved along with you as
+you go and left in your space (if you started dragging them
+while in the space with the marker), or the last space you
+moved from if you were adjacent to them. This can be useful
+for getting a KO’d Hero to the safety of a Map Tile with no
+Enemies so that you can try to help them Recover.  
+
+## Players
+Shadows of Brimstone can be played Solo or expanded to
+support up to 5 or 6 Heroes.  
+
+### A 5 or 6 Hero Game
+A 5 or 6 Player game can be achieved by getting a second
+Core/Adventure Set or additional Hero Classes to play as.
+This works the same as all of the rules detailed so far, and the
+difficulty scaling is already listed for the higher player count on
+page 11. It is not recommended that you try playing with more
+than 6 Heroes as the difficulty scaling does not work very well
+with that many Heroes, and the game will start to drag with
+so many players.  
+
+### Solo Game
+The game can easily be played Solo and is fun whether
+controlling a single Hero or a full party of your own! One
+Hero makes for an exciting, albeit deadly, game. This method
+makes use of the Revive Tokens to keep you going and can be
+looked at almost as extra lives. Does your Hero have what it
+takes to go it alone?  
+
+### Multiple Heroes of the Same Class
+Multiple Heroes of the Same Class
+One thing that can be very fun is to play a Hero Party
+with more than one of the same Hero Class/Sub-Class, or
+even a Party where all of the Heroes are the same Hero Class.
+Having a Party of Duelists fence their way through every battle
+or a group of Explorers setting out on a mission to locate a
+lost relic can create a lot of cool gameplay and story moments!  
+
+### Hero Attack Dice Limit
+There is a limit on the number of dice a Hero may roll
+for a single Attack. This is called a Hero’s Attack Dice Limit.
+Heroes have an Attack Dice Limit of 8, which means:  
+
+A Hero may not roll more than 8 Combat or
+8 Shots for a single Attack.  
+
+This includes extra Combat or Shots gained during the
+Attack, through Abilities and Items.  
+Abilities that let a Hero do a number of Combat/Shots to
+specific Enemies (such as ‘all Enemies adjacent’, etc) do not
+count against the Hero’s Attack Dice Limit.  
+
+### Dual Wielding Ranged Weapons
+Normally a Hero is only allowed to make a Ranged
+Attack with a single Ranged Weapon. However, a Hero that
+has two Single-Handed Ranged Weapons may fire both as
+a single Ranged Attack! This is called Dual Wielding. (Note
+that the term Dual Wielding only applies to using two Ranged
+Weapons, NOT for a Melee Attack with 2 Hand Weapons).  
+
+There is a penalty to Dual Wielding though:  
+The Attack may NOT get Critical Hits for
+either of the two weapons.  
+
+Rolls of 6+ count as normal Hits, though they may still
+trigger special abilities or effects.  
+In addition, the Hero must choose one of the Ranged
+Weapons as being fired with their primary hand. The other
+Ranged Weapon is considered to be in the Hero’s Off-Hand.  
+Dice rolled for Off-Hand Ranged Weapons
+need to roll 1 higher than normal on To Hit rolls.  
+So shots that would normally need a 4+ To Hit would
+need to roll 5+ with an Off-Hand Weapon. Natural To Hit rolls
+of 6+ may still trigger special effects.  
+It is a good idea to roll two different colors of dice for a
+Dual Wielding Ranged Attack, where different colors of dice
+are used for the Shots from each weapon.  
+
+## Gates to Another World
+Finding a Gateway to another World can be a very
+exciting and dangerous event. This usually happens through
+an Exploration Token with a Gate Icon or an Encounter that
+adds a Gate to a Room.  
+
+### Gate Icons
+Gate Icons on Exploration Tokens work
+just like Door Icons, but instead of leaving
+the puzzle connection open, a Gate End Cap
+is placed there.  
+
+### Gate End Caps
+Gate End Caps work very similar to Doors. Rather than
+standing in one of the puzzle connection half-spaces to look
+through the Doorway though, the Hero stands in the halfand-
+half connection space adjacent to the blue swirling Gate
+(half on the Map Tile and Half on the Gate End Cap) to look
+through the Gate.  
+
+### Looking Through a Gate
+When a Hero looks through a Gate, they are seeing
+through the portal and into another World, across space and
+time...maybe even into another dimension! The Hero must
+draw a World Card to see where the Gate leads.  
+
+### Drawing a World Card
+Each World Card
+represents a different World
+that is available to the Heroes
+to explore. The Valley of the
+Serpent Kings Set comes with
+the Spanish Fort and one
+OtherWorld. While in the
+Spanish Fort, the Spanish Fort World Card should be face up near the Depth Track to show that it
+is a World that Heroes are currently in. When a Hero looks
+through an unexplored Gate, they must draw a World Card
+randomly from those not currently in play. Because this Set
+only includes one OtherWorld, the Swamps of Jargono - Valley
+of the Serpent Kings, this will always be the World that you find
+on the other side of a Gate.  
+The newly drawn World Card should be placed face up on
+the table near the Depth Track as well. There should be one
+World Card in play for each World that one or more Heroes
+is currently in. When there are no Heroes in that World any
+longer, the card should be returned to the World Cards Deck.  
+
+### OtherWorld Map Tiles
+The OtherWorld Map Tiles are printed on the reverse side
+of the Spanish Fort Map Tiles. There is also a full Map Deck
+for the OtherWorld that represents each of the Map Tiles for
+that World (just like the Spanish Fort Map Deck).  
+Once you have determined the OtherWorld that is through
+the Gate, you should draw a Map Card for that World and
+put it into play. Then place a Gate End Cap for that World
+attached to the Entrance of the newly placed OtherWorld Map
+Tile. These two Gate End Caps are connected.  
+
+### Break in the Map
+To represent the distance through time and space that the
+Gate spans, there is a break in the map whenever the Heroes
+find a Gate. One side of the map ends in a Gate End Cap and
+the other side begins with a connected Gate End Cap. These
+two sections of the board do not need to touch and can be
+positioned anywhere on the table relative to one another.  
+
+The two spaces on one Gate End Cap are
+considered to be adjacent to the two spaces on
+the other Gate End Cap.  
+
+### Exploration Tokens on the Other Side
+If the Other World Map Tile placed on the far side of the
+Gate is a Room, it will get an Exploration Token placed on
+it as normal. Unlike finding a Room in the World you are
+already in though, the Hero is simply looking through the
+Gate, not actually standing on the new Map Tile (the Hero is
+standing on their own side of the Map Tile/Gate End Cap, not
+on the new Map Tile/Gate End Cap).  
+Because of this, the Exploration Token will not be revealed
+until a Room Exploration phase in which a Hero is actually on
+the Map Tile with it. So a Hero will actually have to step
+through the Gate to Explore the Room on the other side.  
+
+### Movement Through a Gate
+Because the two spaces on each side of the Gate are
+considered to be adjacent to each other, models may move
+through the Gate just as though the spaces on either side were
+directly next to one another.  
+
+### Seeing/Attacking Through a Gate
+This works the same way for Attacking. Because the
+spaces on either side are considered adjacent, a model may
+Attack through the Gate. So if you are standing on one side of
+the Gate, you may target Enemies on the other side.  
+Line of Sight for Ranged Attacks, however, may not be
+traced through the Gate unless you are standing on the Gate
+End Cap itself looking directly through. This means that you
+cannot stand back and just shoot across the room into another
+World, but you can move up to the Gate and look through to
+start taking shots.  
+
+### Adjacent Map Tiles
+If the Hero with the Light Source is standing on a Map
+Tile with a Gate End Cap, the light will cover the Map Tile on
+the other side of the Gate, as it is considered to be an adjacent Map Tile. This works the same for other effects that reach to
+adjacent Map Tiles such as Unspeakable Terror, etc.  
+An Enemy with Terror will affect Heroes in the two spaces
+directly on the other side of that Gate, even though they are
+not technically on the same Map Tile.  
+
+### Encounters, Depth Events, and Ambush Attacks with Two Worlds
+When an Encounter is drawn, only the Heroes that are
+currently in the same World as that Encounter are affected by
+its game text and involved with taking the tests on that card.  
+Similarly, when an Ambush Attack occurs, the Enemies
+will only be placed adjacent to and target Heroes that are in
+the same World as the Ambush. If the Ambush was caused by
+something that is not located in one World or another (such
+as a Darkness card), select a Random Hero and the Ambush
+takes place in the same World as that Hero.  
+Depth Events are always assumed to take place in the
+same World that the Light Source is in and will only affect
+Heroes that are in that World with it. Note that each Other
+World has its own unique Depth Event Chart to be used when
+the Hero with the Light Source is in that World.  
+
+## OtherWorlds
+Each OtherWorld is intended to have a distinct look and
+feel to it as the Heroes explore and find new, wondrous, and
+sometimes deadly things there. This is achieved through
+having a unique set of Map Tiles as well as Global Effects for
+anyone in that World. There is also a small set of card decks
+that are unique to that World. Each Core Set focuses on all of
+the details of one of these OtherWorlds (as described in the
+Adventure Book). More OtherWorlds can be found in other
+Shadows of Brimstone Core Sets and Expansions.  
+
+### World Cards and Global Effects
+Every World (including the Spanish Fort) is represented
+by a World Card. This World Card lists the Name of the
+World as well as any Global Effects that apply to any Heroes
+currently in that World.  
+
+### Map Cards, Encounters, Artifacts, and OtherWorld Threats
+Each OtherWorld has unique card decks for Map Cards,
+Encounters, Artifacts, and OtherWorld Threats. While in
+that OtherWorld, these card decks should be used in place of
+the normal versions of these decks. When a card would be
+drawn from one of these decks, simply use the OtherWorld
+version of that deck instead. This is a relatively obvious switch
+for each of these decks, with the exception of the OtherWorld
+Threats.  
+OtherWorld Threat cards represent Enemies that are
+unique to the alien world you are in. Unlike the normal
+Threat Decks that are split into Low, Med, and High Threats,
+there is only one OtherWorld Threat Deck and each card in
+it lists the result for Low (Green), Med (Yellow), and High
+(Red) Threats. Normal Epic Threats are used for Other Worlds
+as well, but any additional Threat cards they have you draw
+should be from the OtherWorld Threat cards.  
+
+### Loot Cards for Gear and Artifacts
+You will likely have noticed that the Loot cards that allow
+a Hero to draw a Gear card or an Artifact card have a special
+note on them. While in an OtherWorld, these card effects are
+actually reversed, so the Loot card that normally lets you draw
+a Gear will give you an Artifact and vice versa. This is because
+it is more likely for a Hero to find Gear in an Earth-based
+world, while it is more likely to find an Artifact in a strange
+alien environment.  
+
+## Conquistador Footmen Allies
+Conquistador Footmen Allies are extra fighters that you
+can bring along with you on Adventures. These Allies can help
+battle Enemies and have special abilities to aid in warding off
+the Darkness. Because they are not full-fledged Heroes though,
+their abilities and actions are a bit more limited than what a
+Player Hero could do. They also are not nearly as tough as
+Heroes and are far more likely to succumb to the horrors
+encountered along the way. No one ever said the life of a
+Conquistador Footmen would be easy.  
+Conquistador Footmen Allies may be hired to join the
+Hero Party between Adventures during the Camp Stay. The
+Gold cost to hire an Ally is listed in the lower right corner of
+the medium sized Ally reference sheet. As noted on the card,
+Conquistador Footmen may only be hired by a Conquistador
+Hero or a Hero that is Keyword Tribal. All of the Heroes in
+this set are Conquistadors, but when adding other Expansion
+Heroes, this becomes more important.  
+Allies come in two varieties - Basic or Advanced.  
+
+### Basic Allies
+The Basic version of an Ally is represented
+by a token and is more akin to a ‘one use’
+item that can be discarded for a unique bonus
+during the Adventure. The various uses of a
+Basic Conquistador Footman Ally are listed on
+the Basic side of the medium Ally reference sheet.
+As listed on the sheet, any individual Hero may only have up
+to 2 Basic Conquistador Footmen Allies at a time.  
+
+### Advanced Allies
+An Advanced Ally is closer to
+an actual Hero (though not nearly
+as strong). They have a model that
+moves around the board and fights
+just like a Hero, with their own
+special abilities and gear. This also
+means that they can be killed in a
+Fight, or by the various dangers of
+an expedition.  
+The stats, abilities, and gear of
+an Advanced Conquistador Footman
+Ally can be found on the Advanced
+side of the medium Ally reference sheet.  
+It is important to note that the Hero Party may never have
+more than 8 models total on the board, including Heroes and
+Allies.  
+Advanced Conquistador Footmen Allies are Activated just
+like Heroes and should be moved, rolled for, etc by the Hero
+Players (most likely by the specific Hero that hired them to
+come along on the Adventure).  
+An Advanced Conquistador Footman Ally is treated as
+a Hero for all purposes, except for the following limitations:  
+- May not get Critical Hits on Attacks
+- May not carry or equip Items
+- May not gain or use Grit or Ambition
+- May not draw Loot cards
+- May not Explore (Look through Doors
+or Scavenge)
+- Do not gain normal XP (they use Ally
+XP instead)
+- Are Targeted by Enemies normally, but
+are never included for Skill tests
+
+Once you have hired a Conquistador Footman Ally, they
+stay with the Hero Party until killed, or you decide not to bring
+them on an Adventure.  
+
+### Ally Upgrades and Mutations
+Advanced Conquistador
+Footmen Allies do not gain normal
+XP during an Adventure. Instead,
+they gain 1 Ally XP at the end of
+each successful Adventure that they
+survive through. For a Conquistador
+Footman, each Ally XP earned may be
+spent to gain an Upgrade - roll a D6 and
+consult the medium size Conquistador
+Footmen Upgrade Sheet for details on this. In
+this way, Conquistador Footman Allies can gain new abilities
+and stat boosts if you can keep them alive long enough from
+game to game.  
+Similarly, an Advanced Conquistador Footman Ally has
+a Corruption Resistance of 2 listed on their sheet. When they
+have collected 2 Corruption Points, remove them and roll once
+on the Conquistador Footmen Mutation Chart found on the
+back of the Upgrade Sheet.  
+
+### Death of an Ally and Camp
+When an Advanced Ally is reduced to 0 Health or 0
+Sanity, he is not KO’d, but rather killed and removed from the
+board. Allies that are killed may NOT use Revive Tokens.  
+An Ally that is killed may instead be ‘Revived’ between
+Adventures by paying its Cost to Hire again, plus an additional
+$200 for each Upgrade it has. This Ally retains all Upgrades
+and Mutations.  
+Between Adventures, Allies do NOT participate in a
+Camp Stay with the Heroes (it is assumed that they have gone
+off to tend to their own affairs or are quietly following along
+without taking part).  
+
+### Veteran Advanced Allies
+As the Heroes advance in Level and begin facing Brutal
+Enemies, normal Advanced Allies may be too fragile to be
+viable. To account for this, once the Heroes reach Hero Party
+Level 5, they now have the option to Hire Veteran Conquistador
+Footmen which are double the Gold cost to Hire, but have
+double their basic Health and Sanity values.  
+If you are familiar with other Allies in Shadows
+of Brimstone, you should note that these Conquistador
+Footmen Allies work a little bit differently in that they are
+very focused combat fighters. They do not have any Ally
+Specialties and do NOT count toward the Hero Party
+Size for determining Threat Level, etc. They also operate
+under somewhat streamlined Ally Rules to make them
+easier to use, as detailed above.  
+
+## Campaign Play
+Creating new Heroes and playing a single Adventure can
+be a lot of fun, but keeping your Hero from game to game and
+watching them grow over several missions in a Campaign is
+an extremely rewarding process that allows the story and game
+world to really shine. This also allows you to build and grow
+your Expedition Camp between Adventures, as well as go up
+in Hero Levels and get new Abilities and gear as you go!  
+
+### At the End of Each Adventure
+When playing a Campaign with your Heroes, at the end
+of each Adventure, every Hero must do the following, in order:  
+Recover if KO’d (rolling on the Injury/Madness Chart)
+- Fully Heal your Health and Sanity
+- Remove any Status Effect markers
+- Resolve any Reward/Failure results of the Mission
+- Roll for Corruption from Dark Stone
+- Discard any unused Team Ability Cards
+- Re-set your Hero Ability Tokens (Remove all Ambition)
+- Re-set your Hero to 1 Grit for the Camp Stay
+
+### Rolling for Dark Stone Corruption
+At the end of an Adventure, each Hero must roll a D6
+for every Dark Stone they are currently carrying (including
+Items with a Dark Stone Icon). For every roll of 1, 2, or 3,
+that Hero takes 1 Corruption Hit from the dark influence of
+the Dark Stone. Willpower saves may be used to prevent these
+Corruption Hits as normal.  
+
+### Setting Up Your Camp/Town Stay
+One exciting element of Campaign play is having the
+ability for your Heroes to build their Expedition Camp. The
+Camp can be visited between each Adventure to re-stock and
+re-supply, as well as to spend your resources on powerful new
+gear and bonuses by upgrading the Camp over time. Visiting
+your Expedition Camp and Upgrading the Camp are covered
+in detail in other sections.  
+
+### At the Start of Each Adventure
+After completing your Camp Stay, the Heroes will be
+ready to start their next Adventure. To do so, the Heroes must
+do the following steps, in order:  
+- Select the next Mission to be played. If playing through
+the Valley of the Serpent Kings Campaign this will usually be
+the next Mission in the narrative.
+- Re-set your Hero Ability Tokens (Conquistadors
+generally start each Adventure with 1 Ambition).
+- Re-set your Hero to 1 Grit for the new Adventure
+- Note that any Wounds and Sanity Damage taken during
+the Camp Stay remain with the Hero for the start of the
+next Adventure.
+- Draw Team Ability Cards
+
+## Inuries, Madness, and Death
+As noted previously, any time a Hero is KO’d during an
+Adventure, they must roll on the Injury or Madness chart to
+determine how bad off they really are (depending if they were
+KO’d by loss of Health or Sanity). The results on these charts
+range from getting the wind knocked out of you to being torn
+to pieces and killed.  
+
+### Healing Injuries and Madness in Camp
+Injuries and Madness can have significant effects on a
+Hero’s ability to keep Adventuring. Good news though,
+there is a way to try to Heal or remove most of these longlasting
+effects by returning to your Expedition Camp between
+Adventures and visiting the Anchored Ship or the Camp Fire.  
+At the Anchored Ship you can get Surgery to attempt to
+repair an Injury or have an unwanted Mutation removed. This
+can be somewhat expensive and there is no guarantee that it
+will work, but hey, if you want to keep adventuring into the
+dark halls of the Spanish Fort with a Broken Leg or a Void
+Infection, that’s up to you.  
+Much like the Anchored Ship, visiting the Camp Fire allows
+you to try to Exorcise Madness that plagues your mind. This
+Location also offers ways to remove Corruption before it turns
+into a full blown Mutation.  
+
+### Death of a Hero
+On rare occasions, a Hero will actually be killed. This is
+a harsh reality of being an explorer, especially when you are
+fighting off demons and madness at every turn. When a Hero
+is killed, it is assumed that the rest of the party brings their
+body back to Camp to try to get them resurrected (or at least
+for a proper burial). A Dead Hero may not be looted for their
+Items and equipment.  
+
+### Resurrection in Camp
+One of the options available to a party that has lost one
+of their own is to visit the Anchored Ship in Camp and pay to
+have that Hero Resurrected. It can be quite expensive though!  
+Any or all of the other Heroes in the party may contribute
+Gold toward the cost for the Resurrection, including the Dead
+Hero himself (selling his Items if need be to pay for the cost).  
+Resurrecting a Dead
+Hero is not time-sensitive
+(though they may start
+to smell a bit), and if
+need be, you can even
+start a new Hero and
+try to build up enough
+Gold to pay for your
+other Dead Hero’s
+Resurrection after
+some time.  
+
+## Optional Rules
+This section covers Optional Rules that can be added to the game as long as all of the players agree before the game begins.
+These Optional Rules are all independent of one another and should each be considered on an individual basis. The rules for
+Fixed Hero Move and Hard-Core Mode are not recommended, but are made available for players that want them.  
+
+### Fixed Hero Move
+(Makes the game Less Difficult)  
+
+As an option for players that do not like the idea of rolling
+for movement each turn, they may use the Fixed Hero Movement
+Optional Rule. With this rule, all Heroes are allowed to move
+4 spaces each turn (plus any bonuses or negatives for Items,
+Abilities, or Injuries/Mutations they may have).  
+
+### Advanced Encounters
+(Makes the game More Difficult)  
+
+Every Unique Room Map Tile
+has a specific theme to it, and there
+is a matching Encounter card in the
+Encounter Deck that shares that
+theme. At the bottom of each Map
+Card that represents a Unique Room
+is a red band that lists the specific
+Encounter associated with that
+room.  
+When using the Advanced
+Encounters Optional Rule, any
+time a Unique Room is Explored,
+the listed Advanced Encounter is
+added to that Exploration. Search
+the Encounter Deck (and discard
+Pile if needed) to find the listed Encounter card
+(shuffle the deck afterwords). This is in addition to any other
+Encounters or Attacks listed on the Exploration Token. Also,
+Advanced Encounters like this cannot be canceled or re-drawn.  
+
+### Below the Darkness
+(Makes the game More Difficult)
+
+One way to make the game more deadly is to use the
+Below the Darkness Optional Rule. Whenever the Darkness
+marker passes the Hero Party marker on the Depth Track
+(positioned on a higher numbered step than the Hero Party
+marker), from that point forward, all Enemies get a free Elite
+Ability as the Darkness has grown ever stronger!  
+
+### Hard-Core Mode
+(Makes the game Much More Difficult)  
+For players that want a truly Hard Core experience, you
+may play Hard-Core Mode. In Hard-Core Mode, any time
+a Hero would be KO’d they are instead killed unless they
+Recover before the start of the next turn.  
+This is a very unforgiving play style and will likely lead
+to one or more players having to sit out the remainder of
+the game while the rest of the group keeps adventuring (not
+generally very fun). It is also especially dangerous for higher
+level Heroes, as one bad situation can kill the character you
+have been playing for months. Ouch!  
+For a slightly softer version of Hard-Core Mode, you
+can use the above, but allow Heroes to still be Resurrected
+between Adventures in Camp.  
+
+### Themed Threat Decks
+(Can make the game More or Less Difficult)  
+As more Enemy Types become available and players start
+making their own Missions, one fun way to create a Themed
+Adventure is to tailor-make your Threat Decks to only include
+cards with certain Enemy Types. In this way, you could make
+an area that is overrun with nothing but Serpentmen Enemies
+or perhaps have a theme of only Void creatures that have spilled
+out of a portal and are pouring out of the shadows.  
+This can be done with just a single Adventure Set, but
+really opens up once you have more Enemy Types available
+to you. It is also very simple to do as the Threat Decks are all
+card based and can easily be Themed or shuffled back together
+at the start of each Adventure.  
+
+### Dangerous Bombs
+(Makes the game More Difficult)  
+Black powder bombs can be a very powerful tool to
+take out groups of Enemies or do some damage against high
+Defense targets. Thematically though, it is a dangerous thing
+to just be carrying around in your Side Bag with you.  
+To represent this extra element of danger, you may elect
+to use the Dangerous Bombs Optional Rule. Any time a Hero
+takes 10 or more Wounds from a single source, they must roll
+a D6 for each Bomb Token they have in their Side Bag. For
+each roll of 1 or 2, that Token immediately explodes, centered
+on the Hero’s space.  
+
+### Combining Sets
+When combining this Adventure Set with other Adventure
+Sets (such as the Gates of Valhalla), all of the components can
+be seamlessly added together, shuffling card decks that have the
+same card back together and allowing for a mixed Hero Party
+from different genres, having crossed through portals to team
+up against the Darkness..  
+The only components not recommended to be mixed
+together when combining Adventure Sets are the Loot Deck,
+Scavenge Deck, and the stack of Exploration Tokens.  
+You will also note that several of the card decks, such as
+Gear, Darkness, and Growing Dread, have a unique icon in
+the upper left corner of the card face that denotes the genre it
+is from (Viking, Conquistador, Feudal Japanese, etc). These
+cards do share the same card back across sets, and can be fully
+mixed together, but they can also be kept separate to be drawn
+only while in the corresponding environments to maintain the
+theme, if desired.  
+When combing this Adventure Set with one of the larger
+Core Sets (such as City of the Ancients), you will find that
+the Loot Deck, Scavenge Deck, and Exploration Tokens are
+different. These are designed so that you can choose to use just
+the Loot Deck from the Adventure Set (8 cards), just the Loot
+Deck from the Core Set (12 cards), or combine them into a
+single larger Loot Deck (20 cards). The same applies for the
+Scavenge Deck and the Exploration Token stack.  
+
+## Conquistador Heroes
+The Conquistador Hero Class introduced in the Valley of the Serpent Kings Adventure Set is a Team Hero Class with 4 distinct versions or Sub-Classes
+for Players to choose from - the El Capitan, Explorer, Duelist, and Soldier. All of these Sub-Classes of Conquistador have a
+similar theme and share the same basic Abilities, but each has its own unique stats, equipment, and Starting Upgrades, making
+them play very differently. This section provides an overview of the different Conquistador Sub-Classes, as well as the rules and
+Abilities common to all Conquistador Heroes.  
+
+### Team Hero Class - Conquistador
+As a Team Hero Class, all of the Conquistador Heroes
+share the same basic Abilities, including the use of Ambition
+tokens. They also have access to the use of Conquistador Team
+Ability cards, representing their history of training, living, and
+fighting alongside one another for years.  
+
+### Conquistador Personal Items
+This set also includes a deck of Conquistador Personal
+Items that are meant to be used when creating a new
+Conquistador Hero.  
+
+### Ambition (Ability Token)
+Conquistador Heroes are well known for their
+Ambition, both in terms of warfare and personal
+glory. To represent this, Conquistador Heroes use
+Ambition Tokens.  
+Ambition Tokens are very similar to Grit and
+can be used on any roll that Grit could be used on. Ambition
+allows the Hero to Re-roll any SINGLE die they just rolled,
+but adds +2 to the result of the Re-roll.  
+This is incredibly powerful for when you really need to
+pass a skill test, get that Critical Hit, or add just a little more
+Damage to take down an Enemy. Ambition can even Re-roll
+a die that has already been Re-rolled (breaking one of the
+basic rules of the game)!  
+However, each Hero may only use 1 Ambition per Turn for
+this Re-roll ability (it may still be used for other abilities that
+require Ambition in the same turn).  
+Conquistador Heroes have a Max Ambition which is how
+many Ambition Tokens they can hold at one time.  
+Conquistadors start every Adventure with 1 Ambition as
+well as their normal 1 Grit. During the Adventure, whenever
+the Hero would Recover a Grit, they may choose to either
+Recover a Grit as normal or Recover an Ambition. This works
+whether they rolled a 1 for movement, used a Tonic Side Bag
+Token, or any other method for Recovering Grit.  
+Though Ambition and Grit are fairly similar, Players will
+discover that each has its distinct uses, and the ability to collect
+and use both gives Conquistadors a powerful advantage with
+many interesting tactical choices.  
+It is also important to note that Ambition cannot be used
+during a Camp/Town stay, and cannot be used to cancel
+Growing Dread cards like Grit can (more on that later).  
+
+### Ruthless Warfare
+All Conquistador Heroes also have the Ruthless Warfare
+ability. This allows them to gain $10 and Heal either 1 Wound
+or 1 Sanity Damage whenever they kill an Enemy, but also
+reduces their Corruption Resistance to only 4 (normally it is
+5), meaning that they are more susceptible to being corrupted
+by the Darkness and gaining Mutations.  
+
+### Team Ability Cards
+Team Ability cards are unique to the Team Hero Class
+and represent the fighting tactics and thematic skills of a group
+of well-trained warriors who depend on one another in battle.  
+
+### Drawing Team Ability Cards
+As noted in their Abilities
+box, at the start of each Adventure,
+every Conquistador Hero adds 1
+Conquistador Team Ability card
+to the Hero Party’s Team Ability
+Card Pool. These cards are intended
+to encourage team play with Players
+discussing how and when would be
+best to use the various cards in the
+Pool throughout the Adventure.  
+
+### Playing Team Ability Cards
+Team Ability cards are generally one-use bonuses for the
+Adventure that are discarded after they are used. Each card says
+on it when it can be played, who is affected by it, and what the
+bonus is for playing the card.  
+Although all of the Team Ability cards are held in a single
+Pool for the Hero Party, whichever Hero added a particular
+card to the Pool gets final say on how and when that card is
+played.  
+It is important to note that Team Ability cards are drawn
+new at the start of each Adventure, and any unused Team
+Ability cards still in the Pool at the end of the Adventure are
+discarded.  
+> Team Ability cards do NOT affect Allies such as
+the Conquistador Footmen Allies that come with this
+set.  
+
+### Armor
+Most Conquistador Heroes rely
+on Armor to protect them from
+wounds. This can come in the form
+of a simple breast plate to a full suit
+of Conquistador armor, like what a
+Soldier would wear.  

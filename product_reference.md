@@ -11,7 +11,109 @@ One of the main features of Shadows of Brimstone™  is that all of the players 
 ## Game Miniatures  
 The Miniatures included in Shadows of Brimstone: Gates of Valhalla  and Shadows of Brimstone: Valley of the Serpent Kings  are multi-part HIPS hard plastic. They come on frames and do require some assembly. We have taken great care to make the assembly in as few pieces per model as possible, while still getting a high level of detail and fantastic, dynamic poses. This also brings an aspect of Hobby to the game as many players find it fun to customize and paint their figures.  
 
-## Core Sets =
+## Types of Products
+Shadows of Brimstone is an expansive game system, offering players a wide world to explore. There are many different ways
+to expand your collection and add variety to your Adventures.  
+
+### Core Sets
+The Core Sets for Shadows
+of Brimstone are intended as an
+entry point to the game, including
+everything you need to play. Each
+Core Set focuses on a different genre
+(such as the Old West or Feudal
+Japan), and is packed with a different set of content
+including 4 Heroes, a host of ruthless Enemies, a full Map Tile
+Set featuring a different alien World, 12 Missions, and all of the
+rules, cards, and counters to start your Adventures.  
+
+### Adventure Sets
+Slightly smaller than a Core Set,
+Adventure Sets feature a group of Team
+Heroes (such as Vikings or Conquistadors)
+that are a trained fighting force of warriors
+and explorers. These sets can be used as
+an entry point to the game, and include
+everything needed to play. Featuring a host of deadly
+Enemies, cards, and counters, each Adventure Set is based
+around an 8 Mission narrative campaign and allows the
+Heroes to build and grow their Expedition Camp throughout
+the campaign.  
+
+### OtherWorld Expansions
+These large boxed expansions add new
+alien Worlds for the Heroes to adventure in.
+With a full new set of Map Tiles, new Enemies
+themed for the new World, 6 new Missions,
+and a Host of new cards and counters, each
+OtherWorld Expansion is literally a whole new
+World to explore.  
+
+### Town Expansions
+Greatly expanding on the Town Stay
+between Adventures from the Core Sets, these
+large boxed Expansions (such as Frontier Town
+and Feudal Village) offer new Town Locations
+to visit, different types of Towns that can be
+encountered, and even add 6 new Missions and a large game
+board for playing Adventures in the Town itself. Also included
+are a new group of Enemies that are themed for the Town.  
+
+### Enemy Packs
+There are many different Enemy Packs
+for Shadows of Brimstone, each adding new
+hordes of foes to your game, or even larger
+Enemies as Epic boss encounters. These
+Enemy Packs include all of the miniatures, cards, counters, and
+rules needed to add the new Enemies to your games. Many of
+the larger Enemy Packs even include Missions as well.  
+
+### Hero Packs
+Hero Packs introduce new Hero Classes
+to the game that can be added to your Hero
+Party, and are a good way to increase the
+Player Count of the game up to 5-6 Players.  
+There are two types of Hero Packs -
+New Heroes and Alt Gender Hero Packs. New
+Heroes have all of the cards, rules, and Upgrade information
+for playing as that new type of Hero, as well as both the Male
+and Female Miniatures for them. Alt Gender Hero Packs are a
+pack of 4 Heroes originally introduced in one of the Core Sets
+or Adventure Sets, but include the alternate gender miniatures
+for the Heroes that came with the associated Core/Adventure
+Set. These Alt Gender Hero Packs also contain all of the
+cards, rules, and Upgrade information needed to play as those
+Heroes, allowing you to have a second player use the same
+Hero Class, or to add these Heroes to your games, even if you
+don’t yet have the Core Set/Adventure Set it is associated with.  
+
+### Mission Packs
+Each Mission Pack is a deep dive into a
+new type of Enemy, including new Artifacts,
+Gear, Encounters, Darkness, and Enemy
+Trait cards themed for those Enemies, as
+well as the miniatures and counters for them.
+A special Adventure Card is also included,
+allowing you to change existing Missions to
+be themed for the new Enemy type. One of the main features of
+each Mission Pack is a story-driven 4 Mission mini-campaign
+heavily focused on the theme of these new Enemies.  
+
+### Card Suppliments
+On the official Flying Frog website (www.flyingfrog.net)
+you can find additional content not available in stores. This
+includes Dark Stone Forge resin terrain pieces with exciting
+and thematic new Missions, miniatures for specific characters
+of unique Enemies or Allies, and additional themed Card
+Supplement packs that add new game mechanics and variety
+to your Adventures.  
+
+### Swarm Packs
+
+### Map Tile Packs
+
+### Enemy Theme Sets
+## Core Sets
 
 ### The Lost Tombs of Khamuntet  
 In the Lost Tombs of Khamuntet Core Set, players take on the role of a group of 1930's pulp adventure Heroes, exploring the dark chambers and crumbling passages of ancient Tombs, in search of fortune and glory! Lost in the desert sands of Egypt for thousands of years, these cursed temples are overrun with terrifying mummies, flesh-eating scarab swarms, and mythological guardians from Egyptian lore, brought to life through the power of the Dark Stone.  
