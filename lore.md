@@ -1,4 +1,4 @@
-# Shadows of Brimstone Lore Reference
+# Shadows of Brimstone - Lore Reference
 This document is a reference of the lore of the Shadows of Brimstone setting. Understanding more about the myriad worlds, creatures, factions, events, characters, cultures, artifacts and relationships of Shadows of Brimstone is the key to creating fun and exciting content for the game including:
 
 - Missions
