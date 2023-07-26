@@ -19,25 +19,123 @@ Spaces occupied by puzzle-cut edges are also considered valid spaces and may be 
 
 
 ## Text Format of Map Tile Layout
-Map Tiles can be displayed as a grid of spaces forming colums and rows. The grid for each tile will be displayed in a code block element. Each space will be assigned a unique two digit ID number so that it can be referred to via text descriptions. 
+The physical layout of Map Tiles can be approximated using text in an ASCII art style similar to those employed by text-based roguelike games such as NetHack. This helps an AI understand and evaluate the physical layout of Map Tiles for gameplay purposes. We will refer to each ASCII art depiction of a Map Tile layout as a Map Tile Diagram. Within this Markdown formatted document, each Map Tile Diagram will be displayed inside a codeblock element to preserve the whitespace needed to properly depict the map tile diagram. 
 
-Since each Map Tile has a designated edge of puzzle-cut spaces that are considered the Entrance spaces of the tile when placing them on the table, all Map Tile diagrams will be oriented with the Entrance spaces on the bottom/south of the diagram. This will allow cardinal directions to be used in text descriptions since south will always point to the bottom of the diagram.
+The following ASCII text characters are used to represent elements of the Map Tile within each Map Tile Diagram:  
+- Dashes ("-"): Represent edges of spaces along a horizontal axis. These are normal edges of spaces and two spaces sharing an edge are considered to be adjacent. These space edges do NOT block Line of Sight. These will be referred to a "space edges" or "edges".
+- Pipes ("|"): Represent edges of spaces along a vertical axis. These are normal edges of spaces and two spaces sharing an edge are considered to be adjacent. These space edges do NOT block Line of Sight. These will also be referred to a "space edges" or "edges".
+- Plus ("+"): Represents corners of spaces where both a vertical and horizontal line intersect.
+- Hash/Pound ("#"): These represent walls and correspond to the thich black borders on the real Map Tiles. Two spaces separated by a wall on an edge are NOT considered adjacent. Two spaces that share a corner marked with "#" instead of "+", but do NOT share an edge are NOT adjacent. Walls block Line of Sight.
+- Equals ("="): These represent special Barrier terrain on the horizontal axis and replace normal space edges (represented by dashes) when present. Barriers are only found on some Map Tiles. Spaces separated by a barrier are considered to be adjacent but barriers have special rules restricting movement that are explained elsewhere. Barriers do NOT block Line of Sight.
+- Exclamation ("!"): These represent barrier edges on the vertical axis and work just like barrier edges on the horizontal axis.
+- ID's ("A1", "A2", "B1", etc.): These are located in the center of each space and are not represented on the real Map Tiles in any way. They are added to spaces on the Map Tile Diagrams so that specific spaces can be referred to more easily using text. These are referred to here as "space ID's" or simply "ID's".
+- At Sign ("@"): The @ is used for ID's on open door spaces. Each open door space starts with "@" and is combined with either an upper-case or lower-case letter. The two doorway spaces that are adjacent to each other and together define an "open door" use the same letter, one in upper-case and the other in lower-case. This allows both of the two spaces to be referred to individually as spaces based on their case, but we can also refer to the doorway as just a letter. For example, spaces "@A" and "@a" are both separate spaces adjacent to one another that are both part of "Doorway A". 
 
-Puzzle-cut spaces that are used for connecting to additional Map Tiles and represent open doorways during gameplay will have their ID number displayed in *italics*.
+**Cardinal Directions**  
+Corners, sides/edges and other features can be described using a mix of direction and cardinal directional terms. The following directional terms are interchangeable when describing a tile and mean the same thing:
 
-Map Tile cards designate which results on a D6 roll correspond to which puzzle-cut spaces on the tile so that doors and gates can be randomly determined. The puzzle-cut spaces will have a range of numbers within [square brackets] adjacent to them, indicating which values on a D6 roll correspond to that doorway.
+- Top = North (N)
+- Top-Right = North East (NE)
+- Right = East (E)
+- Bottom-Right = South East (SE)
+- Bottom = South (S)
+- Bottom-Left = South West (SW)
+- Left = West (W)
+- Top-Left = North West (NW)
 
-Dashes and vertical pipes will represent black bordered walls and grid edges of spaces.
+Additionally, the terms "up" and "above" when describing map tile elements mean north or top, which the terms "down" or "below" mean bottom or south.
 
-Spaces that have less than 50% of their volume covered in artwork are not considered valid gameplay spaces. Knowing where this spaces are is still useful for knowing where the walls are. These spaces do not require a unique ID and will be shown as "XX".
+The terms "edges" and "sides" are interchangeable within the context of map tile elements and both mean a horizontal or vertical line bordering one or more spaces.
 
-Some spaces have black wall borders that cover one or more of their edges or corners. This can block Line of Sight to some other spaces and is important to know. Spaces that have one or more of their corners blocked will have the corresponding wall corner marked with a pound/hash # in place of a dash where the corner is that is blocked.
+The terms "gridlines" or "grid lines" refer to border edges and corners surrounding spaces that are NOT walls.
 
-Barriers are thick white lines that block most movement across them but not Line of Sight. Each side/edge of a space that contains a Barrier will use equal signs = instead of dashes to indicate a Barrier horizontally, and use exclamation marks ! instead of vertical pipes to indicate Barrier lines vertically.
+### Basic Map Tile Diagram Examples
+Let's take a look at a few examples of a basic Map Tile Diagram using the symbology that was just defined.
 
-Any additional unique elements on a Map Tile that are important for gameplay purposes will be described outside of the diagram.
+Here is a map tile diagram of a basic corner passage map tile:
 
-Note that Entrance spaces on either side of the same Map Tile usually do not share the same edge. Therefore each side of the same Map Tile will be listed as a completely separate Map Tile with its own diagram.
+```
+   ##################
+  @B | A2 | A3 | A4 #
+   --+----+----+----#
+  @b | B2 | B3 | B4 #
+   ########----+----#
+          # C1 | C2 #
+          #----+----#
+          # @A | @a #
+```
+
+The following statements are TRUE about the above map tile diagram:
+- The top-most and right-most edges of the tile are walls because they are designated with "#".
+- Spaces C1 and B4 share a corner marked with "+".
+- There are two doorways on this tile, doorway A and doorway B
+- The distance between @B and C2 is 3 spaces.
+
+Here are some statements that are FALSE aboyut the above map tile diagram with reasons why they are false:
+- False Statement: Space B4 is surrounded by walls on all sides.
+  Why it's False: For space B4 to be surrounded by walls on all sides, each edge must be marked with a "#". Only the right side of space B4 is marked with "#" so it is not surrounded by walls on all sides.
+- False Statement: Space A4 is part of a doorway.
+  Why it's False: If space A4 were a doorway, the ID of that space would start with an "@" and it does not. There is a chance the ID could be a mistake or typo, but we can also see that space A4 has either a gridline or wall border on all sides. Puzzle-cut spaces that belong to doorways are always missing borders around half of the space.
+
+**Map Tile Diagram Conventions**  
+As you see more map tile diagram examples, you may notice a few conventions that should always be followed when creating, rendering, or drawing map tile diagrams.
+
+The first convention is that the doorway spaces that are further south/bottom in the diagram are always labeled as doorway A. This is because the orientation of how a map tile is rotated when it is placed during gameplay is marked with an arrow on the related Map Tile Card which shows the "entrance spaces". As a shorthand, the map tile diagrams in this document are always oriented so that the entrance spaces are on the bottom for consistency and clarity.
+
+Additionally, always labeling the entrance doorway as doorway A helps with consistency and clarity.
+
+You'll also notice that the ID's for doorway spaces will always use an upper-case letter for the left or top half of the doorway, and a lower-case letter for the right or bottom half of the doorway. This is also for consistency.
+
+You'll also notice that two of the edges of doorway spaces are only half the length of a normal space edge. This helps to visually indicate that these are puzzle-cut spaces in the diagram and that they are half the size of a normal space until they are connected to another Map Tile.
+
+Finally, you should notice that the ID's for spaces always start with A on the north most row and end with 1 on the left most column. Doorway spaces are not counted for this convention as they have their own special ID's starting with @. The numbers in each space ID increase within spaces in an east direction and the letters in each ID go up in alphabetical order as the spaces move in a south direction. This is a very standard convention to notate grids and it is used here so that the correct space ID's can be assumed even when they are not written in the diagram. This convention allows us to make smaller, simpler map tile diagrams which take up less space by removing the need to add space ID's (more on simple map tile diagrams later).
+
+### Advanced Map Tile Diagram Features
+Some Map Tiles in Shadows of Brimstone feature special terrain features that effect gameplay. This, and other advanced rules elements will be discussed here.
+
+**Barriers**
+
+This section has yet to be written.
+
+**Terrain Anchors**  
+Map Tiles in some expansions have icons on the map tiles to indicate possible positions where special terrain features are placed. These are usually place either on space edges or on space corners. Map Tiles that have these icons will use numbers in the map tile diagram to represent this, placed along the edge or corner where they are located on the real map tile. Outside the diagram, a description will accompany the diagram to describe what special terrain features are in use and which numbered Terrain Anchors they correspond to.
+
+Here is a simple tile diagram with various terrain anchors added:
+
+```
+##################
+# A1 | A2 | A3 | @B
+#-3--+----+----|--
+# B1 | B2 1 B3 | @b
+#----+----########
+# C1 | C2 #
+#----2----#
+# @A | @a #
+```
+
+In this modified version of a corner passage tile there are three terrain anchors. Terrain anchor 1 is located on the vertical edge between spaces B2 and B3. You can tell that this is a terrain anchor because it is a number being placed on the border of a space as opposed to "|" or "#". Terrain anchor 2 is placed on a corner shared by spaces C1, C2, @A, and @a. You can tell that this is a terrain anchor because a number is placed in a corner of one or more spaces as opposed to a "+" or "#". Terrain anchor 3 is on the horizontal edge between spaces A1 and B1. You can tell that this is a terrain anchor because it is a number being placed on the border of a space as opposed to "-" or "#". This diagram does NOT represent a real map tile from Shadows of Brimstone and is simply to illustrate the example.
+
+Terrain anchors are most commonly used with the special Cover Terrain in the Trederra expansion and the Decayed Trees terrain in the Forest of the Dead expansion. The rules for how Cover Terrain and Decayed Trees work are described elsewhere.
+
+The term "terrain anchor" does not exist in any of the official Shadows of Brimstone rules and was only created for aiding in describing map tiles without the use of images.
+
+This terrain anchor notation is general enough to describe any future special terrain features created for the game. Special terrain features that do not need to be marked on space edges or corners can simply be described in a separate text description from the map tile diagram and reference the space ID's as necessary.
+
+**Tracking Model Positions**  
+This section has yet to be written.
+
+**Tracking Facing for Models**
+This section has yet to be written.
+
+
+### Simple Map Tile Diagrams
+This section has yet to be written.
+
+
+
+## Combining Map Tiles in a Diagram
+This section has yet to be written.
+
 
 ## Map Tile Metadata
 The following additional meta data is included with each Map Tile entry:

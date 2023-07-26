@@ -272,51 +272,6 @@ This marks the current position of the Darkness on the Depth Track and moves up 
 ### Hero Party Marker
 This marks the current position of the Heroes on the Depth Track and moves down the track as the Heroes explore the map. The Hero Party Marker always starts on the Entrance space, unless Mission special rules say otherwise.
 
-## Map Tiles
-Missions/Adventures use Map Tiles placed on the table to represent the location and environment of the adventure. 
-
-### Physical Description of the Map Tiles
-Map Tiles are 2D, double-sided cardboard tiles that come in a variety of shapes and sizes. Map Tiles feature evocative artwork of an indoor or outdoor area covering the surface of the Map Tile. The art work often features small thematic details such as ancient runes, crumbling walls, or exotic flora and fauna. The artwork is drawn from a top-down perspective so that the plastic 3D miniatures of Heroes and Enemies can appear to be located in the area depicted in the artwork when miniature is placed on top of the Map Tile.
-
-The overall theme of the artwork on the Map Tile is determined by the world that the Map Tile is representing. A brief thematic summary of various world settings are:  
-- Mines: Abandoned underground mines in the style of the American Old West, often dark and foreboding.
-- Forbidden Fortress: Mysterious rooms, halls, gardens, and courtyards of an un-nerving feudal japanese fortress/castle.
-- Swamps of Jargono: Thick, overgrowing swamp and jungle areas teaming with strange exotic plants and occasional mysterious ruins.
-- Targa Plateau: Frozen tundra of an alien world with the scatters remains and structures of a long dead ancient alien civilization.
-- Blasted Wastes: Vast dry and arid desert wastelands of an alien prison-planet featuring occasional makeshift structures cobbled together from junk by the various alien factions that live in the deserts and canyons that dot the landscape.
-- Trederra: A dangerous warzone on an alien planet engulfed in a brutal global war with a landscape reminicent of World War 1 on Earth (muddy trenches, makeshift bunkers, desolated landscapes, destroyed structures, and air filled with toxic gasses).
-- Derelict Ship: Rooms and corridors inside a derelict alien space ship.
-- Belly of the Beast: Organic chambers and passages inside the stomach of a massive alien creature featuring surfaces of pink and purple organic fleshy tissue, stomach acids, bone structures, and nerve bundles larger than a human.
-- Forest of the Dead: A dark and foreboding eternal forest filled with mossy trees and underbrush where the eternal spirits of the dead roam endlessly.
-- Caverns of Cynder: A hot and cavernous underground hellscape in another dimension with deadly volcanic rivers, falling rubble, and demonic runes and statues that are home to the demonic creatures that inhabit this world.
-- Valley of the Serpent Kings: Outdoor and Indoor areas of a large valley nestled within the Swamps of Jargono where alien creatures have built ancient temples and structures resembling that of Mayan and Aztec civilizations.
-
-Each Map Tile is double-sided, with each side depicting a different world. For example, all the Map Tiles in the Forbidden Fortress Core set feature locations from the Forbidden Fortress on one side and locations from the Belly of the Beast on the opposite side. Players will use the appropriate side of each Map Tile when placing them on the table depending on the location in which the Adventure is taking place.
-
-A grid of square spaces is also printed on each Map Tile, layered on top of the other artwork. Each square space is about 1 inch square. The spaces regulate position and movement for miniatures placed on the Map Tile. Rules for movement are explained elsewhere. The gridlines/space edges are in a semi-transparent white color to be easily visible yet blend in with the artwork layered beneath.
-
-The physical edges of each Map Tile are sometimes straight but more often curvy, creating a more curvy shape. All of the physical edges for each Map Tile feature a thick black line in the artwork, depicting the borders of the tile. These black borders represent impassible walls for gameplay purposes and are explained in more detail later.
-
-The only parts of a Map Tile that do not feature a black border outline are the locations where there is a puzzle-cut connector shape used to connect the Map Tile to other Map Tiles. During an Adventure, this allows players to randomly draw new Map Tiles as they explore without knowing what they are going to find next.
-
-Most Map Tiles feature at least two puzzle-cut connectors so that they can connect to the previously explored Map Tile and still have a way to connect to the next randomly drawn Map Tile. Many Map Tiles have 3 or 4 puzzle-cut connectors around the edges. Entrance Map Tiles are special Map Tiles that only have a single puzzle-cut connector and placed as the first Map Tile when beginning a new adventure so that there is only one direction for the Heroes to explore from the start location.
-
-The puzzle-cut connectors are always aligned with two spaces within the square grid and do NOT have a black border. The physical edge of the connector extends to the half-way point inside each of the two spaces. This means that the two adjacent spaces featuring a puzzle-cut connector are "half open" spaces where the printed grid lines only form half a square. The purpose of this is to that when two separate Map Tiles are combined at a puzzle-cut connection point, the gridlines of the "half open" spaces on one Map Tile align with the "half open" spaces on the other Map Tile. This means that when two Map Tiles are connected, the spaces containing the puzzle-cut connection are no longer half-open spaces, but spaces that form a full square with all 4 edges. The artwork featured on the tile is always drawn in a similar way so that the artwork on the tiles can appear to flow into one another seamlessly when two Map Tiles are connected. This only works for two Map Tiles that are from the same world though. For example, you can never connect a Map Tile from the Caverns of Cynder directly to a Map Tile from the Mines.
-
-Each adjacent set of two spaces that feature a puzzle-cut connection are referred to as a "doorway" in gameplay terms. Various Missions and other rules may refer to "open doorways", which mean two adjacent spaces featuring a puzzle-cut connector that have NOT yet been connected to another Map Tile, and so are "half open" spaces. 
-
-### Adjacency of Map Tile Spaces
-Adjacency rules are important for an AI to understand the movement and positioning mechanics of the game. The adjacency rules here are a core element of gameplay and essential for an AI to understand positioning and movement of models on Map Tiles.
-
-Two spaces are considered to be adjacent if they share an edge OR a corner. This means that two square spaces that are diagonally adjacent are still considered to be adjacent for gameplay purposes. 
-
-The only exception to this is the black bordered walls on the Map Tiles. If the edge OR corners shared by two spaces is covered by a thick black line, those corners and/or spaces are considered "walls" for gameplay purposes. Walls block movement, line of sight, and adjacency. Two spaces separated by a wall are NOT considered adjacent.
-
-Many Map Tiles feature a few spaces that would normally be diagonally adjacent (the two spaces share a single corner), but the thick black border extends into the corner creating a wall. Two diagonal spaces that share a corner covered in a wall are NOT considered adjacent.
-
-### Incomplete Map Tile Spaces
-Due to overlaying an even and symmetrical square grid on top of a geometric Map Tile shape that is NOT generally symmetrical and even but curvy on the edges, many Map Tiles have spaces that are not complete before being cut off by a black bordered wall. For gameplay purpopses, any square space that has less than 50% of its internal area/volume covered by artwork due to being cut-off by a border is NOT considered a valid space for gameplay purposes. 
-
 ## The Game Turn
 Each Game Turn has four steps that are completed in the
 following order:  
@@ -3710,5 +3665,1603 @@ This is a list of every Side Bag token and the associated game rules and effects
 - **Lantern Oil:** Discard to Re-roll one of the dice for a Hold Back the Darkness roll.
 - **Tequila:** Discard to Heal 2D6 Sanity Damage.
 - **Spice:** Discard to add D3 Damage to a single Hit. You also take 1 Wound, ignoring Defense
+
+# Shadows of Brimstone - Lore Reference
+This document is a reference of the lore of the Shadows of Brimstone setting. Understanding more about the myriad worlds, creatures, factions, events, characters, cultures, artifacts and relationships of Shadows of Brimstone is the key to creating fun and exciting content for the game including:
+
+- Missions
+- Narrative Events
+- Places
+- Quests
+- Campaigns
+
+This reference collects information from as many official sources as possible, but may also include unofficial lore created by fans of the game. This reference should therefore **not** be considered official canon approved by Flying Frog Productions.  
+
+## Dark Stone
+Dark Stone is perhaps the most important narrative concept to understand the many worlds of Shadows of Brimstone. Dark Stone is a mysterious black rock mineral, appearing purple when held in the light. The origins of Dark Stone is not known. Sometimes, a vein of Dark Stone is discovered deep within the ground when prospectors are mining for other valuable ores such as copper and gold. Other times, Dark Stone comes crashing into the atmosphere as a meteorite, breaking up in the sky and scattering across the land.  
+
+Dark Stone is the most valuable substance in Shadows of Brimstone. It can be used as an energy source to power industry, rail cars, great machines, and even starships. It can be shaped and molded into material such as arrowheads, blade tips, armored plating, or simply worn as jewelry. Blacksmiths and other craftesmen have taken to modifying weapons, trinkets, and other equipment with Dark Stone for enhanced effects. Soothsayers, witches, shamans, and monks use the black rock in their rituals, spells, tonics and cure-alls. The versatility of Dark Stone seems to be virtually unlimited.  
+
+The value of Dark Stone can be seen in how common it is for various cultures and civilizations across time and space to use Dark Stone as a type of currency when bartering and trading. But Dark Stone is every bit as dangerous as it is valuable.  
+
+While normal people can't sense it, Dark Stone emits a kind of radiation colloqually referred to as "corruption". Nobody knows why, but prolonged exposure to the substance in high enough densities often cause organic life to mutate. These mutations vary greatly from arms and legs turning into tentacles, forked tongues, grown over eyes, fangs, and hardened skin. Unique and strange mutations are discovered all the time. Dark Stone seems to be capable of mutating just about any life form, not just humans. It has been known to "corrupt" all manner of flora and fauna.  
+
+Dark Stone also becomes unstable when stored in dense concentrations. This has been known to cause occasional explosions and sometimes cause people to suffer strange and terrifying hallucinations. Some are even driven to complete madness by the corrupting influence of Dark Stone. This has always made Dark Stone tricky to store and transpored for those wanted to grow rich off its great bounty, but greed often wins over and the danger is ignored.  
+
+Perhaps the most interesting effect of Dark Stone in dense concentrations is to occasionally tear a hole in the very fabric of reality, creating a gateway between worlds across time, space, and even dimensions. These tears are sometimes fleeting, such that a few strange and terrifying creatures make it through the crack in reality before it closes, able to wreak havoc on those unprepared on the other side. Other times, a more stable Gate is formed, allowing travel to and from two distinct worlds for anyone brave enough to cross over. But one never knows how long each Gate will remain stable.  
+
+As a narrative element, Dark Stone is central to many stories in Shadows of Brimstone. Greed for Dark Stone creates conflict among those who want it. The destruction caused by Dark Stone calls to would be Heroes and Adventurers willing to help. The corrupting influence of Dark Stone is at the core of many of the dangerous foes encountered by adventurers. But Dark Stone is also a reward, able to be sold, used to craft powerful weapons and gear, and opens Gates to new worlds and frontiers to explore.  
+
+## Gates
+In the context of Shadows of Brimstone, Gates are portals that bridge two worlds. Not much is known about how to create or control them, or how long they remain stable. It is widely known that Gates seem to be created by concentrations of Dark Stone. Gates don't always form where Dark Stone is found, but when they do, there is always Dark Stone nearby. That there is a connection between the two phenomena is clear.  
+
+It's hard to tell how long a Gate will remain stable. It could be hours, days, or weeks. But they do seem to eventually close again.  
+
+There is no telling where the other end of a Gate will take you until you are close enough to peer through to the other side. Sometimes, people try and create gates themselves by concentrating Dark Stone and risking explosions or awful mutations. Sometimes it works, sometimes not, but so far, nobody has found a way to force a Gate to open to a specific world, time, or dimension.  
+
+The more Gates appear, the bigger reality seems to get. While still quite a spectacle, it's not impossible to come across an adventurous Japanese samurai from the feudal era of Japan's history wandering back alleys of an 1850's American frontier town in the Wild West. Sometimes, even aliens from other worlds can be found around the poker table of a frontier western saloon. It seems like a Gate could lead almost anywhere or any time, even to other dimensions like Hell itself!  
+
+Gates are another central narrative element and often important features of quests, missions, and exciting encounters. They provide endless variety and opportunity to continue expanding the setting of Shadows of Brimstone into completely new places to keep the stories and adventures feeling fresh.  
+
+## Worlds
+Since Dark Stone causes tears in the fabric of reality and sometimes bridges two realites together through a gate, there are limitless possibilities when it comes to to the variety of settings that adventurers can explore when stepping through a gate to another world.  
+
+Within the game rules, each core set of the game (a "core set" provides all of the required minimum rules and components to play Shadows of Brimstone in a single box which can then be mixed with the content sold in other boxes such as expansions and other core sets.) has a default world setting which is native to the Heroes that come as part of the core set. For example, the Forbidden Fortress core set contains Heroes native to the high fantasy Feudal Japan setting and world. The world that is native to the Heroes can be thought of as the "home" or "main" world for the game, even though the rule books don't have a specific word for that in game terms.  
+
+All other worlds that are **not** native to the Heroes are considered to be an "OtherWorld". Each core set comes with a single OtherWorld for the starting Heroes to explore. Each OtherWorld is a unique setting that might take place in a different time period, on a different planet, or even a different dimension or reality! In addition, each OtherWorld setting has a variety of Map Tiles, Artifacts, Encounters, and Enemies that are designed to be "native" to the OtherWorld, making each OtherWorld setting feel unique from the others during an adventure.  
+
+Most OtherWorld settings feature some kind of Environment rule which is always in effect while the Heroes are located in the OtherWorld. These could be anything from unique weather game effects to anything else that makes good thematic use of the setting.  
+
+Additional OtherWorlds can be purchased as part of Deluxe Expansions to increase the variety of OtherWorld settings that Heroes can explore on their adventure.  
+
+Visiting an OtherWorld can happen either randomly or by design. During an adventure in the "main" world native to the Heroes, there is a random possiblity in most missions for a gate to an OtherWorld to spawn as the Heroes explore the map tiles. When a Gate is spawned, a deck of Environment cards matching each OtherWorld is shuffled and drawn randomly to see where the Gate leads. Players are of course free to pick a specific world that they want to visit instead, and some missions may specify that all Gates lead to a specific OtherWorld as part of their design.  
+
+The rest this section provides narrative descriptions of each world setting, including all the "native" worlds. It is perfectly viable for fans to create new OtherWorld locations to visit, but this will typically require a lot of work due to the need for a lot of content that needs to be created for adding a new world, such as custom map tiles and cards, encounters, artifacts, a depth event chart unique to the world, and environment rule for the world, and several enemies to encounter which are native to the world. Of course, generative AI may be able to greatly assist fans in reducing the amount of effort needed to create all of the necessary content for adding new worlds to the game!  
+
+### Brimstone
+
+### Feudal Japan
+
+### Caverns of Cynder
+
+### Trederra
+
+### Blasted Wastes
+
+### Targa Platau
+
+### Forest of the Dead
+
+### Valhalla
+
+### Swamps of Jargono
+
+### Sunken City of Pharrox
+Once a powerful kingdom of the ancient world, ruled by a dynasty of ruthless vampires, the island city of Pharrox Atlantea was destroyed, sinking to the cold depths of the sea. For millennia it was left undisturbed and forgotten to history; its ancient inhabitants dormant in a twilight slumber. Now, its shimmering gateways have been activated once again by those seeking its lost knowledge and treasures. But all they will find... are the Terrors of the Deep!  
+
+### Valley of the Serpent Kings
+It is the Age of Exploration, and Spanish voyages set out across
+the vast oceans, making landfall on the sandy shores of the New
+World. But these jungle islands and rocky coasts hold more than
+new trade opportunities and rumored riches. The local people tell
+tales of a magical Dark Stone found in the volcanic mountains, and
+strange shimmering gateways that lead to another world. A world
+ruled by a ruthless civilization of cold blooded Serpentmen that
+have been raiding their villages since the black rock was discovered.
+Constructing stone forts to defend against these strange creatures, the
+Conquistadors sent word back to Spain for reinforcements. But they
+did not know the Darkness that had already begun to spread within.
+Initially at odds with the nearby Aztec Empire, who had already
+been at war with the Serpentmen for some time, it soon became clear
+that if humanity had any chance of survival, the Conquistadors and
+Aztecs would need to work together to hold back this Darkness from
+spreading out across the world.  
+
+Where most of Jargono is
+covered in a dense canopy of
+jungle swamps, the Valley of
+the Serpent Kings is a vast
+stretch of marshlands
+and rivers, nestled
+between winding
+mountainous
+ridges. Ruled
+over by the
+warring
+tribes of the
+Serpentmen
+and their
+powerful Kings,
+the valley is dotted with
+stepped pyramids, sacred
+temple courtyards, and golden cities of untold riches and
+danger.  
+
+
+## Characters
+
+## Hero Classes
+These Hero Class descriptions help flesh out a better narrative picture of their roles within the setting of Shadows of Brimstone.  
+### Valkyrie Shield Maiden
+Riding down from the sky on a winged steed, the death dealing Valkyrie is a warrior maiden in the service of Odin himself, the god of war! Though their numbers are few next to the hordes of beasts and demons that have overrun the land now tainted by the void energies of the Dark Stone, the Valkyries have come to help defend the lands of mortal men from the encroaching Darkness.  
+
+## Team Heroes
+Team Heroes are additional Hero Classes that can be found in various Adventure Set and Expansion products. They function just like normal Hero classes, but are narratively designed to work together as a team. Being thematically part of a team, they likely have a shared overlapping history for role playing purposes. 
+
+## Team Heroes - Conquistadors
+
+### El Capitan
+A leader of the
+expedition, El Capitan is
+a skilled swordsman and
+explorer of noble lineage.
+His armor and helmet are
+adorned with gold filigree
+and a striking feather
+plume, indicative of his
+suave nature and regal
+stature.  
+
+**Armor and Sword**  
+El Capitan’s Ornate
+Helmet and Conquistador
+Armor grant him a built
+in extra Armor 5+ save
+against each individual
+Wound he might take, as
+well as increasing his ability to hold and use Ambition. Armed
+with a Spanish Sword, El Capitan is also skilled with a blade,
+making his Critical Hits deadly with a side step and a thrust.  
+
+**Ambitious Leader**  
+Ruthless and confident, El Capitan is the military leader of
+the group. Selecting the Boundless Ambition Starting Upgrade
+lets him make full use of his Ambition, with a chance to
+Recover it whenever he kills a foe, and letting him spend up
+to 2 Ambition per turn for Re-rolls. The Expedition Leader
+Upgrade allows El Capitan to bring an extra Team Ability card
+to each Adventure, and to use his experience and Battle Plans
+to help his fellow explorers Re-roll a To Hit or Defense die
+while nearby.  
+
+### Explorer
+The Explorer is an
+expert at guiding the
+expedition, seeking out the
+objectives and treasures the
+party is searching for.  
+
+**Versatile Gear**
+The Explorer’s Armor
+is not as heavy or robust
+as that of the Soldier, but
+it still grants an Armor 6+
+save against Wounds he
+would take. In addition,
+the Morion Helmet helps
+by letting him Re-roll a
+single Armor save or a
+single die on a Skill test
+once per turn. Topped off
+with a Spanish Sword for
+doing extra damage on
+Critical Hits makes the Explorer a good combat fighter as well.  
+
+**In Search of Discovery**  
+Using the Thirst for Discovery Starting Upgrade, the
+Explorer can move faster and gains extra XP for Looking
+Through Doors and Scavenging the area. It also grants him
+bonus Grit for exploring new Map Tiles. The Dark Stone
+Hunter Upgrade instead focuses on collecting the magical
+black rock. It lets the Explorer carry Dark Stone without being
+corrupted by it, and gives him the ability to use Dark Stone to
+cancel Darkness cards during the Adventure.  
+
+### Duelist
+A nimble master of
+fencing, the Duelist relies
+on speed and her skill
+with the blade to carry the
+day. Forgoing the heavy
+armor of her teammates,
+she lunges and thrusts
+to skewer her foes, while
+parrying their strikes away.  
+
+**Dueling Blades**  
+The Dueling Blades
+of the Duelist are quite
+versatile and can be
+equipped as either singlehanded
+or two-handed.
+While just using one
+Hand Slot, they let you
+force an adjacent Enemy
+to Re-roll one of their To
+Hit rolls once per turn.
+This allows you to protect yourself, or others that are nearby.
+While equipped in both of your Hand Slots, it also grants you
++1 Combat, giving an extra die for your Melee Attack. This
+versatility means that the Dueling Blades are great to use on
+their own, but can be easily paired with another weapon you
+find along the way.  
+
+**Master of Death**  
+The Duelist’s Starting Upgrade options help her to deal
+out death, or avoid it altogether. With Dance of Death, she
+gets to roll an extra Combat die whenever she rolls a Critical
+Hit. This can turn a fairly basic Attack into a whirlwind of
+destruction. With Laughs at Death, she gets to use a D8 for a
+single Defense roll per turn (even getting to roll against a Hit
+that would ignore Defense), and if she needs to use a Revive
+Token, she has a great chance of not having to discard it.  
+
+### Soldier
+A stern veteran of
+warfare in Europe, the
+Soldier is a hardened
+warrior. He is heavily
+armored and equipped
+for combat, wading into
+hordes of Enemies that
+would crush a less seasoned
+fighter.  
+
+**Heavy Crossbow**  
+The Soldier is armed
+with a heavy Crossbow to
+punch through even the
+toughest defenses of his
+opponents. The Crossbow
+uses the D8 To Hit, giving
+him much better odds of
+getting Critical Hits. At the
+same time, he is the toughest of the group, with a high Health
+and heavy Conquistador Armor granting him an extra Armor
+5+ save against incoming Wounds.  
+
+**Veteran Mercenary**  
+Sanity from already experiencing the horrors of war up
+close, as well as a Grizzled Scowl letting him Re-roll one of his
+To Hit rolls each turn for free. The Mercenary Upgrade instead
+focuses on doubling the Gold you collect just for killing each
+Enemy, and giving you Grit back in a more consistent flow
+(which of course can also be taken as Ambition).
+
+### Trederran Strike Team
+The Trederran Strike Team is an elite fighting squad of alien Special Forces soldiers, deployed on dangerous missions by the High Command of their Trederran Nation.  
+
+This Expansion includes the new Trederran Team Heroes, with 4 unique types of Trederrans to play as - the Sergeant, leading the team with grim determination, the Legionnaire, an elite soldier pulled from the front lines, the Specialist, a master in using the various Weapons of War, and the Engineer, a demolitions and tech expert. This allows players to take on the role of a team of alien Anti-Heroes for the first time.  
+
+The Trederran Strike Team Expansion includes the Trederran Team Hero Class, with 4 different Sub-Class specialties to play – the Sergeant, Legionnaire, Engineer, and Specialist.  
+
+**Sergeant** – A veteran of many campaigns, the Sergeant is a grizzled soldier who charges into the fray, leading his men on deadly missions. Armed with a Sergeant’s Sabre and Master Forged Trench Pistol, he closes with deadly speed to engage his foes up close and personal, while giving Commands to his unit.  
+
+**Legionnaire** – Pulled from the Trenches to go on special operations as part of the Strike Team, the Legionnaire is the best at what he does. Equipped with the full trench gear, Shatter Grenades, and weaponry of a front lines soldier, he is a crack shot, armed to the teeth!  
+
+**Engineer** – The Engineer is a master of tech and demolitions, brandishing an Arc Light Pistol and using the latest in Trederran technology with an array of Dark Stone powered gadgets. Utilizing stealth over sheer force, the Engineer helps the team to overcome obstacles, locate their objectives, and is the best equipped to set up toxic gas generators and other nefarious devices.   
+
+**Specialist** – Heavily armored and trained in the use of a variety of powerful Weapons of War, the Specialist can select a different Special Weapon at the start of each Adventure, to suit the needs of the mission. Whether wielding a Grenade Launcher, a Dragon Fire Thrower, a Light Machine Gun, or even a brutal Chain-Blade, the Specialist adds extra punch to the Strike Team’s arsenal.   
+
+### Viking Team Heroes
+The Gates of Valhalla Adventure Set includes the Viking Team Hero Class, with 4 different Sub-Class specialties to play – the Jarl chieftain, Huscarl honor guard, Raider, and Berserker.  
+
+**Jarl** – A Leader of the clan, the Jarl is a brutal and stubborn warrior. Armed with a two-handed War Axe and a heavy coat of Mail Armor, he splits his foes in half with deadly force, boosting his Rage by rolling Critical Hits or shrugging off damage with his chainmail armor.  
+
+**Huscarl** – One of the clan’s distinguished honor guard, the Huscarl carries a hefty Shield and Norse Sword, crafted to cut down the savage Beasts and Demons of the north. She is also an expert with the Viking Bow, used to pick off Enemies at a distance and take quick shots at the beginning of a skirmish, before she charges into the fray.  
+
+**Raider** – The most classic Viking, a Raider is a warrior of few words, most often uttered as a Battle Roar before leaping into combat. Armed with Heavy Furs, a Raider’s Helmet, Shield, and Viking Axe, the Raider hacks Enemies apart, shrugging off hordes of foes as he goes.  
+
+**Berserker** – Whipped into a frenzy of battle, the Berserker is a madman. Swinging two lethal axes, and fighting bare-chested, but for a wolf pelt slung over his shoulders, the Berserker unleashes his Rage in a swirling melee of death and destruction. Though not the most accurate or defensive of fighters, he makes up for it with a dizzying flurry of blows!  
+
+### Conquistadors
+The Valley of the Serpent Kings Adventure Set includes the Conquistador Team Hero Class, with 4 different Sub-Class specialties to play – El Capitan, the Explorer, Duelist, and Soldier.  
+
+**El Capitan** – Leading the way, El Capitan is guided by his Boundless Ambition. Adorned in finely-crafted armor and a plumed helmet, he stands at the head of the expedition, slicing down any foes that stand in his way with an armored fist and his ruthless Steel Sword.  
+
+**Explorer** – The quintessential Spanish Conquistador, the Explorer wears a classic breast plate and Morion Helmet, and is armed with a sword of finest Spanish steel. He specializes in helping the group to pick their way through the jungles and swamps, seeking out vast treasures and avoiding traps set by the villainous Serpentmen that stalk the Valley.  
+
+**Duelist** – A lightly armored fighter, the Duelist prefers speed and agility over brute strength. She is armed with a set of finely crafted Dueling Blades that slice through the air with deadly accuracy, easily parting her opponents from their limbs. The Duelist’s fighting style is more akin to an artful dance of death.  
+
+**Soldier** – Stalwart and stubborn, the Conquistador Soldier is heavily armored, from head to toe, carrying a powerful Crossbow to skewer his foes. A veteran fighter, trained on the battlefields of Europe for over a decade, the Soldier has joined the Expedition to seek out a fortune of his own.  
+### Cursed Eternal
+One of the twelve crew of Ponce De Leon that explored the wilds to discover the Fountain of Youth, the Cursed Eternals succeeded in their quest for immortality, but at a grim cost. By drinking the Fountain's water, they were granted eternal life, but live out their days in a constant state of withering away, gaunt and pale. Only by cutting down Enemies with his tainted Ghost Blade, and stealing the life essence from his foes, can the Cursed Eternal hold his deterioration at bay.  
+
+## Enemies & Factions
+While most factions and creatures are usually treated as dangerous Enemies in the game, sometimes players are able to play as characters belonging to a faction they are normally enemies with, such as Trederrans. Because of this, "Factions and Creatures" is used as the title for this section instead of "Enemies". There is always the possibility for narrative situations in which these characters take roles such as NPC's and companions instead of enemies during an adventure.  
+
+Each enemy design is often narratively connected and native to one of the world settings in Shadows of Brimstone. Of course, due to Gates creating temporary bridges between two worlds, it is possible to encounter enemies that are not native to the world in which the Heroes find themselves exploring. But in general, encountering non-native enemies should be more rare in order to make each world setting feel more narratively cohesive. There are some enemies, such as the Shikari Nomad's, which are specifically designed as enemies that travel through Gates to worlds that are not native to themselves as part of their narrative design.  
+
+### Enemies - Various
+**Bastet Assassins**  
+Using the shadows to move quickly, unseen and silent, the Bastet Assassins are nimble warriors of the Goddess Bastet. They strike without warning and fade back into the darkness with a whispering purr.  
+
+The Bastet Assassins have a Supernatural Prowess to fade from shadow to shadow, repositioning themselves to the best advantage against the Heroes. With a Rapid Strike, they slice and stab their target with countless cuts, ducking and weaving their way through a fight.  
+
+**Hell Train Void Conductor**  
+Tainted by the corruption of the Darkness, the Void Conductor of the Hell Train rings his ominous bell to shift reality around him, tearing open rifts into the Void and spreading terror through the cursed Train!
+
+The Void Conductor is a Hell Train-themed Mini Boss that can buff other Enemies around him and Shift Reality to his will, opening tears in space to unleash fierce creatures from the Void. His body is twisted and in a constant state of mutation and flux, making him a difficult foe to lock down.  
+
+**Hell Bear**  
+Bursting through the snowy trees, the mammoth Hell Bear is a terrifying enemy to behold. Towering over the Heroes, this mutated behemoth is tainted by the Darkness and enraged by the power of the Hellborn! Often preceded by menacing roars that echo through the icy crags and across the frozen wastes, the Hell Bears of the Norse Lands are not subtle in their hunting methods.   
+
+The Rage of the Hell Bear is limitless, as it shreds anything within the reach of its massive jaws and powerful clawed arms. Though they often travel on their own, Hell Bears are also renowned for hunting in packs. While one of these wild creatures can be an unstoppable force, an encounter with a pack of them is rarely recounted, as there are few that live long enough to tell the tale.  
+
+The Hell Bear is an XL Beast that can be found on regular Threats (LOW, MED, and HIGH), though often Heavily Mutated when traveling as a pack. A full-strength pack can be encountered as an EPIC Threat. They also appear in the Targa Plateau OtherWorld in the form of the savage Nomadic Yeti.  
+
+Though their heavily mutated form prevents their Health from getting too high, the Hell Bear's Monstrous Rage allows them to be constantly Healing Damage for every Hit assigned to them! This includes Hits that do no Damage, so your Attacks may end up Healing the creature even if they can't break through its Defense.  
+
+With its Ferocious Attack, the Hell Bear always Re-targets each turn, moving to get next to as many Heroes as possible, then making its full Attack against every adjacent Hero. This combined with its Terrifying Claws that ignore Defense on To Hit rolls of 6+, make Hell Bears dangerous foes to face. In addition, their Claws also give Hell Bear Combat Hits an extra Damage bonus if the Hero rolls a natural 1 on their Defense roll for that Hit, as the Hero has left themselves open to a more savage Attack from the creature.  
+
+One XL Hell Bear is dangerous, but a pack of up to 3 Hell Bears at a time can be downright devastating to a Hero Party. One more reason that the Norse Lands are not to be traveled lightly.  
+
+**Shadow Lurker**  
+Shifting through the darkness that spreads across all worlds, the Shadow Lurkers are ancient demons of the Void. They are formless, malign entities that watch from the shadows, hungering to feed on the memories and experiences of their victims, as well as the most wretched of human emotions. Jealousy, lust, wrath; but above all...greed. They are drawn to the history and power of relics, stalking those that collect and carry artifacts from world to world. These creatures take on a monstrous humanoid form to erupt from the Darkness, with quivering cheeks and a hate beyond time as they relentlessly terrorize their prey, lashing out with long, clawed fingers and viciously jagged teeth. Shadow Lurkers are nightmares made manifest.  
+
+**Feathered Serpents**  
+On feathered wings, the Serpents of Kotak descend from the heavens to hiss and strike at those who would dare intrude on the temples dedicated to their ancient master.  With long, needle-like fangs, the Feathered Serpents deliver a powerful venom to their foes, piercing armor and flesh alike.  Highly agile, the winged serpents dart from target-to-target, lashing out with their tails and using their venomous bite to strike with deadly accuracy.  But perhaps their most dangerous asset is the protection afforded to them by Kotak himself; a powerful death ward that can mend even the most grievous of wounds with the cosmic magik of the Ancients.  
+
+**Fenris Wolves**  
+Howling echoes through the snow-capped forests, and the trees rustle in the shadowed crags of the frozen North. Great beasts stalk the mountain passes, and many a traveler and trader has gone missing in these icy hills. Smashed carts and blood-soaked snow are often all that remains after a pack of ravenous Fenris Wolves strikes their prey.  
+
+Standing nearly 8 feet tall, a Fenris Wolf is a nightmare of myth and legend in the North. With great muscular shoulders and powerful jaws that can snap tree trunks like twigs, the Fenris Wolves hunt in packs, striking from the shadows to feed their supernatural hunger for flesh. Even the gods tremble with fear at the largest and most savage of these creatures. The blood of Fenrir, the greatest of their kind, courses through their veins, while the blood of their foes drips from their fangs.  
+
+**Draugar**  
+Another fearsome Enemy found in the frozen wastes of the Norse Lands are the Draugar. Fallen warriors corrupted by the Darkness, the Draugar rise back up from their rocky graves and snow covered battlefields to hunt down and drain the essence of the living! Still carrying their rusty weapons and broken shields, and adorned in tattered armor and rotting clothes, these Undead Vikings are mere husks of their former selves.  
+
+It is said that the Draugar feed on the Darkness within, the evil that corrupts the hearts of mortal men, leaching the vitality and essence from all living things that lie in their path. Plants wilt and shrivel to a rotted brown as they pass by, while even the air around them grows icy cold and carries the stench of eternal despair.  
+
+**Thunderforged Titan**  
+Forged with roaring thunder and animated by arcing lightning bound within an armored metal shell, these titanic behemoths are the ultimate warriors of Hel, goddess of death. Bursting through the ancient gates of the Underworld, the towering titans emerge from the cold depths of Niflheim to sow chaos and devastation upon the worlds of men and gods alike! Emblazoned with the fiery runes of Muspelheim by the demon-giant Surtr, the Thunderforged Titans leave a trail of flames and erupting magma in their wake as they march to war, and the end of all things... Ragnarok!  
+
+**Lumia Vampires**  
+These dark broods travel by night and feed on the living!  They are an ancient and nomadic band of female Vampires of the old world!  Beautiful and haunting, the Lumia Vampires are deadly hunters - with fangs and claws, and an insatiable thirst for blood! Weaving sinister curses and hexing their prey, only the strongest willed Heroes can stand in the face of these terrifying succubi. Their undead flesh can regrow even the most brutal of wounds, mending before your eyes as they rise back up with a renewed hunger to spread their haunting curse with each Vampiric Bite.  
+
+**Feljeagor Slayers**  
+Forged in the underworld from thunder and lightning, the Feljeagors are animated suits of meteoric armor made for one purpose...to bring about the end times, Ragnarok! Crackling with dark energy, these automaton warriors march to war, brandishing their Slayer Axes to smite gods and men alike, while the deafening roar of their Fel Horns echo through the mountains, whipping their legions into a frenzy of rage.  
+
+**Drowned Dead**  
+One of the main Enemies that Conquistador Heroes will face in the Valley of the Serpent Kings Brimstone Adventures Set are the ghastly and terrifying Drowned Dead that roam the halls of the Spanish Forts! These shambling horrors were once fellow Conquistadors; explorers that came before and have fallen into darkness. Their Corroded Armor hangs loose on their rotten bodies, dripping water and trailing shreds of seaweed and vines pulled from the swamps as they clawed their way back out of the jungle. Wielding Cursed Blades that spread fear and corruption, the Drowned Dead are an Endless Horde, crawling out of the shadows to overwhelm the living!  
+Tainted by the Darkness,
+the Drowned Dead are Spanish
+explorers from previous expeditions
+that have been corrupted, rising
+from their watery graves for
+revenge upon the living.  
+
+
+**Trolls**  
+One of the main Enemies that Viking Heroes will face in the Gates of Valhalla Brimstone Adventures Set are the monstrous and hateful Trolls of the Norse Lands! These hulking, Mythic Beasts live in the wild lands of the north, attacking nearby villages and ambushing unwary travelers to feed on. With jagged claws and a satchel of hefty boulders to throw, Trolls spread fear throughout the dark forests and icy crags they call home. Able to Regenerate even the most gruesome injuries, an angry Troll can be a terrifying foe to face, let alone a group of them.  
+
+**Deep Stalkers**  
+Deep Stalkers are terrifying fish-men, emerging from the deep dark below the churning surface of the sea! With both gills and lungs, these slimy fiends are equally at home in water or on land. They climb aboard ships that stray into their domain, attacking the crew and stealing their supplies (as well as kidnapping the occasional crewman for their dark feedings).  
+
+**Leviathan Tentacles**  
+Leviathan Tentacles are the long, squid-like tentacles of a massive Leviathan, submerged below the surface of the water. These long Tentacles rise up from the deep to attack Heroes at sea, or those that linger too close to the coastlines.  
+
+**Gremians**  
+One of the new enemies featured in the Gates of Valhalla Shadows of Brimstone Adventures set, is the Gremians!  The set contains 12 of these small impish little demons, and they are nasty little guys!  This is a closer look at the miniature sculpt.  We named these guys for the Olde English word Gremian, which later evolved into the word Gremlin.  But any way you spell or pronounce it, they mean business.  Specifically, the business of trouble-making!  Each Gremian in Gates of Valhalla is armed with a sturdy little knife to poke, stick, and stab at heroes, and little clawed fingers and toes that can scratch at any heroes who cross paths with them!   
+
+Gremians can be found to infest many different Worlds, whether hiding among the snow-covered trees of the Norse Lands, or lurking in the shadowy corners and dark halls of the ancient city of the Targa Plateau.  
+### Faction: Setaris Kitewings
+
+**Setaris Ravagers**  
+The Setaris Kitewings are a ruthless alien civilization, bent on conquest and devastation. A reptilian species with large, leathery wings, they descend from above to rain death upon their foes. Often acting in small bands of space pirates known as Ravager Enclaves, these cunning raiders have mastered Hit-and-Run attacks to strike quickly and without warning. Not known for taking prisoners, it is said that the Setaris have a habit of feeding on the dead.  
+
+The Setaris Kitewings were first introduced in the Conquest of Planet Earth board game as one of the many Alien Races that players could control in their bid to conquer 1950's Earth. A reptilian species, the Setaris soar through the sky with their swooping wings and lashing tails, chittering and cawing to each other through their long vicious beaks filled with razor sharp teeth. But do not let their savage and monstrous demeanor fool you; they are an advanced civilization, ruthless in their desire for conquest, wielding dangerous technologies and armed with powerful weapons.  
+
+Though not particularly tough, the Setaris Ravagers can strike fast and hard, blasting the Heroes with their Setaris Laser Rifles before closing in to scratch and claw with their talons. These sinister Enemies use the rules for Snap Fire,  giving them the opportunity to make a free Ranged Attack each turn before closing in on the Heroes to use their Combat; then falling back to a distance to be ready to start the process again the following turn. And, with their Masters of Snap Fire ability, the Ravagers are even harder to pin down than other Enemies that use Snap Fire. They are also quite fast as they fly through the air, evading damage with their Agile Dodge.  
+
+As Alien pirates, enclaves of Setaris Ravagers can be found across the  galaxy, looting and pillaging travelers and settlements, then disappearing as quickly as they arrived. To represent this, the Setaris  Ravagers Enemy Pack includes OtherWorld Threat Cards for encountering them in the Swamps of Jargono, Blasted Wastes, the Targa Plateau, and the Derelict Ship, as well as the standard Threat cards for Low, Med, and High threats.  
+### Faction: The Trun
+
+**Trun Outcasts**  
+Part of a brutish warrior race of reptilian soldiers, the Trun tower over humans, standing around 10' tall. With rippling muscles and a thick scaled hide, the Trun are the ultimate hunters in the galaxy, using brutal weapons and wearing heavy armor plating. They seek out deadly prey to test their skills, living and fighting in tribes of armored warriors.  
+
+Sometimes, when a member of a Trun hunting pack becomes disgraced or fails in a critical hunt, they are banished from the tribe, an outcast to their people. These warriors often seek out a glorious death in combat or travel great distances to stalk the deadliest prey alive. But some... some choose to take on a new life. A life of adventure...danger...the life of a Hero! Or maybe just a mercenary. If the pay is high and the chance of glorious death is higher, a Trun Outcast can rarely say no.  
+
+### Faction: The Scafford Gang
+
+The Scafford Gang are the most notorious mutant outlaws in the Southwest! Making their hideouts in the old caves and mines around the ruins of Brimstone, they have becoming grossly mutated by the cursed radiation of the Dark Stone. As their infamy grows, so too do their ranks, welcoming in any fellow mutants that have been ousted by the locals or that are just looking to make a dishonest buck!  
+
+Lead by Colonel Scafford and his original gang of confederates (including his miscreant sons), the Scafford Gang mostly loots travelers on the road, knocks over frontier town banks, and raids caravans for their gold and precious Dark Stone cargo. But when it comes to bigger heists, the Colonel’s daughter, Captain Belle Scafford, rides out with her mutant Outriders to race down Trains in search of the big scores.  
+
+**Belle Scafford**  
+Favorite Daughter of the Colonel, Captain Belle Scafford is an expert horsemen, deadly duelist with a sabre, and a rogue of the highest order. She has a twinkle in her eye, and a cutthroat smile, with a ruthless disposition. Many men have died underestimating her skill, both on horseback and with a blade. Quick on the draw, she never shoots a man in the back… they are rarely fast enough to turn and run.  
+
+**Scafford Outriders**  
+The Scafford Outriders are mutant train robbers that descend from the hills to hit the rail lines that run through the valleys and gulches near Brimstone. Riding thunderous horses tainted by the Void energy of the black rock, these wild outlaws use their weird and wondrous mutations to great effect during a heist. With slippery skin to squeeze through the train’s windows, flailing tentacles to climb onto the rooftops, or extra limbs to hold up several passengers at once, they hit and run, leaving only a slimy trail and the faint echo of cackling laughter in their wake.  
+
+**Safecrackers**  
+When extra muscle is needed to tear the doors off a train or rip a steel safe to pieces, the Safecrackers always get the job done. These hulking mutants can charge up alongside a train, running at full bore before making a massive leap to land on the Rooftop. With meaty barbed claws and rippling muscle, they can shred right through anything that stands in their way, whether it’s the side of a train car, a reinforced bank safe, or even the unfortunate marshals that try to stop them. No cage can keep them in, no wall can keep them out.  
+
+**Morty Scafford**  
+Though afflicted with a hideous troll body and diminutive size, Mortimer J. Scafford makes up for his shortcomings by being the best heist planner and safe breaker in the West. Armed with the tools of the trade and a custom stethoscope for fine detail work, he often rides into battle perched atop one of the massive mutant Safecrackers to get him where he needs to be. Planning every heist down to the last detail, Morty Scafford leaves nothing to chance. If you think you know what he’s going to do, he’s most likely already been and gone, and he probably stole your wallet too.  
+
+### Faction: Pharrox Vampires
+
+**Queen of the Dead**  
+Ruling monarch of the last Dynasty of Pharrox, Ariandra the Third, Queen of the Dead, retreated into her inner sanctum as the towers burned and the foundations of the city were torn apart by Dark Stone explosions from sabotage within and a fierce onslaught above. As the entire island crumbled and slid beneath the surface into the watery depths, she swore an oath of vengeance on all those that opposed the mighty Kingdom of Pharrox and her bloodline.  
+
+**Dynastic Guard**  
+Heavily armored royal guardsmen of the crimson court, the Queen’s Dynastic Guard defended the gleaming spires of Pharrox Atlantea to the last moments before the kingdom fell. Bred for battle, only the largest and fiercest fighters would be granted the honor of the court’s chosen, often dueling to the First Blood Feed for position amongst their ranks.  
+
+**Atlantean Automaton Warriors**  
+For thousands of years, the mechanical warriors of Pharrox marched to war for their vampiric masters, sweeping away all opposition before the might of their unyielding blades. Using shimmering gateways, the armies of Pharrox would appear from the sea to crush any that would dare defy them. Unbothered by the harsh light of the sun above, these soldiers were relentless in battle. Once the island city toppled into the sea, they found new purpose in the dark halls of the submerged ruins, watching over the twilight slumber of their masters for millennia until the kingdom was ready for a new call to war.  
+
+**Court Artificer**  
+Masters of Atlantean technology and super science, the Court Artificers maintained the Kingdom’s defensive batteries of burning mirrors and legions of Automaton warriors. Brilliant tacticians and cunning fighters, the Artificers wield electrified polearms that are both tools of their trade and deadly weapons charged with Void energy.  
+
+### Faction: Order of the Crimson Hand
+
+The Order of the Crimson Hand has a long and rich history of seeking out ancient relics and sinister offerings to unlock forbidden lore and the power of dark gods. These Acolytes of occult knowledge have devoted their souls to unlocking the secrets of these twisted and dark magiks. Carrying scrolls writ in tainted blood and runic amulets imbued with chaotic potential, the Dark Acolytes of the Crimson Hand set up wicked altars and lead depraved rituals aimed to summon demonic creatures and unleash this raw  power for their own nefarious goals.  
+
+**Dark Acolytes**  
+The Order of the Crimson Hand has a long and rich history of seeking out ancient relics and sinister offerings to unlock forbidden lore and the power of dark gods. These Acolytes of occult knowledge have devoted their souls to unlocking the secrets of these twisted and dark magiks. Carrying scrolls writ in tainted blood and runic amulets imbued with chaotic potential, the Dark Acolytes of the Crimson Hand set up wicked altars and lead depraved rituals aimed to summon demonic creatures and unleash this raw power for their own nefarious goals.  
+
+The Dark Acolytes bring another facet of the sinister Order of the Crimson Hand into the game. Tasked with preparing the occult rituals and dark altars of the Order, these Acolytes are steeped in Arcane Lore, using scrolls and amulets to gain Runic Protection and to unleash spells on the Heroes. Arcane Magik is a new Spell Deck that allows the Dark Acolytes to summon Demons or Undead to the Fight, launch bolts of Arcane Energy, or even allow one of them to ignite their hand ablaze with a crimson fire to attack, a burning effigy of the ancient Master of the Order, Shi-Hai Da’kal. Though not as tough as their more numerous cultist brethren, Dark Acolytes are every bit as zealous, using arcane lore and forbidden knowledge to attack the Heroes.  
+
+
+**Dread Inquisitors**  
+
+Dread Inquisitors are part of the ancient Order of the Crimson Hand - a secret cult that has been around for centuries.  They are dark masters of pestilence, wielding vile plagues to unleash upon any that would stand in the way of their sinister plans!  Fueled by Dread, they are brutal and menacing, wielding metal  "man catcher" pole arms and some also carry long, curved blades for rending flesh from bodies!  They hold themselves with an air of confidence because no one dares to question their authority.  
+
+The Inquisitors are the most feared and deadly branch of the Crimson Hand; a shadowy and sinister organization, even within the already secretive Order.  While most of the Crimson Hand are dedicated to seeking out ancient and occult artifacts to use in their dark rituals, the Dread Inquisitors of the Pestilarium Morbus are masters of death. Guiding and harnessing many of the worst plagues in human history, their goal is to control life and death itself, through the manipulation of disease and pestilence.  Wearing heavy layered robes, leather gloves, and menacing masks, the Dread Inquisitors are protected from the terrifying plagues they cultivate and spread. They are ruthless in their methods of death and destruction, and once you see them, it may already be too late!  
+
+
+### Faction: Targa Robots
+
+**Targa Librarian**  
+The Targa Librarians are sinister alien robots that preside over the Library Archives of the Targa Plateau. Guided by the Artificial Intelligence of the central Data Core, these caretakers float through the icy abandoned halls of the technological repository, gathering new information to add to Targa's vast Library of ancient knowledge.  
+
+Standing more than 3 meters tall, they tower over most other robotic servants and drones within the hallowed halls. Connected directly to the Intelligence, the Librarians of Targa are its physical avatars that move about the Archive, managing the systems and controlling the lesser automatons. Though responsible for much of the Archive's upkeep and organization, the Librarians are also equipped with some of the most advanced technology and weapons that the Library has to offer. Unwitting explorers soon discover that the Librarians of Targa are just as cold and ruthlessly efficient at dealing with intruders as they are at filing new entries into the data columns of the Archive.  
+
+The Targa Librarians can be one of the most deadly Enemies in Shadows of Brimstone, and that's saying something. Often appearing as a mini-Boss, the Librarians use their ancient technology for both powerful defense as well as deadly attacks. Whenever a Targa Librarian enters play, it draws one of the three cards from the Codex deck to determine what style of Librarian you are facing - Adjutant, Moderator, or Recordkeeper. This Codex modifies the Librarian's weapons and abilities, as well as its behavior in the fight.  
+
+Covered in *Ceraphin Plating* to reduce the effectiveness of Critical Hits, and equipped with an Ancient Forcefield that deflects a good amount of Damage from every incoming attack, a Librarian can be difficult to damage. This combined with its Codex weapons and high Combat and Damage values, as well as its Adaptive Strategy, make the Librarian a terrifying foe to face.  
+
+The Gates of Valhalla Adventure set comes with 3 Targa Librarian miniatures that can be assembled as one of each Codex. Usually Heroes will only fight 1 Librarian at a time, though some exceptionally dangerous fights may include up to 3 Librarians (which means you had better have your affairs in order).   
+
+**Centurion**  
+When ancient sensors are tripped by unwary intruders, detachments of long-dormant, robotic Centurions come to life. Stepping out of their charging alcoves, they march to battle in defense of the frozen city. Armed with Power Swords and Blast Shields, these defenders of the Targa Plateau are ruthless in their cold and calculating tactics.  
+
+Targa Centurions attack in groups, relentlessly marching toward the Heroes in a column of armored might. They have no remorse and give no quarter to their foes, only death. In battle, the Centurions' Power Swords slice through Armor and flesh, while blows deflected by their Blast Shield can cause a concussive burst of energy able to knock their attacker across the room!   
+
+### Faction: Trederra
+
+**Trederran MK IIs 'Lightning' Scout Tank**  
+Feared across the battlefields of Trederra, the Mk IIs "Lightning' Scout Tank rolls over trenches and rumbles down burnt out streets in search of the enemy. Grinding gears and plumes of black smoke bellow from the steel beast as it scouts ahead of an armored column, or lends its deadly firepower as infantry support to the Legionnaires. Though smaller than most of the massive tanks of Trederra, the Lightning is more maneuverable, and fueled by Dark Stone, it still packs a punch. It is one of the only Tanks routinely used for excursions into OtherWorlds when the mission calls for overwhelming fire support.  
+
+### Faction: Serpentmen
+
+**Temple Guard**  
+Massive and brutish Serpentmen, the Temple Guard
+are terrifying foes to behold. Trained from a hatchling in
+the ways of the ancient warriors, these hulking reptiles
+protect the sacred temples and shrines throughout the Valley
+of the Serpent Kings.  
+
+
+# Shadows of Brimstone - Design Reference
+This document is a reference explaining some of the intentions and goals of the Shadows of Bristone game design. It can be useful as a companion reference document to the actual rules, explaining the tone, goals, and intentions behind the design of the rules and thematic elements. This can be helpful for understanding the official rules better, as well as how to modify them with custom house rules and new mechanics to be aligned with the rest of the game. This guide is especially helpful for Large Language Models and future AI's as additional training and reference data so that the AI may assist in interpreting rules, creating new rules and mechanics, and playing the role of a Game Master for human players.  
+
+Most of the text of this document has been taken from various articles, interviews, and other posts by the games designers. Short design-focused articles that were published during the various Kickstarter campaigns were especially helpful in adding to the data here.  
+
+## How Does the Game Play?
+Shadows of Brimstone is a fully-cooperative, Dungeon Crawl adventure game! That means that all of the players form a Hero team (or you can play solo) and are working together against the game itself. You set out on your expeditions exploring a torch-lit Spanish Fort that has been overrun with creatures and demons, or the snowy forests of the Norse Lands, filled with mythological beasts!  The team can take on different missions from the Adventure Book, each with unique set up and victory conditions. You may be searching for a sacred artifact, stolen from a nearby settlement by demons and carried off into the darkness, or you might be tasked with sealing off portals that unspeakable creatures are pouring out of!  
+
+1-4 Players (or up to 5-6 Players if Adventure Sets are combined together or with additional Hero Expansions) create their Heroes by selecting a Hero Class and Starting Upgrade to play, such as the Conquistador Explorer or Viking Raider.  
+
+Once your team is ready to go, the players roll (or decide) what Mission they have taken on and the game begins! Each Hero is represented by a figure on the game board and all of the figures are placed on the Fortress Entrance Map Tile to start the game. All of the Card Decks are shuffled, each Hero gets 1 Grit Token, and the Depth Track is setup with the Hero Party’s marker on the entrance and the Darkness marker deep in the shadows (at the opposite end of the track). Players then draw their Team Ability cards to add to their shared pool for the Hero Party.  
+
+At the start of each turn, the Hero with the Light Source (Lantern or Torch) rolls 2 dice to Hold Back the Darkness! This roll needs to be equal to or greater than the number listed on the current stage of the Depth Track. If the roll is passed, the Heroes carry on without delay. If the roll is failed, the Darkness moves one step up the track toward escaping from the shadows! But beware, if the Darkness marker ever reaches the entrance space on the Depth Track, it has escaped, and the mission is failed. As an added element of danger, if the Hold Back the Darkness roll is ever doubles (1-1, 3-3, etc), this instead triggers a random event from the Depth Event Chart equal to that number!  
+
+Heroes now Activate in order of Initiative, with the highest going first. During a Hero’s Activation, they roll a die and may move up to the amount rolled. If a 1 is rolled, the Hero also recovers an extra Grit Token. Grit Tokens are used for a number of things in game. A Grit Token may be discarded to Re-roll any number of your dice just rolled (though a die may generally not be Re-rolled more than once), or a Grit Token may be discarded to move an extra die roll worth of spaces during your Movement. A Grit Token may also be used to activate certain powerful character abilities.  
+
+After moving, a Hero may attack if there are any Enemies on the board, or if not in a Fight, they may Explore by either Scavenging the area for anything of value (rolling 3 dice and drawing a card from the Scavenge deck for each 6 rolled), or Looking Through a Doorway, if standing on an open exit of a Map Tile. To Look Though a Doorway, you must be in one of the puzzle-cut half spaces of an open exit from the map tile you are on. You may look down the hall and draw a random Map Card to place the next Map Tile, connecting it to the doorway you are looking through. Each time a new Map Tile is placed, you must also move the Hero Party’s marker one step forward on the Depth Track, as the Hero Team delves deeper into the unknown. This is important because as the Heroes go deeper into the shadows, it becomes harder and harder to Hold Back the Darkness (the number required to roll gets higher, the deeper the Hero Party has gone).  
+
+Newly placed Map Tiles are always either a Room or a Passage. Passage Tiles have open doorways on all ends and can often split the path in front of the Heroes. They do not, however, contain Encounters for the Heroes to deal with. Room Tiles, on the other hand, always come into play with an Exploration Token on them. As long as there is an unrevealed Exploration Token on a Map Tile, Heroes may not Scavenge or Look Through a Doorway on that Map Tile (you can’t explore further than that room with the unrevealed token). At the end of a full Turn (after all Heroes have been Activated), if there are one or more Heroes in a Room with an Exploration Token, that token is revealed!  
+
+While exploring, Heroes can find large, swirling portals that the Enemies are coming through to attack, and they can step through those gateways into a crazy alien World, continuing their adventures on the other side! All of the Map Tiles are double-sided, with the Earth-based world on one side and an alien OtherWorld on the back side. In Gates of Valhalla, the alien World included is the Targa Plateau - Library! In Valley of the Serpent Kings, the OtherWorld is the Swamps of Jargono - Valley of the Serpent Kings. Stepping through the portal, the Heroes find themselves in the halls of a dark archive deep within a frozen ancient alien city, or the sprawling tribal temples and crumbling stone ruins covered in vines and sunken into the water of the murky swamps.  
+
+Once the Heroes have reached their objective for the mission being played, they will often have one final Epic battle with an Enemy boss to complete the Adventure!  
+
+Between Adventures, the Heroes can travel back to their Expedition Camp to re-stock and re-supply, having a mini-Adventure in Camp before setting out on the next Mission.  
+
+Shadows of Brimstone has a built in campaign system allowing the players to keep their Heroes from game to game, finding cool new Gear and Artifacts that they can use in their continuing Adventures, while gaining experience and going up in level to unlock new skills chosen from their Class-Specific Skill Tree.  
+
+## Traps in The Lost Tombs
+One of the biggest features of exploring lost temples and tombs in pulp adventure is the idea that they are littered with booby traps and all manner of deadly challenges that the explorers must face as the delve deeper into the hidden chambers and twisting passageways.  
+
+This could have been accomplished within the normal framework of the game, using Encounters and Darkness cards, but we wanted this to be a larger feature of this Core Set, creating not just more detailed Traps, but also more elaborate Solutions for how the Heroes get out of them! This lead to a 3 part system when a Trap is triggered (which can happen based on Encounters, Darkness cards, even a Depth Event result can lead to a Trap!) - Draw a Trap card to see what the specific Trap is, use the Trap Type large Reference card for the general details of that Type of Trap, and draw a medium size Trap Solution card that details what the Heroes need to do to escape or disarm the Trap!  
+
+This gives a lot of variability in the different Trap Types we can have, combined with the specific details of the particular Trap drawn, and then a variable Solution for the Heroes to overcome. It also leaves a lot of design space for easily adding more new Trap Types and Trap Solutions in the future.  
+
+One of our main goals with the new Traps game mechanic was to create an experience for the Heroes that was as exciting, tactically challenging, and detailed as a Fight, but without the Enemies. (Note that a few of the Traps in the Trap deck are marked as using the Dangerous Hazard Trap Type. These are not as detailed and represent the simple damage dealing Traps, like gouts of flame bursting out of the floor, poison darts, or skewering spears. These are more like traditional Encounters, using the Heroes' Skills to avoid the danger, and usually having a penalty that involves taking long lasting Status Effect markers like Bleeding, Burning, etc. These are mixed in to keep the Heroes guessing, but also work well as a subset of the deck, if you want to have a faster or lighter Trap experience for an Adventure).  
+
+### Gameplay Example of a Trap
+Here is a quick gameplay example of a Trap in action.  
+
+Our 4 daring Heroes move through the tombs in search of a Lost Relic. As the Archaeologist Hero Explores, looking through the Door ahead, the Broken Corridor Map Card is drawn and the Map Tile is placed, as well as a facedown Exploration Token on that Map Tile. The other Heroes move up cautiously (except for the Soldier of Fortune, who often runs headlong into a new Room, ready for a Fight).  
+
+When the Exploration Token is revealed at the end of the Turn, there is 1 Door Icon meaning a Random Exit of the Map Tile is an Open Doorway (an End Cap is used to block off the remaining potential Exit from the Map Tile). The Exploration Token also has the Heroes draw a Lost Tombs Encounter card - Shafts of Light. As listed on the card, the Heroes must choose as a group, Avoid the Light or Solve the Puzzle. They decide to Solve the Puzzle using their Skills, but unfortunately, they don't all succeed at the the tests they are required to make and failing the Encounter triggers a Trap!  
+
+The Heroes draw a Trap card and discover the Room Filling with Sand!   
+
+Using the *Room Filling* Trap Type, it notes that all of the Heroes not on the Map Tile are immediately moved into the Room the shortest distance to not be on a puzzle-cut doorway space. It also blocks off the Entrance as well as all other open Doorways with a Stone Slab marker that slides down into place, covering the Puzzle-Cut spaces. The Heroes are Trapped!  
+
+Next on the Room Filling Trap Type Reference card it has the players place a Fill marker in every interior corner of the Room, including where the End Cap was placed (the Stone Slabs do not count as Walls for this). In this case the Fill markers used are Sand Fill markers, as noted on the Trap card that was drawn.  
+
+The Heroes now draw a Trap Solution medium size card to determine what they need to do to disarm the Trap before they are buried and crushed by the cascading Sand that pours in all around them!  
+
+They draw *Find the Pressure Plate*.  
+
+To complete the Solution and disarm the Trap, the Heroes need to scatter around the Room and use their Luck skill to place Scavenged markers in every space of the Map Tile! But remember, the Room Filling with Sand Trap card noted that the Sand Fill markers slow down the Heroes' movement in spaces that it covers, and even more so once every space on the Map Tile has a Sand Fill marker in it. It's a race against the clock!  
+
+The Heroes spread out and start using their Luck to place Scavenged markers as they desperately search for the Pressure Plate. But, as noted on the Room Filling Reference card, at the end of each Turn, every space on the Map Tile that is adjacent to a space with a Fill marker, also gets a Fill marker (limit 1 per space), as the Sand begins to fill the Room.  
+
+The Heroes continue to make Luck tests and place Scavenged markers around the board, until the last space has one, and that will be the location of the Pressure Plate. But as listed on the Room Filling Trap Type Reference card, once every space of the Map Tile has a Sand Fill marker, the Heroes start taking increasing Damage every Turn as they are buried alive. It's going to be close!  
+
+According to the Trap Solution, even once the Heroes find the Pressure Plate, they still need to use their Strength to disable it before being crushed by the sand.  
+
+...and we leave our Heroes in a Cliffhanger! Will they find the Pressure Plate and disarm it in time? Or will they become just another relic added to this Lost Tomb, buried in the desert sands of Egypt?  
+
+As you can see, the Traps in the Lost Tombs of Khamuntet are a really dynamic and exciting new addition to Shadows of Brimstone that is quintessential to the 1930's Pulp genre, and this is just one example of a Trap Card, Trap Type, and Trap Solution combo. There is still a lot more to explore!  
+
+## Team Heroes
+With the new Team Hero Classes introduced in Brimstone Adventure Sets, all of the Heroes of the same Hero Class (Conquistador or Viking) share the same basic set of abilities, but each player chooses which of the 4 starting Upgrades for that Hero Class to use, giving them a Sub-Class - A Conquistador  may be an Explorer, Duelist, El Capitan, or Soldier; while a Viking may be a Jarl chieftan, Raider, Berserker, or Huscarl. This defines your basic character stats - how much Health and Sanity you have, how good you are at hitting enemies with your weapons, how good you are at solving puzzles or dodging fiendish traps, etc. It also gives you a unique starting ability and defines your basic starting Gear - do you start with a War Axe, a shield and sword, Dueling Blades? Each Hero also starts with a Random Personal Item that gives them a bit more ‘character’.  
+
+One other exciting element to the new Team Heroes is the Team Hero Abilities deck. At the start of each Adventure, the players draw one card from the Viking Team Abilities deck for each Viking Hero in the party, and adds it to a shared pool of cards. Each of these cards is a special ability that can be used once during the Adventure, and generally gives all Heroes of that type a bonus.  You must choose as a team when best to use them. In this way, the more Vikings you have on a team, the more Team Ability cards you get to draw at the start of each Adventure to help all Viking Heroes! This works the same way for the Conquistadors, and allows for thematic and heroic teamwork between all the characters in the Hero Party that are of the same Hero Class.  
+
+One of the major new features of the Brimstone Adventures Sets is the introduction of Team Heroes. Instead of being a diverse group that has come together through circumstance to fight back the Darkness, the Team Heroes are a close-knit fighting force that share a common background and have trained to fight side-by-side in battle. Because of this, with a group of Team Heroes, all of the characters start from the same basic Class (Viking or Conquistador), but choose a specialty in the form of their Starting Upgrade card. Unlike normal Hero Classes, a Team Hero Class has 4 Starting Upgrades, each of which represents a Sub-Class specialty (Viking – Raider or Viking – Berserker for instance). The Starting Upgrade card tells you which version of the Hero Character Sheet to use, as well as giving you a cool and unique ability themed for your chosen specialty.  
+
+Because a group of Team Heroes share the same Hero Class, they all have the same basic Abilities (all Vikings use Rage Tokens, all Conquistadors use Ambition Tokens, etc.). But, each version of the Hero Character Sheet has a different set of Skill Values, stats, portrait, and Starting Gear based on the theme of their Sub-Class specialty. All Vikings, for instance, are strong and have a good Willpower against the horrors of the night, but Berserkers are fast and wild, while Huscarls are better at range and defense. This means that there is still quite a bit of variety within the Team, even though all of the characters share some similar abilities.  
+
+Team Heroes also share a single Upgrade Chart, with each of the four columns being themed for one of the Sub-Class specialties. When leveling up, a Team Hero character can still choose any of the Upgrade Chart abilities as any other Hero would, but you will find that one of the columns will synergize a little better with your themed specialty. This retains a lot of the diversity of individual Hero Classes, but allows you to discuss as a team which Upgrades you each want to take and how they will best suit the party as a whole, based on the gear you have found and which path the other Heroes in the group have taken.  
+
+**Team Ability Cards**  
+One of the strongest benefits of being a Team Hero is gaining the use of Team Ability Cards. This deck of cards is unique to the Team Hero Class being played (Vikings, Conquistadors, etc.) and introduces an element of themed teamwork bonuses that usually benefit all Heroes in the party of that Team Hero Class.  
+
+At the start of each Adventure, the Heroes may draw one card from the deck for each Team Hero character in the party. These cards are added to a Card Pool shared by the Heroes. Each Team Ability card is one use for that Adventure, and the Heroes must decide as a group when to play them and how best to use the extra bonuses that they give. Because this is a deck of cards, it means that the Team Ability Cards that your party has will change from Adventure to Adventure, keeping things exciting.  
+
+The more Vikings you have in the party, the more Viking Team Ability cards you get to draw. And those cards specifically benefit Viking Heroes. In this way, Vikings or Conquistadors can be part of any Hero party, giving themed bonuses to themselves along the way, but a full group of Vikings can really maximize their cards, as each Viking adds a card to the Pool and those cards usually boost all Vikings when played.  
+
+**Personal Item Cards**  
+Every Team Hero Class has its own deck of Personal Item cards to draw from, giving the Heroes a thematic touch specific to their background and style.  
+
+**Rage Tokens**  
+One of the special abilities of the Vikings is the use of Rage Tokens. For every 2 Wounds a Viking Hero takes, he gains 1 Rage Token (holding up to his Max Rage at any given time). Then he can unleash those Rage Tokens to add +1 Damage each to one of his Combat Hits. This allows Viking Heroes to absorb Wounds done by Enemies, and turn that into Damage to throw back at them!  
+
+In addition, Vikings tend to have a higher than normal Health (allowing them to better use Wounds as a sort of 'currency' to gain Rage), and the built-in Battle Fury ability which, once per turn, lets a Viking Heal 2 Wounds when they kill an Enemy.  
+
+In this way, it creates a gameplay loop of taking wounds from Enemies to gain Rage, using that Rage to cut down your foes, and then Healing the Wounds you took by defeating Enemies. A Viking's love for battle is unmatched!  
+
+**Ambition Tokens**  
+One of the main abilities that all Conquistadors share is the power to use Ambition Tokens. A Conquistador’s Ambition is beyond measure, and can be a ruthless tool when exploring the jungle or battling for survival.  
+
+Much like Grit, a Conquistador Hero has a Max Ambition value, and starts each Adventure with 1 Ambition Token (as well as their normal Grit). Once per turn, a Conquistador may use an Ambition Token to Re-roll any single die that the Hero just rolled, but adding +2 to the result. Ambition can even be used on a roll that has already been Re-rolled! In this way, Conquistadors can push themselves to the limits to accomplish their lofty goals.  
+
+Also, whenever a Conquistador would Recover a Grit, they may choose to Recover an Ambition Token instead. And, because they have both a Max Grit and a Max Ambition, this means that Conquistadors can hold double the normal number of ‘Re-rolls’ at a time, rarely finding themselves unable to utilize those Move rolls of 1 to gain a token.  
+
+One of the major down sides to Conquistadors, however, is their Ruthless Conquest ability gives them a starting Corruption Resistance of only 4 (instead of the normal 5). This means that Conquistador Heroes are more easily corrupted by the power of the Void, and more prone to descend into madness and mutation!  
+
+## Rivals Card Sets
+Some of the Stretch Goals that you guys seemed most excited for during the campaign and beyond, were the Rivals card sets. These are card supplements that allow you to use your existing Hero minis as 'Rival Hero' Enemies to fight during an Adventure, facing off with powerful and characterful Heroes as foes!   
+
+During the Kickstarter campaign, we unlocked a set of these cards and rules for the Old West Rivals, Feudal Japan Rivals, and Conquistador and Viking Rivals. This is a fun way to see your Hero models in a new light, and works especially well with the Trederran Strike Team, where all of the Heroes from Earth are potential Enemies to them.  
+
+Each of these three Rivals cards sets comes with an Enemy Record Sheet for the Rivals group (or two in the case of the Conquistadors and Vikings), rules for how to use them in game, and all of the cards you need to get them into your adventures, including Threat cards (LOW, MED, HIGH, and EPIC), as well as Rival Specialties cards to represent the different specific Heroes that you may run into.  
+
+The basic stats and abilities listed on the Enemy Record Sheet are the baseline for all Rivals of that type (Frontier Posse for the Old West or Samurai War Party for Feudal Japan, etc.). These Enemy Record Sheets are meant to represent general fighters of that era, and the abilities and stats they have are designed to feel like you are fighting actual Heroes, rather than just any other group of Enemies you might come across.  
+
+Above you can see the Frontier Posse Enemy Record Sheet that represents fighting Rivals from the Old West. They have the Shootout Standard Ability, so they try to keep their distance, having a gunfight with the Heroes; as well as Wild West Pistols for their Ranged Attacks. Also note that, just like Heroes, these guys roll a D6 for Damage on each Hit they score (if the target Hero fails their Defense roll of course), whether it is from their pistols or from Combat. They also have a Gunfighting ability, allowing them to effectively get 'Critical Hits' in a sense (ignoring Defense) on their Ranged Attacks. And their Frontier Grit ability allows them to Re-roll some of their missed To Hit rolls, and prevent some incoming damage that they would potentially take, representing the use of Grit that a Hero would normally use to save their bacon in a pinch.  
+
+You also might notice that all of the Rivals Enemy Record Sheets include a brand new Rival Specialties Standard Ability (at the top of the Abilities box). This is a special set of cards, unique to that particular Rivals Enemy Type (Frontier Posse, Samurai War Party, etc.), that allows for individual models within the group to be themed for a specific Hero Class that a player might normally play as their Hero.  
+
+These Rival Specialties cards modify the stats and abilities of one individual model among the Rivals Enemy Group, making them a champion of the group. In the image above, you can see a couple of the Rival Specialties from the Feudal Japan set and a couple from the Old West set.  The US Marshal Rival Specialties card, for instance, turns one of the models into a US Marshal, giving him the added benefits of a Shotgun and Law Badge, as seen on the card above.  
+
+These Rivals Specialties cards also allow for players to scale the challenge and complexity of the Rivals they run into.  
+
+For a Common group of Rivals, you can simply ignore the Rival Specialties and fight them as they appear on the Enemy Record Sheet. This still creates a fun and thematic fight, but keeps it streamlined for faster (and slightly easier) play.  
+
+For a Standard group of Rivals, half the models in the group (rounding up) get a Rival Specialties card drawn for them. These are the stand-out champions of the group and the rest represent henchmen or lesser experienced members of the group (it can be fun to use Ally minis to represent the Rivals that don't have a Specialties card drawn for them).  
+
+And finally, a Heroic group of Rivals, is for players that want to dive into the deep end, where every Rival model gets a Rival Specialties card drawn for them. This adds a bit more to keep track of, but really gives the full feel of fighting a team of Enemy 'Heroes' where each model has its own style and personality. It can also be a really tough challenge of a fight!  
+
+Any way you play them, the Rivals create a new and exciting experience in your games, with tons of tactical choices that must be made in how you approach a Fight with these deadly new Enemies.  Do you focus your attacks on the Wandering Samurai that's darting between your Heroes, slicing you to ribbons, or do you turn your attention to the Frontier Doc that's running along behind him, healing the Damage that you've dished out? Or, do you eliminate the Rancher at the back of the group that's picking you off one by one with her Rapid Shot Rifle?!?  
+
+In addition to all of that, some of the Threat cards and Elite Abilities for the Rivals even allow them to draw a few Artifacts or Gear cards, pulled from the normal Hero card decks and used by the Enemies against you! Maybe this group of Rivals just returned from the Targa Plateau and one of them has a Trun Disintegrator he's been itching to try out! Or a Teleportation Bracelet, allowing him to teleport around the board to attack you from behind! The greater your Brimstone collection, the more wild combos and challenging Rivals you can face!  
+
+**Further Rules and Clarifications:**  
+
+Initiative -  An entire Enemy Group of Rivals always has a shared Initiative value, even though they may move and fight very differently from one another due to their Rival Specialties cards. None of these cards modify their Initiative, and they don't gain modifiers to their Initiative from Artifact or Gear cards they draw.  
+
+Activation -  When the Rivals Enemy Group Activates, each of the Rivals models that are part of the group should be Activated individually, one at a time, starting with the closest model to a Hero first, as normal. Move and Attack with each model before proceeding to the next Rivals model. They all still count as a single Enemy Group for targeting the Heroes, Shootout, etc.  
+
+Targeted Markers -  *This replaces using Shootout markers for targeting and firing.*  Whenever a Hero is targeted by a Rivals Enemy, place a Targeted marker by that Hero (any appropriate marker can be used for this) to show that the Hero has been targeted by a Rival once during the Enemy Group's Activation. When the next Rivals model selects a target, they will prioritize Heroes that do not yet have a Targeted marker by them, or has fewer markers than other potential targets. (This replaces using Shootout markers for the Shootout Standard Ability, as the way those markers work is dependent on all of the Enemies using them having the same stats and Ranged Attack).  
+
+Rival Specialties and Shootout Standard Abilities -  A good synopsis of how many Rival Specialties cards to use when you encounter the Rivals can be found above - depending on if you want a Common, Standard, or Heroic challenge. The rules for the Shootout Standard Ability can be found on the included Reference card for Shootout. Note that Targeted markers are used here instead of normal Shootout markers. Rivals with the Shootout ability still move and fire at their target as described in the rules for Shootout.  
+
+## Heroes
+
+### Cursed Eternal
+A full new Hero Class for the Spanish Conquistador theme, the Cursed Eternal Kickstarter Exclusive Promo Hero is not part of the Conquistador Team Heroes, but rather a stand-alone Hero Class in his own right. This means that he has his own unique Abilities, Starting Upgrades, and Skill Tree, but he does not benefit from all the synergy that being part of the Conquistador Team Heroes brings. For instance, the Cursed Eternal is still considered a Conquistador for Team Ability cards, but he does not generate any of these cards for the Hero Party, he must rely on the cards that the other Conquistadors bring to the group.  
+
+Having drank from the Fountain of Youth, the Cursed Eternal is blessed and cursed with immortality. Taking Hits every turn (more so as the Darkness grows stronger on the Depth Track) from the withering effects of the curse, he must fight to stave off the deterioration, consuming the souls of his foes with his magical Ghost Blade to heal. Even if KO’d by Wounds, he can automatically Recover at the start of the next turn, rolling for Injury and Healing as normal, and Recovering a Grit, as he stands back up from even the most grievous of injuries! Carrying with him a small amount of the Fountain Water in a bottle, he can drink from it once per Adventure to Fully Heal and remove all Injuries, Mutations, and Status Effects that have built up on him. Of course, Madness is another story.  
+
+### Valkyrie Shield Maiden
+Similar to the Cursed Eternal, the Kickstarter Exclusive Promo Hero Valkyrie is a full new Hero Class for the Norse theme. She is not part of the Viking Team Heroes, but rather a stand-alone Hero Class in her own right. A Mythic warrior in the service of Odin, the Valkyrie is one of the strongest fighters around. As the Valkyries, by definition, are female, the Valkyrie Hero Class does not have a ‘Male’ version on the back of the Hero Character Sheet. Instead, there are two different versions of the Valkyrie herself, each with different Starting Gear and stats.  
+
+The Valkyrie Shield Maiden is a defender of light sent by Odin to protect the world of mankind against the spread of Darkness. Heavily armored with a helm, shield, and Spear, the Shield Maiden can challenge foes, shrugging off damage with her Valhallan Armor and turning aside blows to protect herself or others with her Mythic Shield, while skewering them with her warrior’s spear.  
+
+The Valkyrie Avenger instead embodies the sum of Odin’s wrath! Equipped with a helm and spear, she has forgone any heavy armor for speed and agility. Cutting through enemies with each stroke of her Avenging Blade, a mythic sword that can actually slice Enemies in half, potentially killing them outright!  
+## Enemies
+
+### Thunderforged Titan
+The Thunderforged Titan is one of the tallest Enemies in the game, towering over the Heroes. The head of its massive Underworld Hammer alone is larger than most Heroes, allowing it to crush foes at a distance of up to 6 spaces away with its Melee Attacks, and causing Combat Hits to Heroes adjacent to the target as well. With a hefty Armor 4+ save, the titan shrugs off most damage, while crackling with Bound Lightning that electrifies adjacent Heroes when they assign Critical Hits to the titan (note that a Hero that rolls a Critical Hit may elect not to assign that Hit to avoid the Bound Lightning).  
+
+In addition, the Thunderforged Titan wields an entire deck of deadly Titanic Devastation cards to wreak havoc on the Heroes, while causing Fiery Eruptions of molten magma to burst from the ground whenever the Hold Back the Darkness roll is failed.  
+
+The Thunderforged Titan’s Hammer of the Underworld ability allows it to make Melee Attacks on a Hero up to six spaces away. In addition, for each successful Hit on the target, every other Hero adjacent to the target also takes one Combat Hit from the Titan. This means that the Heroes must spread out if they want to avoid getting crushed by each swing of the mighty hammer. Another devastating effect of the Underworld Hammer is that the Thunderforged Titan’s Melee To Hit rolls of 6+ are -1 Defense for the Hero. This includes the extra Combat Hit caused to other Heroes adjacent to the target for that Hit.  
+
+One of the more deadly abilities of the Thunderforged Titan is the Fiery Eruption of magma that happens whenever the Hold Back the Darkness roll is failed during the fight. This selects D3-1 Random Heroes for an Eruption marker to be placed in their space. Then each of these Eruption markers Bounces three times to find its final position (each of these is a normal Bounce, using the D8 to determine a Random adjacent space to move to if possible). Once the markers have Bounced, any Hero that is in the same or an adjacent space to 1 or more Eruption markers takes D6 Wounds, ignoring Defense.  
+
+There is a new Mission included in this XXL Enemy pack, allowing the Heroes to face off with one of these terrifying titans from the Underworld.  It is called "Twilight of the Gods", and the Heroes must track the Thunderforged Titan that has emerged from the Underworld, and defeat it before it wreaks havoc on the realms of gods and men!  
+
+### Setaris Ravagers
+The Setaris Kitewings were first introduced in the Conquest of Planet Earth board game as one of the many Alien Races that players could control in their bid to conquer 1950's Earth. A reptilian species, the Setaris soar through the sky with their swooping wings and lashing tails, chittering and cawing to each other through their long vicious beaks filled with razor sharp teeth. But do not let their savage and monstrous demeanor fool you; they are an advanced civilization, ruthless in their desire for conquest, wielding dangerous technologies and armed with powerful weapons.  
+
+
+Though not particularly tough, the Setaris Ravagers can strike fast and hard, blasting the Heroes with their Setaris Laser Rifles before closing in to scratch and claw with their talons. These sinister Enemies use the rules for Snap Fire,  giving them the opportunity to make a free Ranged Attack each turn before closing in on the Heroes to use their Combat; then falling back to a distance to be ready to start the process again the following turn. And, with their Masters of Snap Fire ability, the Ravagers are even harder to pin down than other Enemies that use Snap Fire. They are also quite fast as they fly through the air, evading damage with their Agile Dodge.  
+
+As Alien pirates, enclaves of Setaris Ravagers can be found across the  galaxy, looting and pillaging travelers and settlements, then disappearing as quickly as they arrived. To represent this, the Setaris  Ravagers Enemy Pack includes OtherWorld Threat Cards for encountering them in the Swamps of Jargono, Blasted Wastes, the Targa Plateau, and the Derelict Ship, as well as the standard Threat cards for Low, Med, and High threats.  
+
+### Targa Library
+One of the key features of the Targa Plateau Library is the ability for the Library, itself, to learn about your Heroes as it collects data on you. This is tracked as Archive markers that are placed near the Depth Track to show how much information the Library has gathered on you during the current Adventure. The number of Archive markers have no direct impact, but are often referenced by Encounters and Enemy abilities within the Targa Plateau. For example, the Librarian's Adaptive Strategy ability makes its To Hit rolls of 6+ gain +1 Damage for every Archive marker currently on the Depth Track.  
+
+In addition, at the end of the Adventure, all of the Archive markers are discarded, but for every 5 Archive markers on the Depth Track, the Library makes a more permanent record about your Heroes, converting them into 1 Library Knowledge (marked down on your Campaign Log). From that point forward, the first time each Adventure that your Heroes face any Keyword Targa Enemies or enter the Targa Library, you must roll on the Library Knowledge chart (adding +1 to the roll for every Library Knowledge beyond the first), to see what bonus the Library gains against you for this Adventure. As you explore the ancient frozen city of the Targa Plateau, you learn about its hazards and secrets. But beware, it is also learning about you, with the ultimate goal of adding your distinctive traits to the Archive.  
+
+### Shadow Lurkers
+The Shadow Lurkers are terrifyingly powerful demons that are One with the Darkness, shifting through the shadows to gain a permanent Cover 5+ save against all incoming Hits (potentially canceling Hits before Damage is even rolled). More than any other Enemy, these Demons from the Void scale with the Heroes, becoming monstrously powerful as the Heroes they hunt grow in Hero Level and collect Artifacts during their travels. They prioritize their targets based on the highest Hero Level/XP total, and the Feast of Shadows ability makes their base Combat Damage multiply by the target's Hero Level. While low level Heroes may be easier prey, the higher level Heroes draw out the strongest and most ancient of these creatures, to feed on the more delicious memories and emotions of Heroes that have richer experiences. They are also Fueled by Greed, jealously watching and waiting for unwary travelers to pick up relics in worlds where they lurk, gaining extra Combat for each Artifact the target carries matching the World they are currently in.  
+
+With a set of normal Threat cards, as well as individual Threat cards for every OtherWorld currently in the game, the Shadow Lurkers are an ever present danger to the Heroes as they explore from world to world. They are also more commonly found in the Derelict Ship (with an extra Threat card for that World), as it is veiled in darkness and death, and filled with powerful artifacts and technology to entice travelers.  
+
+### Feathered Serpents
+Fast and deadly, the Feathered Serpents have a move of 12 and Flight, allowing them to move through other models and change targets each turn.  Though not particularly tough individually, these mythic beasts attack in packs, using speed and accuracy to harass their foes. Their deadly Venom Strike can ignore the target's Defense on To Hit rolls of 6+, and potentially leave them poisoned,  while their high move, fast Initiative, and a 3+ Melee To Hit gives them a powerful alpha strike. This combined with their Kotak's Protection ability to cheat death makes the Feathered Serpents a scary encounter that can significantly weaken the Heroes as they push further into the sacred temples and jungles the serpents protect.  
+
+The Feathered Serpents have a standard set of Threat cards, as well as OtherWorld Threat cards for the Swamps of Jargono, protecting many of the ancient and crumbling ruins there once dedicated to the cosmic deity Kotak.  
+
+### Fenris Wolves
+Perhaps one of the most dangerous Enemies in all of Brimstone Adventures are the Fenris Wolves. A vicious and tenacious pack of beasts, these massive wolves leap across the board at their targets, savagely tearing them apart with their snarling, snapping jaws. This is best represented by their Relentless Attack ability, allowing them to roll an extra Combat die for each successful Combat Hit they roll on the Attack. And this is allowed to cascade! As long as they keep rolling Hits, they keep getting bonus Combat for that Attack. This means that even the most stalwart of Heroes has the potential to get ripped apart if the Fenris Wolves get on a brutal streak of successful Hits. On average they will get around 3-4 Hits during their Attack, but there have been outrageous occasions during testing where a Fenris Wolf gets on a roll, dealing out a staggering 14 or 15 Hits! The Fenris Wolves are terrifying for their size and brutality, but also their unpredictable and deadly nature.   
+
+Another exciting aspect of the Fenris Wolves Enemy Pack is that it includes the cards for three alternate OtherWorld variants of these terrifying creatures. Shadow Wolves appear in both the Forest of the Dead and the Targa Plateau, while Fire Wolves stalk the infernal, lava-filled tunnels in the Caverns of Cynder!  
+
+### Draugar
+Draugar can be challenging foes to face. Unlike most forms of Zombie in Shadows of Brimstone, the Draugar do not have a built in method of re-spawning into the fight. Instead, they are more dangerous, fearsome warriors to begin with. Equipped with Shields of the Dead, they always count as having a Cover 4+ save. This allows them to shrug off many of the critical blows that would crush another Enemy, turning it aside with ease.  The fact that it is a Cover save also means that it prevents entire Hits at a time (rather than individual Damage that Armor would stop), and there are far fewer items and abilities that let a Hero ignore Cover than Defense or Armor. In addition to a high Defense of 4, the Draugar can be difficult to take down.  
+
+When it comes to attack, the Draugar not only have solid Combat and Damage values, but they can weaken the Heroes just by being in close proximity. Their Essence Leach ability prevents adjacent Heroes from gaining Ability Tokens or Grit. This can have devastating repercussions, as Viking Heroes depend on their Rage to overcome Enemies, and without access to Grit, Heroes are far more susceptible to being overwhelmed. This combined with their ability to Feed on Darkness, boosting the damage on Draugar To Hit rolls of 6+ based on the amount of Corruption and Mutations the Hero has, can be fatal if you have strayed too far down a dark path in your journeys.  
+
+### Creeping Shadows
+One of the new Enemy types included in The Valley of the Serpent Kings  Adventure Set is the animated darkness, itself, in the form of Creeping Shadows! You may not remember these Enemies from the KS campaign, because they were developed after the campaign came to a close. This was possible due to the fact that they are designed to use counters rather than models, allowing them to freely flow across the board, moving through other models and ending in the same space as the Heroes, enveloping them in darkness to attack.  
+
+Stalking the dank halls of the Spanish Fort, these ethereal wraiths whisper from the darkness to sow seeds of corruption and terror into anyone foolish enough to explore the dripping passages and dungeon chambers of the castle. These Enemies can be encountered by Threat cards, Encounter cards, and even the occasional Darkness card. As noted above, Creeping Shadows move through other models and try to get into the same space as their target. When they attack, they also lash out at every Hero in the same and adjacent spaces to it. This can make a Creeping Shadow Ambush especially deadly if the Heroes are too close together as they explore. In addition, every Creeping Shadow To Hit roll of 6+ does a normal Hit, but also triggers Voices in the Dark for the Hero (that's D6 Horror Hits - as though you had strayed too far from the Lantern's light).  
+
+Another unique aspect of the Creeping Shadows is their Living Darkness ability, giving them a Defense Value equal to the number of spaces the Enemy is from the Light Source (ie. - the Hero with the Lantern). This encourages the Heroes to rally around the Lantern's light to lower the Enemy's Defense; just don't get too close together or the Shadows will get a lot of extra Attacks as they each strike out at all adjacent Heroes.  
+
+If these sound like a fun and dynamic Enemy to battle, encouraging tactical play... they are! And as part of this update, we wanted to give everyone the chance to start facing off against Creeping Shadows as an early Print and Play preview! This is easier to do because there are no models for these Enemies, so no proxy models are needed, just print out the cards, counters, and Enemy Record Sheet linked to below, and you can add these fun new Enemies to any game of Shadows of Brimstone.  
+
+### Carnivorous Plants
+Though they are
+Immobile, these man-eating
+plants use their long, animated
+vines to wrap around the
+Heroes and pull them in for
+the kill.  
+As the Carnivorous Plants are writhing
+masses of snapping mouths and twisting vines, they each attack
+all Heroes within 2 spaces, and may be attacked with Melee
+Attacks by Heroes from up to 2 spaces away. This means that
+at a distance, you may be safe (until they pull you in with their
+vines), but up close they will eat you alive.  
+
+### Temple Guard
+Temple Guard have Ceremonial Armor giving them extra
+protection from each Wound they might take (see page 27 for
+the rules on Armor for Enemies). They also wield powerful
+clubs to Crush intruders, ignoring a Hero’s Defense on their
+To Hit rolls of 6+ (note that this is similar to the Smash ability
+of Tentacles, but has an extra caveat in case the Temple Guard
+already ignore Defense).  
+Lastly, the Temple Guard‘s
+Gortek’a Training ability allows
+them to Re-roll their To Hit
+rolls of 1, even multiple times
+within the
+same Attack.
+This means
+that Temple
+Guard will
+never have a
+1 To Hit roll,
+as they will
+con t i nue
+to Re-roll
+it until it is
+not a 1.  
+
+### Croxin Beast
+Massive reptilian creatures, the Croxin are used by the
+Serpentmen as beasts of war. They have a thick hide giving
+them the Endurance ability to limit the amount of damage they
+can take from each Hit, and they have a brutal Smash letting
+their To Hit rolls of 6+ ignore Defense. This is especially
+deadly with their extra Tail Attack that they roll using a D8,
+after their normal Combat dice (this Tail can also get a Smash
+on a To Hit roll of 6+ on the D8).  
+But perhaps the most terrifying ability of the Croxin
+is its Tenacious (3). This grants it an extra +3 Combat
+on each consecutive Melee Attack targeting the same Hero.
+So if a Hero is targeted and Attacked by the
+Croxin, and then
+the Hero chooses
+not to Escape and
+move away on their
+Activation, the Croxin
+will get +3 Combat during
+its next Melee Attack on that
+Hero (or +6 on the third turn,
+etc). Note that the extra free
+Tail Attack is not affected by
+the Croxin’s Tenacious ability.  
+
+### Dread Inquisitors
+The Dread Inquisitors are a fearsome group of Enemies. With Vicious Weapons that ignore Armor and have a Damage value equal to their To Hit roll, they can make quick work of even heavily-armored Heroes. Fueled By Dread, they can become formidable foes as they adjust their tactics based on how much Growing Dread the Heroes have collected up, and how much Dread the Heroes have already endured. This can give them a very different feel in battle, depending on how far into the Adventure they reveal themselves, or what type of Mission is being played.  
+
+But, perhaps the most dangerous aspect of the Dread Inquisitors is their manipulation of plagues and disease! These Crimson Hand Enemies use Bring Out Your Dead to place Rotten Corpse Tokens, spreading sickness and death, and unleashing Vile Plagues of terrifying pestilence on the Heroes. The Vile Plagues deck was first introduced in the Onmorake Deluxe Enemy Pack for Forbidden Fortress, but gets a burst of deathly new cards with the Dread Inquisitors!    
+
+### Feljeagor Slayers
+Feljeagors are perhaps one of the deadliest enemies in the game,  dispatched to bring ruin on the world of men. Brutish suits of animated Thunderforged armor, they cannot be reasoned with or stopped. They continue to fight until they are literally smashed apart; and that is no easy feat. With a hefty Armor 4+ and Defense of 4, these constructs are terrifyingly durable. Their Slayer Axes have the potential to cut even the toughest of Heroes down to size. But one of  the main features of the Feljeagor Slayers is the bellowing roar of their Fel Horns, buffing themselves and all other Enemies around with Rage tokens that can give them extra Combat or allow them to shrug off damage. When the Thunderforged warriors march  to war, there can be no doubt that Ragnarok is upon us!  
+
+### Drowned Dead
+As Drowned Dead are a common Enemy to encounter while exploring a Spanish Fort, the Valley of the Serpent Kings Adventures Set includes a set of Drowned Dead Trait Cards that are drawn from when a group of these shambling dead attack the Heroes, adding extra variety and challenge to your adventures.  
+
+A Trait Card is drawn for a group of Drowned Dead when they enter play to determine what variety of these undead explorers are taking part in the Fight. Each Trait Card tells what style of Drowned Dead they are (The Tower Guard, Watery Graves, etc.), includes additional stat modifiers and extra abilities they have, as well as any extra XP they are worth for the Heroes. This means you can face off against Drowned Dead again and again over the course of your adventures, and they always feel fresh and different…and scary!  
+As Undead monstrosities that rise up out of the water to
+shamble through the halls of the fort, Drowned Dead have
+the power to bring on additional models at the end of each
+turn with their Endless Hordes ability. Note that if there are
+not enough models to place, Endless Hordes
+does NOT add Elite abilities to the Enemy
+Group (as you might do if multiple Threat
+cards tried to spawn them without enough
+models).
+
+### Trolls
+As Trolls are a common Enemy to encounter in the Norse Lands, the Gates of Valhalla Adventures Set includes a deck of 5 Troll Trait Cards that are drawn from when a group of Trolls attack the Heroes, adding extra variety and challenge to your adventures.  
+
+A Trait Card is drawn for a group of Trolls when they enter play, modifying the type of Trolls that are taking part in the Fight. Each Trait Card tells what type of Trolls they are (Mountain Trolls, Bridge Trolls, etc.), includes additional stat modifiers and extra abilities the Trolls have, as well as any extra XP these Trolls are worth for the Heroes. This means you can face off against Trolls again and again over the course of your adventures, and they always feel fresh and different… and deadly! You may learn to fear the Cold Spite of Ice Trolls or the Deadly Aim of Mountain Trolls.  
+
+### Gremians
+In game, these Small Demon Enemies swarm the Heroes, each doing an automatic Hit to every adjacent Hero, with Damage equal to the total number of Gremians adjacent to that Hero! One Gremian attacking is not much of a threat, but 4 or 5...or 12 can be a terrifying prospect! In addition, they are very sneaky and difficult to crush, but fragile if you can get your hands on them. With a Defense of 6, but only a single Health, it usually takes a Critical Hit or a Viking's Rage to defeat them!  
+
+
+
+
+# Shadows of Brimstone - Darkness Cards  
+This is a reference of Darkness cards for Shadows of Brimstone.  
+
+### Chill of the Grave  
+**Keywords:** Darkness, Boost, Undead  
+
+**Effect:** All Undead Enemies are now +1 Initiative and +1 Combat. Remains in play.
+
+
+# Shadows of Brimstone - Encounters
+This is a reference of Encounter Cards for Shadows of Brimstone.   
+
+## Forbidden Fortress Encounters
+
+### Box of Death
+**Keywords:** Fortress, Encounter, Active, Death, Plague  
+
+**Flavor:** A large wooden chest sits at the far end of this room, ornately carved with skulls and bones. As you approach, hissing voices whisper in your mind, speaking in a dark and ancient tongue.  
+
+**Skill Test:** Single Hero, Lore 6+  
+
+**Effects:** If successful, gain 30 XP and you may draw a Loot card, found in the box. An offering from the gods of death.
+If failed, place D3 Corpse Tokens in empty spaces adjacent to the Hero that failed the test and then each Hero must individually draw a Vile Plague card and suffer the effects of that card (each Vile Plague only effects the Hero that drew it).
+
+# Shadows of Brimstone - Enemy Record Sheets
+This document provides text description of all the information in the Enemy Record sheet for enemies in Shadows of Brimstone. The real enemy record sheets have graphical design elements like artwork, icons, and different fonts to indicate the type of information being displayed. These reference will use simple text only and rely on basic key/value pairs to store the same information. The intent of this reference is to provide a knowledge base to AI models so that all of the rules and information contained in each Enemy Record Sheet can be easily parsed by an AI.  
+
+The *Brutal* version of each each Enemy Record Sheet is also included.  
+
+## Drowned Dead
+Keywords: Undead, Soldier  
+Side: Medium  
+Initiative: 2  
+Move: 2  
+Escape: 4+  
+To Hit (Range): 5+  
+To Hit (Melee): 5+  
+Combat: 3  
+Damage: 3  
+Defense: 4  
+Health: 2  
+XP: 15  
+
+**Abilities**
+- Fear (1): A Hero starting their Activation adjacent takes 1 Horror Hit.
+- Corroded Armor: Armor 5+
+- Cursed Blades: Any Hero that takes 1 or more Wounds from Drowned Dead Combat Hits during a turn also takes 1 Corruptoin Hit.
+- Endless Hordes: At the end of each Fight Round, while there are 1 or more Drowned Dead on the board, roll a D6. If the roll is higher than the number of Drowned Dead in play, add D6-3 to the Fight, placed adjacent to Random Heroes.
+
+**Elite Chart**  
+Note: While they have *any* Elite ability, Drowned Dead also gain To Hit (Melee): 4+.  
+
+1. Nightmarish: Each Combat Hit caused by the Drowned Dead also causes 1 Horror Hit to the target.
+2. "Give Back Our Gold": Drowned Dead prioritize targets with the most Gold. Discard $10 for each Wound taken from Drowned Dead Attacks.
+3. Relentless: +2 Health and Drowned Dead Armor cannot be ignored.
+4. Piercing: +2 Combat and Drowned Dead To Hit rolls of 6+ ignore Armor.
+5. Flintlock Pistols: At the end of its move, each Drowned Dead makes a free Ranged Attack at a Random Hero using: *Range 5, Shots 2, Damage D6*
+6. Burning Eyes: Once per Turn, Drowned Dead may Re-roll their To Hit rolls of 1. Also, Horror Hits caused by Drowned Dead now do +1 Sanity Damage each.
+
+## Drowned Dead - Brutal
+Keywords: Undead, Soldier  
+Side: Medium  
+Initiative: 2  
+Move: 3  
+Escape: 5+  
+To Hit (Range): 5+  
+To Hit (Melee): 4+  
+Combat: 3  
+Damage: 4  
+Defense: 4  
+Health: 4  
+XP: 25  
+
+**Abilities**
+- Fear (1): A Hero starting their Activation adjacent takes 1 Horror Hit.
+- Corroded Armor: Armor 5+. This Armor cannot be ignored.
+- Cursed Blades: Any Hero that takes 1 or more Wounds from Drowned Dead Combat Hits during a turn also takes 1 Corruptoin Hit.
+- Endless Hordes: At the end of each Fight Round, while there are 1 or more Drowned Dead on the board, roll a D6. If the roll is higher than the number of Drowned Dead in play, add D6-3 to the Fight, placed adjacent to Random Heroes.
+
+**Elite Chart**
+1. Nightmarish: Each Combat Hit caused by the Drowned Dead also causes 1 Horror Hit to the target.
+2. "Give Back Our Gold": Drowned Dead prioritize targets with the most Gold. Discard $10 for each Wound taken from Drowned Dead Attacks.
+3.  Corrupted Souls: The first Combat Hit a Hero takes from Drowned Dead each Turn (before Defense roll) does double Damage.
+4. Piercing: +2 Combat and Drowned Dead To Hit rolls of 6+ ignore Armor.
+5. Flintlock Pistols: At the end of its move, each Drowned Dead makes a free Ranged Attack at a Random Hero using: *Range 5, Shots 2, Damage D6*
+6. Burning Eyes: Once per Turn, Drowned Dead may Re-roll their To Hit rolls of 1. Also, Horror Hits caused by Drowned Dead now do +1 Sanity Damage each.
+
+# Shadows of Brimstone - Hero Reference
+This is a reference of all the Heroes Classes and Sub-Classes in Shadows of Brimstone. The entry for each Class contains the following inforamtion:
+
+- Hero Class Sheet: The core stats and abilities of the Class including things like Health and Sanity values, Skill attributes like Luck and Cunning, special Class abilities, and starting items.
+- Gameplay Description: A description breaking down how the Hero Class plays during an adventure, some key features unique to the Class, and perhaps some of the different options for how to play the Class according to personal taste.
+- Starting Upgrades: The full text of each available Starting Upgrade available as a choice during character creation.
+- Starting Gear: A list of each Starting Gear item for the Hero Class needed during character creation. Some Classes have an option of choosing different Starting Gear and some Starting Upgrades determine the Starting Gear used. There may be some Starting Gear items not given to the Hero during character creation as a result of these choices.
+- Special Cards: Some Hero Classes such as the Gambler have special cards unique to that Class. If the Class has their own unique cards, they are listed here. Sometimes these cards are chosen at random during character creation, other times the player gets to pick, while other times the entire set of cards might be used from the start. These details will be explained in this section as well.
+- Level Up Chart: The 2D6 chart used when rolling for bonuses gained when reaching a new experience level specific to the Hero Class.
+- Upgrade Chart: A list of new Upgrades available to pick from when gaining a new experience level. Each Upgrade Chart consists of 4 separate tracks of upgrades that are related to one another both thematically and gameplay-wise. Each track has its own name and each upgrade in the track has a level. The Hero must already have obtained the lower numbered upgrades before being allowed to take higher level upgrades within the same track. For example, taking a Level 3 Upgrade requires that the Hero already have obtained the Level 1 and Level 2 Upgrades within the same track.
+
+
+
+
+# U.S. Marshal
+
+## U.S. Marshal Hero Class Sheet
+
+- **Name:** U.S. Marshal
+- **Keywords:** Law, Traveler
+- **To Hit (Range):** 4+
+- **To Hit (Melee):** 4+
+- **Combat:** 2
+- **Max Grit:** 2
+- **Initiative:** 4
+- **Health:** 10
+- **Sanity:** 10
+- **Defense:** 3+
+- **Willpower:** 4+
+- **Agility:** 3
+- **Cunning:** 4
+- **Spirit:** 2
+- **Strength:** 2
+- **Lore:** 1
+- **Luck:** 3
+- **Starting Items:** Shotgun, US Marshal Badge
+- **Abilities:**
+  - *Double-Shot* (Shotgun) - Once per turn, when you kill an Enemy with a Shotgun, you gain +1 Shot with that Shotgun.
+
+
+
+## U.S. Marshal Gameplay Description
+
+U.S. Marshals are 'tough as nails' bounty hunters, working for the government. No stranger to working alone, they travel the land looking for those who need a little justice. When the need arises though, they step up to lead those around them, descending into the very depths of hell if necessary to get the job done.
+
+
+U.S. Marshals are one of the toughest Hero Classes in the game. With a Defense 3+, they can easily be a frontline fighter, blocking a hall or wading into groups of Enemies, shrugging off most incoming Attacks. With their Shotgun and Double-Shot ability, a U.S. Marshal can also deal out large amounts of damage as a virtual one man army. The Marshal's Badge makes them a solid team player, waiting until just the right time to flash the Badge and give every Hero a boost to their next Attack!
+
+The U.S. Marshal is native to the old west setting of Brimstone and first appeared in the City of Ancients Core Set. 
+
+### Starting Upgrade Choices 
+
+U.S. Marshal Starting Upgrades focus on Recovering Grit, gaining extra XP, and Healing.
+
+### Rolling Thunder
+
+This ability is great for offsetting the potential ‘feast or famine’ of only getting to roll a single Shot each turn with the Shotgun. It is fantastic for making sure you always have the Grit you need to Re-roll dice and to activate your more powerful abilities as you level up.
+
+### Cleaning Up the West 
+
+By Cleaning Up the West, you can make sure that you are always Healing a little bit of Health and Sanity as you fight, helping you to stay alive while getting up close and personal with your Shotgun. It also gives you a boost to Max Grit and XP, giving you a leg up on Leveling Up, especially early on in your Hero’s career.
+
+### Hardened Resolve
+
+To focus on a more team leader style role, Hardened Resolve gives you a solid ability to Heal yourself and the rest of the posse, even at a distance. It also makes Tonic Tokens you bring along in your Side Bag far more effective.
+
+## U.S. Marshal Starting Upgrades
+
+- **Rolling Thunder:** Any time you kill an Enemy, you may Recover a Grit on the D6 roll of 4+.
+- **Hardened Resolve:** Use 1 Grit to Heal up to 4 Wounds/Sanity (any mix) total from yourself and other Heroes on your Map Tile.
+- **Cleaning Up The West:** Any time you kill an Enemy you may Heal 1 Wound and 1 Sanity, and gain 10 XP. +1 Max Grit.
+
+
+## U.S. Marshal Starting Gear
+
+### Shotgun
+- **Keywords:** Gear, Gun, Shotgun
+- **Range:** 5
+- **Shots:** 1
+- **Gold Sell Value:** $300
+- **Weight:** 1
+- **Upgrade Slots:** 1
+- **Hand Slots:** Double Handed
+- **Special Rules:** Uses the D8 To Hit and for Damage (6, 7, or 8 count as a Critical Hit). 
+
+### Marshal Badge
+- **Keywords:** Gear, Law, Icon
+- **Special Rules:** Uses the D8 To Hit and for Damage (6, 7, or 8 count as a Critical Hit). 
+- **Restrictions:** Law Only
+
+
+## U.S. Marshal Level Up Chart
+
+2D6 Roll Upgrade Bonus
+
+2. Vendetta - Choose an Enemy Keyword (Demon, Undead, etc). From now on, any time you collect XP from those Enemies, collect an extra +10 XP.
+
+3. On the Trail - Start each Adventure and Travel/Town with 1 extra Grit. 
+
+4. +1 Max Grit
+
+5. +1 Strength or +1 Agility. Also, gain +D6 Health/Sanity (any mix)
+
+6. +1 Cunning or +1 Spirit. Also, gain +D6 Health/Sanity (any mix) 
+
+7. +D6 Health and +D6 Sanity
+
+8. +1 Lore or +1 Luck. Also, gain +D6 Health/Sanity (any mix)
+
+9. +1 Side Bag Token Capacity. Also, gain +D6 Health/Sanity (any mix)
+
+10. +2 Corruption Resistance  
+
+11. +1 Initiative
+
+12. Not on My Watch - Once per Adventure, you may force the Hold Back the Darkness roll to be Re-rolled.
+
+
+
+
+## U.S. Marshal Upgrade Chart
+
+|   | **Traveler** |   | **Resolve** |   | **Honor** |   | **Bounty Hunting** |
+|:-:|---|---|---|---|---|---|---|
+| 1 | **A Story to Tell**<br>+1 Lore<br>You gain extra Movement each turn equal to your Lore. |   | **No Shame In It**<br>+1 Strength<br>Once per turn, you may take 1 Corruption Hit to use a Dark Stone in place of a Grit. |   | **Look Out!**<br>Once per turn, choose another Hero within 2 spaces. That Hero may Re-roll a single Defense roll just failed. If the Re-roll is successful, gain 15 XP. |   | **Focus**<br>You no longer need to target adjacent Enemies first with Ranged Attacks<br>+1 Max Grit |
+| 2 | **Back Up Plan**<br>You may now Recover a Grit on a Move roll of 6 as well as on the roll of 1. |   | **No Nonsense**<br>Add +1 Shot to any Shotgun you are using.<br>Rolling a Mutation you already have on the chart has no effect on you now. |   | **Above The Law**<br>Once per Adventure, use 2 Grit to Ready your Badge.<br>You start each Adventure with 1 extra Grit<br>+1 Max Grit |   | **Hunter**<br>At the start of each Adventure, choose an Enemy Keyword (Void, Undead, etc). You are +1 Damage against those Enemies and gain $20 for each you kill. |
+| 3 | **Saddle Bags**<br>You may now carry an extra 4 Tokens in your Side Bag, and your Side Bag Tokens are Hidden. |   | **"I Don't Think So!"**<br>Once per turn, you may take 1 Corruption Hit to force an Enemy on your Map Tile to Re-roll a single die just rolled. |   | **Whirling Strike**<br>Use 2 Grit as an Attack to roll your full Combat against each adjacent Enemy |   | **Dead or Alive**<br>Use 2 Grit to cancel a Darkness or Growing Dread card.<br>+1 Max Grit |
+| 4 | **Been Around**<br>Willpower 3+<br>+1 Lore |   | **That Does It!**<br>+1 Strength<br>Your Hits are +1 Damage for each Mutation you have (max +3) |   | **One Man Army**<br>While you are the only Hero on your Map Tile, you gain +1 Combat and +1 Shot with a Gun.<br>+2 Max Grit |   | **End of the Line**<br>Once per Fight, during your Activation, use 2 Grit to do one automatic Hit to every Enemy on your Map Tile. These Hits use the D8 for Damage. |
+
+
+
+
+
+# Lawman
+## Lawman Upgrade Chart
+| Leadership | Determination | Justice | Law and Order |
+| --- | --- | --- | --- |
+| **Motivate**<br>Whenever the Hero Posse marker moves onto a Blood Spatter or Growing Dread space of the Depth Track, you and every other Hero on your Map Tile may Recover a Grit on the D6 roll of 4+ each. | Man of Action<br>You may roll 2 dice for Move each turn and choose which to use. | Cold Stare<br>You may now Activate before Enemies at your Initiative level. | Fair Warning<br>+1 Max Grit<br>Your Hits are +1 Damage to any Enemies that have already Activated this turn. |
+| Reassure<br>Once per turn, use 1 Grit to prevent D6 Wounds/Sanity Damage that another Hero is about to take. Gain 5 XP for each Damage prevented this way. | Relentless<br>At the start of a turn, you may reduce your Initiative to 1. If you do, you are Defense 3+ this turn. | Teamwork<br>Once per Adventure, add dice to another Hero’s Skill test equal to your value in that Skill. If the test is successful, gain 25 XP. | Temper<br>Cool Head<br>When using Laying Down the Law, you may now Re-roll any number of your To Hit rolls.<br>Once per turn, when you kill an Enemy, Heal D6 Sanity. |
+| Battle Plan<br>Use 2 Grit to give every Hero +1 Damage on their Attacks until the end of the turn (or +2 Damage while there are more than one Enemy Type on the board). | Never Gives Up<br>While KO’d, at the start of each turn, roll a D6. On the roll of 5 or 6, Heal D6 Wounds/Sanity (any mix) and stand back up, without rolling for Injury/Madness. | Use 2 Grit to make all of your Hits count as Critical Hits until the end of the turn or to allow one of your Hits to ignore an Enemy’s Tough or Endurance Ability. | Once per Fight, use 1 Grit to add Damage to one of your Hits, or Damage if you are at less than half Health. |
+| Long Arm of the Law<br>+1 Combat and +1 Strength and +1 Max Grit | Learning to Live With It | Judge, Jury and Executioner<br>+1 Max Grit +1 Initiative | Justice Never Sleeps<br>+1 Initiative and +2 Max Grit |
+| Standing Your Ground<br>Once per Adventure, Ready your Badge. At the start of your Activation each turn during a Fight, Recover a Grit on the D6 roll of 4, 5, or 6.<br>+1 Spirit | | | |
+
+
+# Shadows of Brimstone - Map Tile Reference
+This reference provides information on the Map Tiles throughout all the products in Shadows of Brimstone, including their physical layout. 
+
+This reference is intended to be understood by large language AI models. Currently, such models lack reliable multi-modal capabilities, including the ability to understand data from within images. Because of this, the Map Tiles for the game have had their physical layout described in text format.  
+
+
+## Visual Description of Map Tiles
+The physical Map Tile components are described in this section so they may assist an AI in understanding and tracking how they are physically placed on the table. Using a shorthand text description to describe a particular Map Tile may even help an AI be able to track where models are placed within the squares of the tile during a Fight so as to assist in playing the game.  
+
+The Map Tiles that are included in various Core, Adventure, and Expansion boxes are flat cardboard tiles that take on various 2D shapes and have artwork depicted on both sides of the 2D tile. The different art work on either side of a particular Map Tile correspond to two different World Locations (e.g., one side might be a tile for the Mines, while the other depicts a location in the Swampsof Jargono).
+
+The edges of the map tiles are black bordered walls and almost every Map Tile has at least two puzzle-cut spaces for connecting to other randomly drawn Map Tiles. Entrance Map Tiles and End Caps only have a single puzzle-cut connector space. 
+
+The artwork depicted on the tile is from a top-down perspective and highly evocative to help visually represent the Heroes walking through the location when the Hero miniatures are placed on the tile. The artwork is split up into a square grid, about 1" square, to regulate miniature movement across the tile. Each square on the Map Tile is called a space.  
+
+Some of the black bordered walls and edges of the map tile will bleed into some of the edges on the Map Tile, creates spaces that are partially filled with artwork depicting the location and partially depicting the black bordered wall. Spaces with at least 50% of the square covered by artwork is still considered a valid space for models to occupy.  
+
+Spaces occupied by puzzle-cut edges are also considered valid spaces and may be occupied by models wither there is another Map Tile connected or not. Every puzzle-cut connection on ever Map Tile in Shadows of Brimstone is two spaces wide to ensure that all Map Tiles can be connected to one another.  
+
+
+## Text Format of Map Tile Layout
+Map Tiles can be displayed as a grid of spaces forming colums and rows. The grid for each tile will be displayed in a code block element. Each space will be assigned a unique two digit ID number so that it can be referred to via text descriptions. 
+
+Since each Map Tile has a designated edge of puzzle-cut spaces that are considered the Entrance spaces of the tile when placing them on the table, all Map Tile diagrams will be oriented with the Entrance spaces on the bottom/south of the diagram. This will allow cardinal directions to be used in text descriptions since south will always point to the bottom of the diagram.
+
+Puzzle-cut spaces that are used for connecting to additional Map Tiles and represent open doorways during gameplay will have their ID number displayed in *italics*.
+
+Map Tile cards designate which results on a D6 roll correspond to which puzzle-cut spaces on the tile so that doors and gates can be randomly determined. The puzzle-cut spaces will have a range of numbers within [square brackets] adjacent to them, indicating which values on a D6 roll correspond to that doorway.
+
+Dashes and vertical pipes will represent black bordered walls and grid edges of spaces.
+
+Spaces that have less than 50% of their volume covered in artwork are not considered valid gameplay spaces. Knowing where this spaces are is still useful for knowing where the walls are. These spaces do not require a unique ID and will be shown as "XX".
+
+Some spaces have black wall borders that cover one or more of their edges or corners. This can block Line of Sight to some other spaces and is important to know. Spaces that have one or more of their corners blocked will have the corresponding wall corner marked with a pound/hash # in place of a dash where the corner is that is blocked.
+
+Barriers are thick white lines that block most movement across them but not Line of Sight. Each side/edge of a space that contains a Barrier will use equal signs = instead of dashes to indicate a Barrier horizontally, and use exclamation marks ! instead of vertical pipes to indicate Barrier lines vertically.
+
+Any additional unique elements on a Map Tile that are important for gameplay purposes will be described outside of the diagram.
+
+Note that Entrance spaces on either side of the same Map Tile usually do not share the same edge. Therefore each side of the same Map Tile will be listed as a completely separate Map Tile with its own diagram.
+
+## Map Tile Metadata
+The following additional meta data is included with each Map Tile entry:
+
+### Name
+This is the thematic name of the tile as listed on the Map Deck card corresponding to the tile.
+
+### Advanced
+Some Map Tiles are considered "Unique" and have a corresponding Advanced Encounter card which corresponds to the unique Map Tile. This is a unique Encounter card that thematically links to the artwork on the tile itself, creating an event that is more thematically grounded to the artwork. Using Advanced Encounters is an optional rule in the game rules. The title of the advanced Encounter card will be listed here.
+
+### Description
+This is a text description of the artwork depicted on the tile. It is intended to be useful to an AI when acting as a Game Master and Story Teller than can reference the artwork on Map Tiles to generate narrative during an adventure, and also help to generate custom Encounters which match the tile.
+
+Note that any description of terrain, objects or other elements in this section has no gameplay effects but are purely thematic. Any special gameplay effects will be described in the Special Notes section if necessary.
+
+### ID
+The physical Map Tiles were not manufactured with any ID markings on them across the entire product line of the game. This can make storing and organizing large amounts of tiles difficult for a large collection. It is common for fans of the game to create their own ID system and give each tile a unique ID written by hand onto the tile itself, as well as the Map Deck card which corresponds to it. This can make the physical tile much easier to quickly locate in a file cabinet during gameplay. I have created my own ID system for this purpose. 
+
+I have labeled each related Map Tile, Map Deck card, and Advanced Encounter card with the same ID for easier location. Both sides of the Map Tile are labeled with the same ID, and so the corresponding Map Deck card and Advanced Encounter card (if any) for both sides all share the same ID. Because of this, two entries will be listed with the same ID, but they will be listed in different sections (one in Belly of the Beast and the other in Forbidden Fortress section for example), they will have different diagrams due to the tile likely being rotated/oriented differently, and they will have different advanced encounters and names.
+
+Entrance, passage, corner, cross, and t-junction tiles do not have IDs.
+
+The ID is a simple two-digit number with a 3-letter prefix. The 3-letter prefix helps me identify the World/Setting/Expansion that the tile belongs to. My 3-letter prefixes correspond to settings as follows, with the setting on the reverse side of the tile in parentheses:
+
+- BOB: Belly of the Beast (Forbidden Fortress)
+- FOD: Forest of the Dead (Forbidden Fortress)
+- TAR: Targa Plateau (Mines)
+- JAR: Swamps of Jargono (Mines)
+- BLA: Blasted Wastes (Mines)
+- TRE: Trederra (Mines)
+- CYN: Caverns of Cynder (Mines)
+- DER: Derelict Ship (Mines)
+- PRO: Promo Tiles not sold in retail, can come from any setting.
+
+Unique Map Tiles included in Mission Packs do not have an ID.
+
+Including the information on how I organize my Map Tiles may make an AI better able to assist me during gameplay, but this ID system is not part of the official product and is something that I have done to modify my own game.
+
+### Special Notes
+A small number of Map Tiles may have unique gameplay elements, such as areas that may provide Cover in Trederra and Forest of the Dead. Any additional special gameplay notes that the tile may have will be added to this section.
+
+### Entrance and Passage Tiles
+Entrance and passage tiles are largely the exact same layout across all Core Sets, Adventure Sets, and Expansions, and have no gameplay differences. Therefore, these tiles will only be described once even though a set of Entrance and passage tiles are included in most sets. If any set does come with unique passage tiles that either have a unique layout or gameplay elements printed on the tile (Barriers, Cover, etc.), they will be listed as their own entry.
+
+## Entrance, Passages, and End Cap Tiles
+
+### Entrance
+```
+     | 01 | 02 |
+     |----|----|
+     | 03 | 04 |
+     |----|----|
+     | 05 | 06 |
+-----#---------#-----
+| 07 | 08 | 09 | 10 |
+|----|----|----|----|
+| 11 | 12 | 13 | 14 |
+|----|----|----|----|
+| 15 | 16 | 17 | 18 |
+|----|----|----|----|
+| 19 | 20 | 21 | 22 |
+---------------------
+```
+
+**Special Notes**  
+Entrance tiles only have one puzzle-cut door since it is usually placed as the first tile on the table during a mission. Therefore, there are no Entrance spaces oriented on the bottom/south of the Map Tile. For cardinal orientation in this diagram, consider spaces 19-22 to be along the "south" wall of the Map Tile.
+
+As a general rule (unless Mission rules specify otherwise), the Heroes always begin placed in the space of their choice anywhere in the south most 8 spaces of the tile. In this case, spaces 15-22 are valid choices to initially place a Hero model at the start of a Mission. 
+
+
+### Corner Passage
+**[1-3]:**
+```
+   ------------------
+  01 | 02 | 03 | 04 |
+   --|----|----|----|
+  05 | 06 | 07 | 08 |
+   -------#----|----|
+          | 09 | 10 |
+          |----|----|
+          | 11 | 12 |
+```
+
+**[4-6]:**
+```
+------------------
+| 01 | 02 | 03 | 04
+|----|----|----|--
+| 05 | 06 | 07 | 08
+|----|----#-------
+| 09 | 10 |
+|----|----|
+| 11 | 12 |
+```
+
+**Special Notes**  
+When a corner passage is drawn, a D6 is rolled to determine which direction the corner turns. Diagrams for both directions are shown along with the D6 values to determine the direction randomly. 
+
+
+### Short Passage
+```
+          | 01 | 02 |
+          |----|----|
+          | 03 | 04 |
+          |----|----|
+          | 05 | 06 |
+          |----|----|
+          | 07 | 08 |
+```
+
+### Mid Passage
+```
+          | 01 | 02 |
+          |----|----|
+          | 03 | 04 |
+          |----|----|
+          | 05 | 06 |
+          |----|----|
+          | 07 | 08 |
+          |----|----|
+          | 09 | 10 |
+```
+
+### Long Passage
+```
+          | 01 | 02 |
+          |----|----|
+          | 03 | 04 |
+          |----|----|
+          | 05 | 06 |
+          |----|----|
+          | 07 | 08 |
+          |----|----|
+          | 09 | 10 |
+          |----|----|
+          | 11 | 12 |
+```
+
+### T-Junction Passage
+```
+   -------------------------
+  01 | 02 | 03 | 04 | 05 | 06
+   --|----|----|----|----|--
+  07 | 08 | 09 | 10 | 11 | 12
+   -------#----|----#-------
+          | 13 | 14 |
+          |----|----|
+          | 15 | 16 |
+```
+
+### Cross Passage
+```
+          | 01 | 02 |
+          |----|----|
+          | 03 | 04 |
+   -------#----|----#-------
+  05 | 06 | 07 | 08 | 09 | 10
+   --|----|----|----|----|--
+  11 | 12 | 13 | 14 | 15 | 16
+   -------#----|----#-------
+          | 17 | 18 |
+          |----|----|
+          | 19 | 20 |
+```
+
+### End Cap
+
+## Forbidden Fortress
+
+### Burning Room
+```
+        [1-3]       ----------------
+     |*01*|*02*|    | XX | XX | XX |
+-----|----|----#----|----|----|----|
+| XX | 03 | 04 | 05 | 06 | 07 | 08 |
+|----|----|----|----|----|----|----#--
+| 09 | 10 | 11 | 12 | 13 | 14 | 15 |*16*
+|----|----|----|----|----|----|----|--   [4-6]
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |*24*
+|----|----|----|----|----|----|----#--
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+|----|----|----|----|----|----|----|
+| XX | 32 | 33 | 34 | 35 | 36 | 37 |
+-----|----|----|----#----|----#-----
+                    |*38*|*39*|
+```
+
+- **ID:** BOB07
+- **Advanced:** Blazing Inferno
+
+**Description**
+
+A rectangular dojo room with no furniture, padded floors, and a floating shelf on the west wall. A folding privacy screen has fallen over in the center of the room, is torn, and splattered with blood. A few blood splatters are scattered on the floor and a long spear is lying on the floor. The northeast corner of the room features a sliding screen door on the north edge of spaces 06, 06, and 08, filled with a blazing fire just outside the threshold into the XX spaces. A burning ceiling rafter has partially collapsed in the northeast corner of the room in spaces 07, 08, and 14. 
+
+## Belly of the Beast
+
+### Synapse Chamber
+``` 
+         --------------------------
+         | XX | 01 | 02 | 03 | XX |
+       --|----|----|----|----|----|
+      04 | 05 | 06 | 07 | 08 | 09 |
+[1-3]  --|----|----|----|----|----|
+      10 | 11 | 12 | 13 | 14 | 15 |
+       --|----|----|----|----|----|
+         | 16 | 17 | 18 | 19 | 20 |
+    -----|----|----|----|----|----|--
+    | XX | 21 | 22 | 23 | 24 | 25 | 26
+    |----|----|----|----|----|----|-- [4-6]
+    | XX | 27 | 28 | 29 | 30 | 31 | 32
+    |----|----|----|----|----|----|--
+    | XX | 33 | 34 | 35 | 36 | 37 |
+    ----------#----|----#----------
+              | 38 | 39 |
+```
+
+- **ID:** BOB07
+- **Advanced:** Nerve Bundles
+
+**Description**  
+A large open chamber with the usually pink, wet, organic tissue as the walls and floor. There are four large, purple nerve bundles here connected to each other by nerve synapses. Electric pulses vibrate across the nerve bundles and synapses. The large bundles are about the size of a space and are located at the SW corner of space 06, the SW corner of space 13, space 22, and the edge between spaces 30 and 36.
+
+
+# Shadows of Brimstone - Personal Items Reference
+This is a reference of Personal Item cards available to Heroes during character creation. When creating a new character, players get to draw a random Personal Item card that they keep for the duration of the campaign. This reference is a list of each Personal Item card and their gameplay rules/effects.  
+
+**Themed Personal Item Decks**  
+Personal Item cards have been created and themed for different settings over the history of Shadows of Brimstone. This reference separates the Personal Item cards into their different themed decks so that a random card from the appropriate deck can be drawn, depending on the native setting that the Hero Class comes from. The different themed Personal Item decks are:
+
+- Brimstone Personal Items: For Hero Classes native to the Old West setting of Brimstone. 
+- Forbidden Fortress Personal Items: For Hero Classes native to the feudal japanese setting of the Forbidden Fortress.
+- Jargono Personal Items: For Hero Classes native to the Swamps of Jargono OtherWorld setting.
+- Trederra Personal Items: For Hero Classes native to the OtherWorld setting of Trederra.
+
+## Brimstone Personal Items
+
+### Weathered Newspaper
+- **Name:** Weathered Newspaper  
+- **Keywords:** Personal, Paper, News  
+- **Game Effects:**  
+  - +1 Lore
+  - Whenever the Hero Posse marker moves onto a Blood Spatter or Growing Dread space of the Depth Track, you may Recover a Grit.
+
+### Worn Eye Patch
+- **Name:** Worn Eye Patch 
+- **Keywords:** Personal 
+- **Game Effects:** 
+  - +1 Cunning
+  - Once per Adventure, Recover Grit up to your Max Grit.
+
+### Letter from the President
+- **Name:** Letter from the President  
+- **Keywords:** Personal  
+- **Game Effects:** 
+  - +1 Max Grit
+  - Once per Adventure (or during the following Travel/Town Stay), you may cause one roll on a Chart to be Re-rolled (for yourself, another Hero, or the group).
+
+### Hand Mirror
+- **Name:** Hand Mirror  
+- **Keywords:** Personal, Glass  
+- **Game Effects:** 
+  - +4 Sanity
+  - 'Voices in the Dark' now only does D3 Horror Hits to you (instead of the normal D6).
+
+### Silver Dice
+- **Name:** Silver Dice  
+- **Keywords:** Personal, Dice, Charm  
+- **Game Effects:** 
+  - Once per Adventure, you may discard and Re-draw any single card just drawn.
+
+
+# Shadows of Brimstone Product Reference  
+This document is a reference to help train AI models in being familiar with the descriptions of each of the products available for Shadows of Brimstone. The official marketing material descriptions are used, which often include a short narrative introduction and summary of what gameplay elements are included in the product. This is intended to help the AI become more knowledgable about the Shadows of Brimstone line of products and what kind of content is included in each product. With this data, an AI can be more helpful in answering question about the various products, as well as performing other related tasks such as acting as a Game Master for human players where knowledge of what products are required to play with certain content.  
+
+## What is Shadows of Brimstone?  
+Shadows of Brimstone™  is a fully cooperative, dungeon crawl, adventure game, where a group of courageous Heroes explore a world overrun with unspeakable horrors. First appearing as a wildly successful Kickstarter campaign in 2013, the original Shadows of Brimstone™ Core boxes were set in the Old West. In 2016, the Forbidden Fortress™ Core box appeared as a second Kickstarter campaign, introducing elements of Feudal Japan to the Shadows of Brimstone game series.  
+
+The  game supports 1-4 players (or up to 5-6 players with additional Heroes), has a standard game time of 2-3 hours, and includes a campaign system for keeping your Hero characters from game to game, finding new items on your adventures and gaining new skills and abilities as you go up in level. You can also visit a settlement between adventures to re-stock and re-supply before setting out on  your next mission, and during the game, you can find the swirling portals that the terrifying enemies are coming from, and you can step through those gateways to continue your adventures on the other side, in another dimension or alien world. The map tiles are all double-sided, with the Earth-based environment on one side and an alien world on the other side.  
+
+One of the main features of Shadows of Brimstone™  is that all of the players work together against the game itself, and that everything is card-based and dynamically generated as you play (the encounters, enemies, board layout, etc.), meaning that the game never plays the same way twice.  
+
+## Game Miniatures  
+The Miniatures included in Shadows of Brimstone: Gates of Valhalla  and Shadows of Brimstone: Valley of the Serpent Kings  are multi-part HIPS hard plastic. They come on frames and do require some assembly. We have taken great care to make the assembly in as few pieces per model as possible, while still getting a high level of detail and fantastic, dynamic poses. This also brings an aspect of Hobby to the game as many players find it fun to customize and paint their figures.  
+
+## Types of Products
+Shadows of Brimstone is an expansive game system, offering players a wide world to explore. There are many different ways
+to expand your collection and add variety to your Adventures.  
+
+### Core Sets
+The Core Sets for Shadows
+of Brimstone are intended as an
+entry point to the game, including
+everything you need to play. Each
+Core Set focuses on a different genre
+(such as the Old West or Feudal
+Japan), and is packed with a different set of content
+including 4 Heroes, a host of ruthless Enemies, a full Map Tile
+Set featuring a different alien World, 12 Missions, and all of the
+rules, cards, and counters to start your Adventures.  
+
+### Adventure Sets
+Slightly smaller than a Core Set,
+Adventure Sets feature a group of Team
+Heroes (such as Vikings or Conquistadors)
+that are a trained fighting force of warriors
+and explorers. These sets can be used as
+an entry point to the game, and include
+everything needed to play. Featuring a host of deadly
+Enemies, cards, and counters, each Adventure Set is based
+around an 8 Mission narrative campaign and allows the
+Heroes to build and grow their Expedition Camp throughout
+the campaign.  
+
+### OtherWorld Expansions
+These large boxed expansions add new
+alien Worlds for the Heroes to adventure in.
+With a full new set of Map Tiles, new Enemies
+themed for the new World, 6 new Missions,
+and a Host of new cards and counters, each
+OtherWorld Expansion is literally a whole new
+World to explore.  
+
+### Town Expansions
+Greatly expanding on the Town Stay
+between Adventures from the Core Sets, these
+large boxed Expansions (such as Frontier Town
+and Feudal Village) offer new Town Locations
+to visit, different types of Towns that can be
+encountered, and even add 6 new Missions and a large game
+board for playing Adventures in the Town itself. Also included
+are a new group of Enemies that are themed for the Town.  
+
+### Enemy Packs
+There are many different Enemy Packs
+for Shadows of Brimstone, each adding new
+hordes of foes to your game, or even larger
+Enemies as Epic boss encounters. These
+Enemy Packs include all of the miniatures, cards, counters, and
+rules needed to add the new Enemies to your games. Many of
+the larger Enemy Packs even include Missions as well.  
+
+### Hero Packs
+Hero Packs introduce new Hero Classes
+to the game that can be added to your Hero
+Party, and are a good way to increase the
+Player Count of the game up to 5-6 Players.  
+There are two types of Hero Packs -
+New Heroes and Alt Gender Hero Packs. New
+Heroes have all of the cards, rules, and Upgrade information
+for playing as that new type of Hero, as well as both the Male
+and Female Miniatures for them. Alt Gender Hero Packs are a
+pack of 4 Heroes originally introduced in one of the Core Sets
+or Adventure Sets, but include the alternate gender miniatures
+for the Heroes that came with the associated Core/Adventure
+Set. These Alt Gender Hero Packs also contain all of the
+cards, rules, and Upgrade information needed to play as those
+Heroes, allowing you to have a second player use the same
+Hero Class, or to add these Heroes to your games, even if you
+don’t yet have the Core Set/Adventure Set it is associated with.  
+
+### Mission Packs
+Each Mission Pack is a deep dive into a
+new type of Enemy, including new Artifacts,
+Gear, Encounters, Darkness, and Enemy
+Trait cards themed for those Enemies, as
+well as the miniatures and counters for them.
+A special Adventure Card is also included,
+allowing you to change existing Missions to
+be themed for the new Enemy type. One of the main features of
+each Mission Pack is a story-driven 4 Mission mini-campaign
+heavily focused on the theme of these new Enemies.  
+
+### Card Suppliments
+On the official Flying Frog website (www.flyingfrog.net)
+you can find additional content not available in stores. This
+includes Dark Stone Forge resin terrain pieces with exciting
+and thematic new Missions, miniatures for specific characters
+of unique Enemies or Allies, and additional themed Card
+Supplement packs that add new game mechanics and variety
+to your Adventures.  
+
+### Swarm Packs
+
+### Map Tile Packs
+
+### Enemy Theme Sets
+## Core Sets
+
+### The Lost Tombs of Khamuntet  
+In the Lost Tombs of Khamuntet Core Set, players take on the role of a group of 1930's pulp adventure Heroes, exploring the dark chambers and crumbling passages of ancient Tombs, in search of fortune and glory! Lost in the desert sands of Egypt for thousands of years, these cursed temples are overrun with terrifying mummies, flesh-eating scarab swarms, and mythological guardians from Egyptian lore, brought to life through the power of the Dark Stone.  
+
+The Heroes of your expedition include the fearless Archaeologist, using her mastery of Egyptian Lore to explore the tombs while seeking out ancient artifacts and relics to bring back to the museums of Cairo, the combat-ready Soldier of Fortune, blazing away at dangers with his twin .45s, the scholarly Professor, using his knowledge of the occult and vast academic expertise to solve the riddles of the past, and the heavy-hitting Mechanic, using her hefty wrench to smash Enemies and her mechanical knowhow to overcome the deadly traps that litter the ancient halls.  
+
+New Enemies include Crypt Mummies, bursting forth from their burial chambers to take their revenge on the living, vicious Scarab Swarms that pour out of infested Sarcophagi to consume anything that lay in their path, the Cult of Horus, fanatical followers of the ancient ways working to resurrect the corrupted sorcerer Khamuntet, Anubite Jackals, terrifying supernatural hunters and warriors of Anubis, and the towering Tomb King, an ancient and massive statue brought to life to bring ruin on intruders!  
+
+This set also features the Sunken City of Pharrox, a brand new OtherWorld to explore. Once a powerful kingdom of the ancient world, ruled by a dynasty of ruthless vampires, the island city of Pharrox Atlantea was destroyed in a cataclysm of war with the Ancient Egyptians and their gods. Submerged beneath the roaring seas, the ancient city has been lost for millennia; its remaining inhabitants lay in twilight slumber until the long dormant gateways to the ancient city are activated once more.  
+
+### The Impossible Hell Train  
+In The Impossible Hell Train Core Set, players take on the role of a group of traveling Heroes riding the railroad through the corrupted territory of the Southwest. With the long-awaited rail lines of the Western Express now up and running, an influx of new blood have set their sights on making a name for themselves in the Badlands of Brimstone. But these are dangerous times, and swarms of HellBats darken the sky while gangs of Train Robbers lay in wait for the next locomotive carrying precious Dark Stone and wealthy passengers looking for adventure.  
+
+Players take on the role of Heroes like the Bounty Hunter, boarding trains to seek out her next bounty, dead or alive, the daring Cavalry Officer, master of Hit and Run attacks, wielding a pistol and sabre, the cunning Reporter from the big city, searching for the story of a lifetime, and the hearty Rail Worker, swinging his two-handed sledgehammer to smash demons as easily as he drives rail spikes to build the lines.  
+
+New Enemies include hordes of Soulless, demon-possessed undead passengers that have had their souls ripped out, Mounted Train Robbers on horseback to ride up alongside the train for a high speed shootout, as well Train Robbers on foot for when they board the train searching for goods and Dark Stone to steal, Grotesques, nightmarish winged gargoyles from the Badlands that descend from the skies to tear their way into the train, and the hulking Hellborn Engineer, fused with the burning coals and twisted iron of the train itself, this brute burns hot with the power of the Darkness!  
+
+This set also features the otherworldly Hell Train, itself; a nightmare locomotive that runs on rails of fire, barreling through the Void and burning its mark across all worlds! Flickering in and out of reality, the runaway Hell Train belches black smoke from its stacks, and the sound of its whistle splits the night as the thunderous rumble of its engine shakes the foundations of the earth as it approaches.  
+
+## Enemy Theme Packs  
+
+### Terrors of the Deep  
+The Terrors of the Deep Enemy Theme Pack comes with a host of new Sunken City of Pharrox Enemies to torment your Heroes, as well as new Pharrox-themed Missions, and over 40 new Game cards with assorted counters. You get 1x Queen of the Dead, 3x Large Dynastic Guard, 1x Court Artificer, and 6x Atlantean Automaton Warriors.
+
+## Hero Packs  
+
+### Treasure Hunter  
+The Treasure Hunter Hero Pack is a Kickstarter exclusive that is included with the Scarab Pledge Level or Pharaoh Pledge Level. It was introduced in the Shadows of Brimstone: Lost Tombs and The Hell Train Kickstarter Campaign.
+
+Venturing into the most dangerous ancient tombs and temples in the world, the Treasure Hunter is always in search of fortune and glory. Ducking and weaving through deadly traps and deciphering cryptic clues, he has an eye for detail that comes in handy when searching for lost relics.
+
+### Brimstone Ranger  
+Hardened law men riding the range, the Brimstone Rangers patrol the most dangerous territory around the ruins of Brimstone. These cursed lands are filled with all manner of demons, creatures, and the living dead, but the Brimstone Rangers take it in stride. Only the toughest, saltiest, and most cunning riders survive in these parts...but it's here that the Brimstone Rangers thrive.
+
+## Railroad Board Packs  
+The Railroad Board is used in several of the Missions for the Hell Train Core Set. It is placed on the table under the Train Cars and allows models to ride up along side the train, having gunfights with the Heroes  and trying to climb aboard!
+
+### Egyptian Desert and Snowy Mountains  
+The Add On Railroad Board Pack adds new Environment Railroad Boards for the Deserts of Egypt and the snowy mountains (or could be used for Targa or the Norse Lands). It also adds new Missions with this theme in mind, as well as a bunch of new cards  for these themes.
+
+## Adventure Sets  
+Each Adventure Set includes the following:
+
+- A Set of beautifully detailed, multi piece hard plastic, 32mm scale game miniatures for the Heroes and Enemies, each designed with dynamic poses and detail perfect for painting. Gates of Valhalla contains 26 miniatures and Valley of the Serpent Kings contains 20 Miniatures, of various sizes.
+- Immersive adventures and story driven gameplay, using the expansive and popular Shadows of Brimstone™ Game Engine.
+- Fully Cooperative, with all of the players working together against the game itself
+- Dynamically generated adventures, 8 different Missions, and 4 unique Heroes with many options for customization, the game is designed for massive replayability.
+- Easy to learn with simple but fun gameplay and rewarding thematic story moments as you progress your Heroes.
+- Built-in Campaign system for keeping your Hero characters from game to game, finding new items on your adventures and gaining new skills and abilities as you go up in level.
+- Heroes can visit their Expedition Camp Site between missions to re-stock and re-supply before the next adventure, having a mini-adventure in camp.
+- Double-sided Map Tiles include an Earth-based World on one side (Norse Lands or Spanish Fort) and an OtherWorld on the back side for the Heroes to explore; stepping through a shimmering portal and continuing their adventures in an alien world of crumbling ruins and terrifying monsters.
+- Over 170 game cards, a set of beautifully illustrated, double-sided Map Tiles, a host of dice and counters, and all of the large Hero and Enemy record sheets needed to play.  
+
+Either of these Shadows of Brimstone Adventures Sets can be played on its own as a stand-alone game, or it can be used in combination with any and all of the other Shadows of Brimstone products already available! It is fully compatible, in every way! For new players, these Adventures Sets will make a great introduction to the world of Shadows of Brimstone, and for veteran players, they add a ton of new content, including brand new Worlds to explore - the Norse Lands and Targa Plateau - The Library in Gates of Valhalla, and the Spanish Fort and Swamps of Jargono - Valley of the Serpent Kings in Valley of the Serpent Kings. They also include brand new sets of Heroes and Enemies to add to your games.With all of the Shadows of Brimstone material available, the possibilities are endless!  
+
+
+### Valley of the Serpent Kings  
+In the Valley of the Serpent Kings  Adventure Set, players take on the role of a group of Spanish Conquistadors, exploring the dark halls and stone ramparts of a Spanish Fort  that has fallen into Darkness, overrun by demons and creatures.  
+
+As a Team of Conquistador Heroes, you can play as the fearless El Capitan, leading his men with boundless ambition, the classic Explorer, guiding the expedition through the jungle swamps, the armored Soldier, a front line fighter armed with a heavy crossbow to skewer all but the toughest of Enemies, or the agile and deadly Duelist, fencing with twin blades and blurring the line between dance and death.  
+
+New Enemies include Drowned Dead, lost explorers that rise up from the watery depths to take their revenge on the living, Serpentmen Archers, keeping their distance to fire a deadly volley of Dark Stone arrows at the Heroes, Temple Guard, a new breed of brutish Serpentmen that defend the temples of the Serpent Kings with savage ferosity, and the mighty Croxin Beast, a massive reptilian creature unleashed by the Serpentmen as a beast of war!  
+
+This set also features brand new material for the Swamps of Jargono  OtherWorld (first introduced in the Swamps of Death Core Set), a murky jungle swamp filled with giant insects, carnivorous plants, and vicious Serpentmen. The Heroes will explore a new region of Jargono - the Valley of the Serpent Kings, with new Map Tiles, Encounters, Artifacts, World abilities, and Enemies to battle, letting you explore the Swamps for the first time, or expanding your existing collection.  
+
+### Gates of Valhalla  
+In Gates of Valhalla, players take on the role of a group of Norse Vikings, exploring the icy crags and snowy forests of the Norse Lands  filled with snarling beasts and mythological creatures  emboldened by the power of the Dark Stone.  
+
+As a Team of Viking Heroes, you can play as the stalwart Jarl  Chieftan, leading his clan from the front of the pack, the classic Raider, armed with shield and axe to pillage and plunder, the frenzied Berserker, unleashing his bloodthirsty Rage in a flurry of death, or the Huscarl honor guard, firing her Viking Bow before charging valiantly into the fray.  
+
+New Enemies include Trolls, beastly creatures that regenerate even the most grievous of wounds while hurling large stones and tearing at the Heroes with brutal claws, Gremians, a horde of mischievous little goblins that swarm the Heroes to slice and slash and claw and bite, Centurions, robotic soldiers armed with power swords and shields to fight off intruders, and the terrifying Frost Giant, a towering behemoth that smashes the Heroes with his tree trunk club before charging across the field of battle in a frothing frenzy!  
+
+This set also features brand new material for the Targa Plateau OtherWorld (first introduced in the City of the Ancients Core Set), an ancient alien city, frozen and abandoned for millennia save for the robotic constructs that awaken to defend the icy halls. The Heroes will explore a new region of Targa - The Library, with new Map Tiles, Encounters, Artifacts, World abilities, and Enemies to battle, letting you explore the frozen city for the first time, or expanding your existing collection.  
+
+## Other Expansions  
+
+### Trederran Strike Team Expansion  
+Trederran Strike Team Expansion – The Trederran Strike Team is an elite fighting squad of alien special forces soldiers, deployed on dangerous missions by the High Command of their Trederran Nation. This Expansion includes the new Trederran Team Heroes, with 4 unique types of Trederrans to play as - the Sergeant, leading the team with grim determination, the Legionnaire, an elite soldier pulled from the front lines, the Specialist, a master in using the various Weapons of War, and the Engineer, a demolitions and tech expert. This allows players to take on the role of a team of alien Anti-Heroes for the first time.  
+
+This Expansion includes all of the Heroes, Miniatures, and cards needed to play as a Trederran Strike Team, including Trederran Personal Items, Starting Gear, Upgrades and Skill Tree, Trederran Faction cards that let you choose the Nation your team is fighting for (or if you want to have a combined Strike Team from different Nations, coming together for a unified goal), Team Ability cards (with unqiue Team Abilities for each of the 6 major Trederran Nations), Encounters unique to playing as Trederrans, and 6 new Missions, allowing your Strike Team to venture into other worlds on raids for Dark Stone or resources, to set up toxic gas generators, assassinate a target, or even deploy a dreaded Doomsday Device!  
+
+### Crimson Hand Enclave Expansion  
+Crimson Hand Enclave Expansion – The Crimson Hand Enclave are a secretive sect, even within the shadowy cult of the Crimson Hand. They specialize in tracking down the most legendary ancient relics and forbidden lore. This Expansion includes the new Crimson Hand Heroes, with 4 unique types of Crimson Hand to play as - the Inquisitor, leading the sect with fierce determination, the Cultist, a veteran member of the Order that has seen wonders and horrors beyond human comprehension, the Acolyte, well-versed in ancient knowledge and arcane magik, and the Cloaked Assassin, a silent hunter that melds into the shadows. This allows players to take on the role of a team of nefarious Crimson Hand cultist Anti-Heroes for the first time.  
+
+This Expansion includes all of the Heroes, Miniatures, and cards needed to play as a Crimson Hand Enclave, including Crimson Hand Personal Items, Starting Gear, Upgrades and Skill Tree,  Team Ability cards, Arcane Items and Ancient Orbs, and an 8 Mission narrative story campaign, allowing your Enclave to venture into other worlds on raids for relics, to infiltrate and spread the influence of the Crimson Hand, and even performing summoning rituals to bind creatures of the Void to your will (at least until they break loose).  
+
+## XXL Deluxe Enemy Packs  
+
+### Thunderforged Titan  
+The Thunderforged Titan is one of the tallest Enemies in the game, towering over the Heroes. The head of its massive Underworld Hammer alone is larger than most Heroes, allowing it to crush foes at a distance of up to 6 spaces away with its Melee Attacks, and causing Combat Hits to Heroes adjacent to the target as well. With a hefty Armor 4+ save, the titan shrugs off most damage, while crackling with Bound Lightning that electrifies adjacent Heroes when they assign Critical Hits to the titan (note that a Hero that rolls a Critical Hit may elect not to assign that Hit to avoid the Bound Lightning).  
+
+In addition, the Thunderforged Titan wields an entire deck of deadly Titanic Devastation cards to wreak havoc on the Heroes, while causing Fiery Eruptions of molten magma to burst from the ground whenever the Hold Back the Darkness roll is failed.  
+
+
+# Shadows of Brimstone AI Generation Guidelines
+This reference contains guidance for an AI in generating Shadows of Brimstone content during play. Each section has its own details to help guide an AI in generating fun and interesting content for the game, depending on the type of content it is asked to generate. It should be used in tandem with the other data about the game such as the rules, details of Hero Classes, Missions, Map Tiles, Lore, etc. Ideally, all of this information will be either loaded into a temporary context window for the AI to use or be a part of an AI's training data during fine-tuning.  
+
+## Hero Character Creation
+An AI generating a Hero characer should follow this procedure step-by-step, outputting the result of each step along the way. Each step is numbered and has a name. 
+
+1. Select Class:   
+  When asked to create a Hero character, the AI should start by picking the Hero Class/Sub-Class of the character. If a specific Class/Sub-Class is not requested, then the AI can pick randomly or however it likes among those it knows about and has all of the data for. The AI should NOT pick a Hero Class/Sub-Class that has missing or incomplete data in the "Shadows of Brimstone - Hero Reference". If the request to generate a character is within the context of a campaign or role-playing session, it would make sense to pick a Hero Class/Sub-Class that is native to the world/setting being played. The AI may choose pick a Hero Class/Sub-Class that is not native to the same world as other Heroes in the campaign, but should develop a narrative reason for how such foreign/alien characters ended up joining the party of Heroes when they are from a different world. If the AI is asked to create a Hero character within the context of a role-playing campaign, the most important factor should be a Class/Sub-Class that thematically ties in with the rest of the current context as far as story, setting, narrative, etc.
+
+2. Select Starting Upgrade:  
+Once a Class/Sub-Class is created, the AI should follow the rest of the game rules in creating the Hero. The AI should pick a starting upgrade of its own choosing or pick randomly. The AI may want to pick a starting upgrade that compliments other Heroes in the campaign if that is relevent, but that is not necessary as it can be fun to go for non-obvious choices sometimes.
+
+3. Draw Personal Item:  
+A Personal Item should be picked randomly from the appropriate Personal Item deck according to the rules. 
+
+4. Select Side Bag Token:  
+A side bag token can be picked from among those available for starting Heroes (the restricted list of available side bag tokens is covered in the Rules Compliation) according to whatever seems thematically or strategically appropriate to the AI.
+
+Once all the standard steps from the game rules have been followed to create a new Hero, now comes the fun part that AI's are particularly adept at: adding narrative and role-playing flavor!
+
+Throughout the rest of this process, the AI should make use of the "Shadows of Brimstone - Lore Reference" where possible to interweave as much of the characters generated narrative elements into the rest of the lore already present in the game. Making use of any snippest of lore related to the Hero Class itself and the native world/setting they come from are especially recommended.
+
+5. Name the Hero:  
+Next the AI should name their Hero. Remember that ANY Hero Class/Subclass in the game can be either Male or Female gendered. When picking a name, use the format: <First Name> <Nickname> <Last Name> with the nickname in quotes. This should be the full name of the character. An exception are tribal and alien characters, that can follow whatever seems thematically appropriate. But if a tribal or alien name is likely to be difficult to pronounce for the players, the AI should also add nickname to the tribal/alien Hero so the player can use it as a short-hand if desired.
+
+Next its time for backstory and character personality development.
+
+6. Create Nickname Origin:  
+First create a short backstory of why they have the nickname that was chosen. That backstory should be a short paragraph and reflect the thematic tone of the character.
+
+7. Generate Connection to Personal Item:  
+Next create a short paragraph explaining the emotional/sentimental connection the character has to their randomly drawn Personal Item card. Keywords on the Personal Item and the thematic flavor of the game effects are good inspirations to explain how the Hero acquired the item and why it is important to him/her.
+
+8. Generate Adventurer Origin Story:  
+Next create a short paragraph explaining how or why the Hero became an adventurer. This can be considered a short "origin" story. If there are other Heroes already in the party, include how they met one or more other Heroes in the party to form a narrative chain of how the party formed.
+
+9. Generate Adventuring Motivations:  
+Next create a short paragraph describing the Hero's motivations during the campaign. Are they trying to hunt down a particular enemy and get revenge? Are they trying to get rich? Maybe the seek ancient and forbidden knowledge? Some kind of motivation that keeps the Hero willing to keep putting themselves in harms way and answer the call of adventure!
+
+10. Generate Personality Quirk:  
+The next step is to create a personality quirk for the character. This can be described in just a single sentence or two. Are they afraid of Void Spiders? Allergic to fauna in the Swamps of Jargono? Maybe they are addicted to gambling and keep risking it all whenever visiting a Gambling Hall. Whatever the quirk is, it can be used for fun role-playing opportunities if the AI continues to make decisions and role-play on behalf of the Hero.
+
+11. Render Full Character Sheet:  
+The final and last step when the AI is creating a Hero is to take everything generated so far and output a well-formatted and human readable Markdown file of the character so that it can be stored by the player and easily referenced later. The markdown summary that is displayed should include the following elements displayed in the same order:
+- The full name and Class/Sub-Class of the character
+- A table containing ALL of the information in the Hero Sheet for that Class/Sub-Class (Initiative, Health, Sanity, 6 Skill Attribute Values, etc.)
+- A table displaying the current amount of Grit, Dark Stone, Gold, XP, and the current experience Level of the character. The starting Level is 1 and all other resources should be zero except for Grit which starts at 1.
+- If playing a Hero Class/Sub-Class that requires tracking current and/or maximum amounts of a special resource, that should be listed next. This could be things like Rage, Ambition, Discoveries, Fury, Faith, or other Class/Sub-Class specific resources. Refer to the "Shadows of Brimstone - Hero Reference" to determine of the chosen Hero Class/Sub-Classes makes use of any of these special resources. If not, move on to the next section
+- A section to list all their current Side Bag tokens and starting Side Bag carry limit (which is almost always 5).
+- The name and description of the chosen starting upgrade
+- The name and description of the randomly drawn Personal Item
+- The name and descriptions of each starting gear item the Hero begins with
+- The names and descriptions of any Special cards that were required to be chosen for some Hero Classes/Sub-Classes that specifically call for them. This could be things like Samurai Battle Tactics for the Samurai or Gambling Tricks for the Gambler and there are several more examples. Refer to the "Shadows of Brimstone - Hero Reference" to determine of the chosen Hero Class/Sub-Classes makes use of any of these Special cards. If not, move on to the next section
+- The backstory of the characters nickname previously generated
+- The story of the Personal Item origins previously generated
+- The origin story previously generated
+- The heroes motiviations and goals previously generated
+- The personality quirk previously generated
+
+
+
+
+
 
 
