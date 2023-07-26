@@ -191,10 +191,200 @@ Pictures and diagrams are not be necessary for an AI to understand the geometry 
 
 **4-Player Layout Alternate:**  
 (Western Board 3-Player side, Eastern Board 5-Player side)
-
+- Arctic Ocean
+  - Adjacent Areas: North Pacific, North America, North Atlantic, Scandinavia, North Asia
+  - Faction Symbol: Windwalker
+  - Glyph: N/A
+  - Type: Ocean
+- North America
+  - Adjacent Areas: Arctic Ocean, North Pacific, North Atlantic, South America
+  - Faction Symbol: Sleeper
+  - Glyph: Snake Glyph
+  - Type: Land
+- South America
+  - Adjacent Areas: North America, North Atlantic, North Pacific, South Atlantic, South Pacific
+  - Faction Symbol: N/A
+  - Glyph: Snake Glyph
+  - Type: Land
+- Australia
+  - Adjacent Areas: Indian Ocean, South Pacific
+  - Faction Symbol: N/A
+  - Glyph: Arrow Glyph
+  - Type: Land
+- North Atlantic
+  - Adjacent Areas: Arctic Ocean, North America, Europe, Scandinavia, West Africa, Arabia, South Atlantic, South America, North Pacific
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- North Pacific
+  - Adjacent Areas: Arctic Ocean, North America, North Atlantic, Indian Ocean, South Pacific, North Asia, South Asia
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- Indian Ocean
+  - Adjacent Areas: North Pacific, South Pacific, Australia, South Asia, Arabia, East Africa, South Atlantic, Antarctica
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- South Pacific
+  - Adjacent Areas: South America, South Atlantic, Antarctica, North Pacific, Indian Ocean, Australia
+  - Faction Symbol: Great Cthulhu
+  - Glyph: N/A
+  - Type: Ocean
+- South Atlantic
+  - Adjacent Areas: North Atlantic, West Africa, East Africa, Indian Ocean, Antarctica, South Pacific, South America
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- Antarctica
+  - Adjacent Areas: South Pacific, South Atlantic, Indian Ocean
+  - Faction Symbol: Windwalker
+  - Glyph: N/A
+  - Type: Land
+- East Africa
+  - Adjacent Areas: Indian Ocean, South Atlantic, West Africa, Arabia
+  - Faction Symbol: N/A
+  - Glyph: Arrow Glyph
+  - Type: Land
+- West Africa
+  - Adjacent Areas: North Atlantic, Arabia, East Africa, South Pacific
+  - Faction Symbol: Black Goat
+  - Glyph: Arrow Glyph
+  - Type: Land
+- Arabia
+  - Adjacent Areas: North Atlantic, Europe, North Asia, South Asia, Indian Ocean, East Africa, West Africa
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- South Asia
+  - Adjacent Areas: Arabia, North Asia, North Pacific, Indian Ocean
+  - Faction Symbol: Crawling Chaos
+  - Glyph: Claw Glyph
+  - Type: Land
+- North Asia
+  - Adjacent Areas: Arctic Ocean, North Pacific, South Asia, Arabia, Europe, Scandinavia
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- Scandinavia
+  - Adjacent Areas: Arctic Ocean, North Asia, Europe, North Atlantic
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- Europe
+  - Adjacent Areas: North Atlantic, Scandinavia, North Asia, Arabia
+  - Faction Symbol: Yellow Sign
+  - Glyph: Claw Glyph
+  - Type: Land
 
 **5-Player Layout:**  
 (Western Board 5-Player side, Eastern Board 5-Player side)
+- Arctic Ocean:
+  - Adjacent Areas: North America East, North Atlantic, North America West, North Pacific, Scandinavia, North Asia
+  - Faction Symbol: Windwalker
+  - Glyph: N/A
+  - Type: Ocean
+- North America East
+  - Adjacent Areas: Arcitc Ocean, North America West, North Atlantic
+  - Faction Symbol: N/A
+  - Glyph: Snake Glyph
+  - Type: Land
+- North America West
+  - Adjacent Areas: Arctic Ocean, North America East, Central America, North Pacific, North Atlantic
+  - Faction Symbol: Sleeper
+  - Glyph: Snake Glyph
+  - Type: Land
+- Central America
+  - Adjacent Areas: North America West, North Pacific, North Atlantic, South America East, South America West
+  - Faction Symbol: N/A
+  - Glyph: Snake Glyph
+  - Type: Land
+- South America West
+  - Adjacent Areas: Central America, South America East, South Atlantic, South Pacific, North Pacific
+  - Faction Symbol: N/A
+  - Glyph: Snake Glyph
+  - Type: Land
+- South America East
+  - Adjacent Areas: North Atlantic, South Atlantic, South America West, Central America
+  - Faction Symbol: N/A
+  - Glyph: Snake Glyph
+  - Type: Land
+- New Zealand
+  - Adjacent Areas: Australia, Indian Ocean, South Pacific
+  - Faction Symbol: N/A
+  - Glyph: Arrow Glyph
+  - Type: Land
+- Australia
+  - Adjacent Areas: Indian Ocean, New Zealand
+  - Faction Symbol: N/A
+  - Glyph: Arrow Glyph
+  - Type: Land
+- North Atlantic
+  - Adjacent Areas: Arctic Ocean, North America East, North America West, Central America, South America East, South Atlantic, West Africa, Arabia, Europe, Scandinavia
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- North Pacific
+  - Adjacent Areas: Arctic Ocean, North America West, Central America, South America West, South Pacific, Indian Ocean, North Asia, South Asia
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- Indian Ocean
+  - Adjacent Areas: North Pacific, South Pacific, New Zealand, Australia, Antarctica, East Africa, Arabia, South Asia
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- South Pacific
+  - Adjacent Areas: South America West, North Pacific, New Zealand, Indian Ocean, South Atlantic, Antarctica
+  - Faction Symbol: Great Cthulhu
+  - Glyph: N/A
+  - Type: Ocean
+- South Atlantic
+  - Adjacent Areas: North Atlantic, West Africa, East Africa, Indian Ocean, Antarctica, South Pacific, South America East, South America West
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
+- Antarctica
+  - Adjacent Areas: South Pacific,. South Atlantic, Indian Ocean
+  - Faction Symbol: Windwalker
+  - Glyph: N/A
+  - Type: Land
+- East Africa
+  - Adjacent Areas: South Atlantic, West Africa, Arabia, Indian Ocean
+  - Faction Symbol: N/A
+  - Glyph: Arrow Glyph
+  - Type: Land
+- West Africa
+  - Adjacent Areas: South Atlantic, North Atlantic, Arabia, East Africa
+  - Faction Symbol: Black Goat
+  - Glyph: Arrow Glyph
+  - Type: Land
+- Arabia
+  - Adjacent Areas: Indian Ocean, East Africa, West Africa, North Atlantic, Europe, North Asia, South Asia
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- South Asia
+  - Adjacent Areas: North Asia, North Pacific, Indian Ocean, Arabia
+  - Faction Symbol: Crawling Chaos
+  - Glyph: Claw Glyph
+  - Type: Land
+- North Asia
+  - Adjacent Areas: Arctic Ocean, North Pacific, South Asia, Arabia, Scandinavia, Europe
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- Scandinavia
+  - Adjacent Areas: Arctic Ocean, North Asia, Europe, North Atlantic
+  - Faction Symbol: N/A
+  - Glyph: Claw Glyph
+  - Type: Land
+- Europe
+  - Adjacent Areas: North Atlantic, Scandinavia, North Asia, Arabia
+  - Faction Symbol: Yellow Sign
+  - Glyph: Claw Glyph
+  - Type: Land
+
 
 ### AI Understanding Map Movement
 An AI should keep the following in mind when reasoning about map adjacency: 
