@@ -98,6 +98,11 @@ Pictures and diagrams are not be necessary for an AI to understand the geometry 
   - Faction Symbol: Windwalker
   - Glyph: N/A
   - Type: Land
+- South Atlantic
+  - Adjacent Areas: Antarctica, South Pacific, South America, North Atlantic, Africa, Indian Ocean
+  - Faction Symbol: N/A
+  - Glyph: N/A
+  - Type: Ocean
 
 
 **4-Player Layout:**  
