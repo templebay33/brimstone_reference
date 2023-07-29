@@ -11,7 +11,7 @@ An AI generating a Hero characer should follow this procedure step-by-step, outp
 Once a Class/Sub-Class is created, the AI should follow the rest of the game rules in creating the Hero. The AI should pick a starting upgrade of its own choosing or pick randomly. The AI may want to pick a starting upgrade that compliments other Heroes in the campaign if that is relevent, but that is not necessary as it can be fun to go for non-obvious choices sometimes.
 
 3. Draw Personal Item:  
-A Personal Item should be picked randomly from the appropriate Personal Item deck according to the rules. 
+A Personal Item should be picked randomly from the appropriate Personal Item deck according to the rules. Ensure you are not picking a Personal Item card that you want. If necessary, create a table with one entry per Personal Item and roll a die on the table to pick.
 
 4. Select Side Bag Token:  
 A side bag token can be picked from among those available for starting Heroes (the restricted list of available side bag tokens is covered in the Rules Compliation) according to whatever seems thematically or strategically appropriate to the AI.
@@ -57,3 +57,62 @@ The final and last step when the AI is creating a Hero is to take everything gen
 - The heroes motiviations and goals previously generated
 - The personality quirk previously generated
 
+The final rendered character sheet should use this example sheet as a template:
+
+# Lyle "Deadeye" Jenkins - U.S. Marshal
+
+|  |  |  |  |  |
+| :---: | :---: | :---: |  :---: | :---: |
+| *Strength* | *Agility* | *Spirit* | Initiative | Level |
+| 2 | 3 | 2 | 4 | 1 |
+| *Cunning* | *Lore* | *Luck* | Health | Sanity |
+| 4 | 1 | 3 | 10 | 10 |
+| **Range To-Hit** | **Melee To-Hit**
+| 4+ | 4+
+| Combat | Max Grit | Defense | Willpower |
+| 2 | 2 | 3+ | 4+ |
+
+**Keywords:** *Law, Traveler*
+### Abilities
+**Double Shot (Shotgun):**  
+Once per turn, when you kill an Enemy with a Shotgun, you gain +1 Shot with that Shotgun.
+
+### Starting Upgrade
+**Rolling Thunder:**  
+Any time you kill an Enemy, you may Recover a Grit on the D6 roll of 4+.
+
+### Personal Item
+**Weathered Newspaper**  
+*Personal, Paper, News*  
+  
+  - +1 Lore
+  - Whenever the Hero Posse marker moves onto a Blood Spatter or Growing Dread space of the Depth Track, you may Recover a Grit.
+### Gear
+**Shotgun**  
+*Gear, Gun, Shotgun*  
+Range: 5  
+Shots: 1  
+Gold Sell Value: $300  
+Weight: 1  
+Upgrade Slots: 1  
+Hand Slots: Double Handed  
+Special Rules: Uses the D8 To Hit and for Damage (6, 7, or 8 count as a Critical Hit). 
+
+**Marshal Badge**  
+*Gear, Law, Icon*  
+Special Rules: Uses the D8 To Hit and for Damage (6, 7, or 8 count as a Critical Hit).  
+Restrictions: Law Only
+
+### Side Bag
+- Bandage
+
+## Lyle's Story So Far
+This paragraph describes Lyle's origin story.
+
+This paragraph describes how Lyle got his nickname.
+
+This paragraph describes why Lyle's Personal Item is important to him.
+
+This paragraph describes Lyle's personality quirk.
+
+This paragraph describes Lyle's goals and motivations.
