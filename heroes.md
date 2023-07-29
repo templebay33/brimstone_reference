@@ -128,9 +128,165 @@ To focus on a more team leader style role, Hardened Resolve gives you a solid ab
 | 4 | **Been Around**<br>Willpower 3+<br>+1 Lore |   | **That Does It!**<br>+1 Strength<br>Your Hits are +1 Damage for each Mutation you have (max +3) |   | **One Man Army**<br>While you are the only Hero on your Map Tile, you gain +1 Combat and +1 Shot with a Gun.<br>+2 Max Grit |   | **End of the Line**<br>Once per Fight, during your Activation, use 2 Grit to do one automatic Hit to every Enemy on your Map Tile. These Hits use the D8 for Damage. |
 
 
+# Gambler
+
+## Gambler Hero Class Sheet
+
+- **Name:** Gambler
+- **Keywords:** Performer, Showman
+- **To Hit (Range):** 4+
+- **To Hit (Melee):** 5+
+- **Combat:** 2
+- **Max Grit:** 2
+- **Initiative:** 5
+- **Health:** 10
+- **Sanity:** 10
+- **Defense:** 4+
+- **Willpower:** 4+
+- **Agility:** 3
+- **Cunning:** 4
+- **Spirit:** 1
+- **Strength:** 2
+- **Lore:** 2
+- **Luck:** 3
+- **Starting Items:**  Pistol, Gambling Trick: Fortune's Favor
+- **Abilities:**
+  - *Fortune* (Start/Max) - 3
+  - *Lady Luck* - Starts with one Random Gambling Trick (draw 2, choose 1). Each Gambling Trick may only be used once per turn. Any Time you Catch Your Breath, you may also Recover D3 Fortune Tokens.
+  - *Poker Face* - Whenever you colled Gold ($) from any Gambling in Town, you may collect and extra D6 x $50.
 
 
+## Gambler Gameplay Description
+Gamblers may not have won the West, but they had the most fun winning the war of words and wits around the card table in saloons and gambling halls across the new frontier! With nimble fingers, a cunning smile, and an elaborate plan, looking three steps ahead, a Gambler is more than just a simple showman or performer; he's an artist. Lying, cheating, and stealing is all part of the show when you're reputation as a card shark and scoundrel is on the line, and no Gambler worth his salt would let a little thing like honesty get in the way of the next big score.
 
+The gambler is all about sleight of hand, card and dice manipulation, and gaming the system using his Gambling Tricks. He's not the toughest fighter or fastest gun around, but with a bit of fortune on his side, he can pull off cunning combos and lucky maneuvers that other Heroes wouldn't even dream possible. This makes him a fun Hero for players who like to think outside the rules...not cheating per se (most of the time anyway), but bending and twisting them, with a wink and a smile.
+
+## Gambler Starting Upgrade Choices
+Gambler Starting Upgrades focus on recovering Fortune Tokens, movement, and Luck.
+
+### Fancy Footwork
+This upgrade gives the Gambler a significant speed boost to get where he needs to go, as well as a better level of control over Recovering Grit. It also has a moderate chance of Recovering Fortune Tokens.
+
+### Side Bet
+A natural betting man, the Gambler is compusively looking for ways to play the odds. This upgrade gives you a built in Luck bonus (which the Gambler tends to use...a lot) but only has a low level chance for Recovering Fortune Tokens.
+
+### High Roller
+With a lucky streak of high rolls, this upgrade can pay off in spades, giving you the extra Damage you need to capitalize on your Critical Hits for maximum effect! It also gives a high level chance for Recovering Fortune Tokens.
+
+
+## Gambler Starting Upgrades
+
+- **Side Bet:** +1 Luck. When making any Skill test (Cunning, Luck, Spirit, etc.), if you roll three of a kind, Recover 1 Fortune Token. However, if you roll three 1s, lose D3 Fortune Tokens instead.
+- **Fancy Footwork:** You may roll an extra die for Move each turn, and choose which to use. If doubles are rolled on your Move dice, also Recoter 1 Fortune Token.
+- **High Roller:** Your To Hit rolls of 6+ do +1 Damage. Once per turn, when you Recover a Grit, you may also Recover 1 Fortune Token.
+
+
+## Gambler Starting Gear
+
+### Pistol
+- **Keywords:** Gear, Gun, Pistol
+- **Range:** 6
+- **Shots:** 2
+- **Gold Sell Value:** $100
+- **Weight:** 1
+- **Upgrade Slots:** 2
+- **Hand Slots:** Single Handed
+
+## Gambler Rules Notes
+
+### Poker Face Ability
+The Gamblers Poker Face ability allows them to gain extra Gold when gambling in Town. This ability may only be used once per location visit, regardless of how many individual times you participate in a gambling event during that visit.
+### Fortune Tokens
+Fortune is a unique resource specific to the Gambler Hero Class. Special Fortune Tokens are included with the Gambler Hero Pack to track the amount of Fortune the Hero currently has during gameplay. 
+
+Fortune is used to activate Gambling Tricks. A Gambler starts each adventure with max Fortune and only regains them through "Catching Your Breath" after a Fight, or from abilities.
+
+The Gambler has a Fortune value which is the number of Fortune Tokens he/she starts each adventure and travel with, as well as the max number of fortune tokens he can have at one time.
+
+Fortune Tokens are generally only recovered when Catching Your Breath after a Fight and by certain abilities. Whenever you Catch Your Breath after a Fight, you may Recover D3 Fortune Tokens. Note that modifiers to Catching Your Breath (such as in the Swamps of Jargono) do NOT affect recovering Fortune.
+
+## Gambler Gambling Tricks
+Gambling Tricks are special ability cards unique to the Gambler Hero class. Upon Hero creation, the Gambler always starts with the Fortune's Favor Gambling Trick and one random Gambling Trick. The Gambler may earn additional Gambling Tricks when leveling up during a campaign. Each Gambling Trick may only be used once per turn, as well as once during Traveling and once per Town Stay. The "Fortune's Favor" gambling trick is an exception though, and may be used once during traveling as well as once PER DAY in Town.
+
+Some Gambling Tricks have XP values. This XP is awarded to the Gambler Hero whenever they successfully pass the skill test mentioned on the Gambling Trick.
+
+Each Gambling Trick on its cown can be very powerful, but they can often be combined in fun and creative ways to achieve outstanding and death-defying results!
+
+Whenever the Gambler gains a new Grambling Trick, he may draw two cards and then choose one to keep, returning the other to the box.
+
+Here is the complete list of Gambling Trick cards and their text:
+### Fortune's Favor
+  - Starting Trick.
+  - Use 1 Fortune Token to re-roll any single die just rolled, even if it has already been re-rolled. 
+  - This may not target a die that is specifically excluded from using Grit on (such as Hold Back the Darkness)
+  - XP: N/A
+
+### Stack The Deck
+  - Use 1 Fortune Token to choose any card deck, then make a Cunning 6+ test. If passed, look at the top 3 cards of that deck. Choose one to discard and put the other two back on top of the deck, in any order.
+  - This may not be used on decks that have no discard pile (such as Loot or Scavenge).
+  - XP: 10
+
+### Tip the Scales
+  - Use 1 Fortune Token to choose any single die just rolled, and make a Luck 5+ test. For each 5+ rolled, you may add or subtract 1 from the chosen die roll.
+  - This may not target a die that is specifically excluded from using Grit on (such as Hold Back the Darkness), and may not adjust the die to be higher or lower than it could have naturally rolled.
+  - XP: 10
+
+### Double Down
+  - Once per Fight, use 1 Fortune Token when you are about to make a Damage roll for one of your Hits.
+  - Double the amount rolled for Damage (before any modifiers). If the target would not be killed by this Hit, the Hit does no Damage instead.
+  - XP: N/A
+
+### Bluff
+  - Use 1 Fortune Token when you are about to be Attacked by an Enemy (before dice are rolled), to make a Luck 6+ test.
+  - If passed, that Attack is canceled. If failed, all Hits from that Attack are +1 Damage against you.
+  - XP: 20
+
+### Ace in the Hole
+  - If there is no die here, use 1 Fortune Token when you roll a 6 on any single die to place that die here. Roll a new die to replace the 6 that was rolled.
+  - While there is a die here, use 1 Fortune Token to make a Luck 5+ test. If passed, replace any single die just rolled with the 6 that was here (removing the die).
+  - XP: 10
+
+### Counting Cards
+  - Use 1 Fortune Token just after a card has been drawn from any deck, and make a Cunning 6+ test.
+  - If passed, place that card here facedown, and draw a new card to play instead. Any card already here is placed back in its proper deck, D3 cards down from the top of the deck.
+  - XP: 15
+
+Gambling Tricks that allow you to re-roll or modify dice may be used on any dice, not just your own, including Enemy To Hit rolls, another Her's To Hit or Defense rolls, etc. 
+
+## Gambler Level Up Chart
+
+2D6 Roll Upgrade Bonus
+
+2. Of Many Talents - At the start of each Adventure, choose one of the following Keywords to have until the end of that Adventure/Town Stay: Traveler, Frontier, Outlaw, Soldier, Strange
+
+3. +1 Cunning
+
+4. +1 Initiative
+
+5. +1 Strength. Also, gain +D6 Health/Sanity (any mix)
+
+6. +1 Move or +1 Spirit. Also, gain +D6 Health
+
+7. +D6 Health and +D6 Sanity
+
+8. +1 Lore or +1 Move. Also, gain +D6 Sanity
+
+9. +2 Side Bag Token Capacity. Also, gain +D6 Health
+
+10. +1 Max Grit
+
+11. +1 Luck
+
+12. Dark Stone Resistance - You can now hold 2 more Corruptoin Points before getting a Mutation
+
+## Gambler Upgrade Chart
+
+|   | **Tricks of the Trade** |   | **Roll the Bones** |   | **Civilized** |   | **Card Shark** |
+|:-:|---|---|---|---|---|---|---|
+| 1 | **Nimble Fingers**<br>+1 Agility<br>New Gambling Trick. |   | **On A Roll**<br>+1 Move<br>Whenever you kill an Enemy, you may Recover 1 Fortune Token. |   | **"Well, I Say!"**<br>+1 Lore<br>Once per Adventure, you may Recover Fortune Tokens up to your Max. |   | **Play to Win**<br>+1 Fortune<br>Your Poker Face ability now gives a bonus of D6+2 x $50 instead, but also gives you an extra Unwanted Attention marker. |
+| 2 | **Back Up Plan**<br>You may now Recover a Grit on a Move roll of 6 as well as on the roll of 1. |   | **No Nonsense**<br>Add +1 Shot to any Shotgun you are using.<br>Rolling a Mutation you already have on the chart has no effect on you now. |   | **Above The Law**<br>Once per Adventure, use 2 Grit to Ready your Badge.<br>You start each Adventure with 1 extra Grit<br>+1 Max Grit |   | **Hunter**<br>At the start of each Adventure, choose an Enemy Keyword (Void, Undead, etc). You are +1 Damage against those Enemies and gain $20 for each you kill. |
+| 3 | **Saddle Bags**<br>You may now carry an extra 4 Tokens in your Side Bag, and your Side Bag Tokens are Hidden. |   | **"I Don't Think So!"**<br>Once per turn, you may take 1 Corruption Hit to force an Enemy on your Map Tile to Re-roll a single die just rolled. |   | **Whirling Strike**<br>Use 2 Grit as an Attack to roll your full Combat against each adjacent Enemy |   | **Dead or Alive**<br>Use 2 Grit to cancel a Darkness or Growing Dread card.<br>+1 Max Grit |
+| 4 | **Been Around**<br>Willpower 3+<br>+1 Lore |   | **That Does It!**<br>+1 Strength<br>Your Hits are +1 Damage for each Mutation you have (max +3) |   | **One Man Army**<br>While you are the only Hero on your Map Tile, you gain +1 Combat and +1 Shot with a Gun.<br>+2 Max Grit |   | **End of the Line**<br>Once per Fight, during your Activation, use 2 Grit to do one automatic Hit to every Enemy on your Map Tile. These Hits use the D8 for Damage. |
 # Lawman
 ## Lawman Upgrade Chart
 | Leadership | Determination | Justice | Law and Order |
