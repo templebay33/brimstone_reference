@@ -116,3 +116,56 @@ This paragraph describes why Lyle's Personal Item is important to him.
 This paragraph describes Lyle's personality quirk.
 
 This paragraph describes Lyle's goals and motivations.
+
+
+
+
+# Fiona "Dice" O'Reilly - Gambler
+
+|  |  |  |  |
+| :---: | :---: | :---: | :---: |
+| *Strength* | *Agility* | *Cunning* | *Spirit* |
+| 2 | 3 | 4 | 3 |
+| *Lore* | *Luck* | *Health* | *Sanity* |
+| 1 | 4 | 10 | 12 |
+
+**Keywords:** *Performer, Showman*
+### Abilities
+**Fortune:**  
+Once per adventure, you may discard and re-draw any single card just drawn.
+
+**Lady Luck:**  
+Once per turn, you may Re-roll a single Missed To Hit roll.
+
+**Poker Face:**  
+You start with an extra Grit (to a max of 2).
+
+### Starting Upgrade
+**Side Bet:**  
+At the start of any Fight, you may make a Side Bet. If you do, choose a single type of Enemy in the Fight (such as Void Spiders or Bandits). If at least one Hero (including you) Kills one of that type of Enemy this turn, you Recover a Grit.
+
+### Personal Item
+**Worn Eye Patch**  
+*Personal, Clothing*  
+
+- +1 Cunning
+- Once per Adventure, you may Recover Grit up to your Max Grit.
+
+### Gear
+**Pistol**  
+*Gear, Gun, Pistol*  
+Range: 5  
+Shots: 2  
+Weight: 1  
+Hand Slots: Single Handed  
+Special Rules: None
+
+**Gambling Trick: Fortune's Favor**  
+*Gear, Trick, Gambling*  
+Special Rules: During any Town Stay, after all other Gambling has been resolved, you may use this to get a second Gambling roll.
+
+### Side Bag
+- Dynamite
+
+## Fiona's Story So Far
+Fiona "Dice" O'Reilly earned her nickname due to her uncanny ability to predict dice rolls at the gambling tables. Her Worn Eye Patch is a souvenir from a high-stakes game where she lost an eye but won a fortune. After a series of bad bets, she found herself in debt to dangerous people and turned to adventuring to pay off these debts and find a way back to the life she once enjoyed. She's always on the lookout for the next big score that can put her back on top. Fiona has a habit of rolling a pair of dice and predicting the outcome before making any big decision, trusting in her luck to guide her path.
