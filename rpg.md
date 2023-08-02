@@ -77,6 +77,14 @@ When resolving Travel Events, you may use either the Travel Events Chart in the 
 
 
 ## Hex Generation Process
+Generating a new hex is a quick process. Each of the different Shadows of Brimstone settings has their own set of tables in this section. Simply roll for the number of terrain elements on the hex, roll to see which elements are on the hex (re-rolling duplicates), and then roll for what Horizon calls *transport lines*, which are simply things that can be used for transportation such as rivers, roads, and rail lines.
+
+When drawing a symbol for each terrain element within the hex, roll a D6 to determine which point around the border of the hex that the element should be placed near. The northern most point is 1 and then they proceed in a clockwise fasion, with number 6 being the NW corner of the hex. Only a single terrain element/symbol should be drawn near each corner, so re-roll any duplicates.
+
+After determining the transport lines on the hex, determining how they should be drawn on the hex takes a few simple steps:
+
+1. If the transport line is the same type (river, road, rail, etc.) as in a bordering hex that continues to the edge, the first edge will be on the same hex side as the bordering hex so that the transport line continues across hexes. If there are multiple transport lines that are possible to continue, randomly pick one. The other end of the transport line will connect to another bordering hex with a transport line if possible. If not, roll for a random edge.
+
 
 ## Hex Tables - Old West
 
@@ -99,17 +107,17 @@ When resolving Travel Events, you may use either the Travel Events Chart in the 
 | 10 - 11 | Forest
 | 12 | Lake |
 
+**Transport Lines - (2d6):**
+| **Roll** | **Transport Line** |
+| :------: | :--------: |
+| 2 - 5 | Rail |
+| 5 - 10 | Road |
+| 11 - 12 | River |
 
-### Transport Line Tables
-
-road
-rail
-river
-### Towns
+**Towns - (2d6):**
 
 # Travel Encounters
 
-## Geomorphic Hex Tiles
 
 # Persistent Settlements Adjustments
 
