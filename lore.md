@@ -50,11 +50,70 @@ Visiting an OtherWorld can happen either randomly or by design. During an advent
 
 The rest this section provides narrative descriptions of each world setting, including all the "native" worlds. It is perfectly viable for fans to create new OtherWorld locations to visit, but this will typically require a lot of work due to the need for a lot of content that needs to be created for adding a new world, such as custom map tiles and cards, encounters, artifacts, a depth event chart unique to the world, and environment rule for the world, and several enemies to encounter which are native to the world. Of course, generative AI may be able to greatly assist fans in reducing the amount of effort needed to create all of the necessary content for adding new worlds to the game!  
 
-### Brimstone
+### Old West (Brimstone)
 
-### Feudal Japan
+### Feudal Japan (Forbidden Fortress)
+The Feudal Japanese setting for Shadows of Brimstone is also known by the name of the Core Set boxed product "Forbidden Fortress". It is an alternate main world setting from the Old West region of Brimstone with its own unique hero classes such as the assassin ninja, traveling monk, samurai, sorceress, sumo, and even the legendary kitsune. 
+
+Instead of exploring cavernous underground mines as in the old west, Forbidden Fortress usually has heroes exploring dangerous and mysterious fedual japanese fortresses depicting libraries of ancient knowledge, dojo training rooms, serene outdoor courtyards, kitchens, workshops, and other areas likely to be found in such a setting.
+
+The enemies heroes face are also tailored to the feudal japanese setting, with game depictions of mythic japanese creatures such as the brutal Oni, the flying winged swordsmen known as the Tengu, hordes of undead samurai, and the deadly and terrifying Harianago. 
+
+Just like the old west, heroes will travel across the epic feudal japanese landscape after their adventures to take refuge at a variety of fedual japanese villages and visit locations such as the gambling parlor, the calm and serene house of healing, taverns, tea houses, swordsmiths, shrines, villages markets, temples, and even the occasional western trading post featuring goods and services offered by far away travelers originating from the old west region of Brimstone.
+
+These villages can have their own unique theme such as mountain vaillages, monastary villages, outlaw havens, enslaved villages, haunted villages, and fishing villages.
+
+Here is a short story contained in the adventure rulebook for Forbidden Fortress that sets up our setting:
+
+It was a time of civil war. Cities burned and the fields ran red with the blood of battle. For over a hundred years, warring houses fought for control of Japan.
+
+That's when the 'Sword from Heaven' came. Streaking through the sky with a trail of purple flame. It was like nothing the warriors or wise men had seen before. 
+
+Crashing into the Sacred Mountain, it erupted in fire and death. This was no ordinary meteor, but a black rock that glowed with the power of the gods...Dark Stone.
+
+At first the great houses saw this as a gift that could change their fortunes in the war.
+
+They collected and forged the Dark Stone into weapons and armor for their most trusted Samurai. But then, the demons came!
+
+
+The meteor's explosion had ripped open portals to other worlds, from which all manner of creatures emerged.
+
+Demons of lore swept through the villages, temples, and fortress strongholds surrounding the mountain, killing all in their path.
+
+The skies grew black as swarms of demonic nightmares descended from the heavens to terrorize the countryside.
+
+Within days several of the most powerful houses fell to the Darkness, only to have their armies of Samurai rise back up from the dead, a ghastly horde of dishonored warriors.
+
+Dragons returned to the Earth, bursting forth from beneath the Sacred Mountain where they had slumbered for a thousand years. Raining fire and death down from the skies, the Dragon King, Sho-Riu, had regained much of his former power. Gathering his loyal servants, he set outto conquer the world and seek his revenge on the sacred order of Yamabushi monks that had imprisoned him so long ago.
+
+In the chaos, one house stood strong. They had been the first to realize the potential of the Dark Stone, and their Daimyo Warlord had grown mutated and corrupt with power, ordering every soldier in his army to be touched by the magik of the rock.
+
+This gave them unnatural strength, but it also began to change them, twisting their limbs into writhing tentacles and making them monstrous soldiers... the Takobake!
+
+Their weapons and abilities enhanced by the power of the Dark Stone, the armies of the Takobake were nearly unstoppable on the field of battle.
+
+All those that opposed them in open war were driven before the might of this tainted house.
+
+With his newfound power and madness, the Takobake Daimyo declared himself...The Fallen Shogun, master of war, and ruler of all Japan!
+
+A dark shadow has fallen across the land, but there are still brave warriors ready to stand against the Darkness, to challenge the Dragons and the armies of the Fallen Shogun, and to enter the gates...of the Forbidden Fortress!
 
 ### Caverns of Cynder
+
+### Belly of the Beast
+The Belly of the Beast is an OtherWorld that heroes can travel to through a gate. It is the OtherWorld included with the Forbidden Fortress core set and there are many enemies specially themed as adversaries to face in the Belly of the Beast. 
+
+Here is an excerpt explaining the setting from the Forbidden Fortress Adventure Book:
+
+A terrifying environment within an unfathomably massive creature, the Belly of the Beast is a living world. Webs of thick mucus hang from the spongy ceiling and enormous sphincters open and close in the walls to separate the chambers and passages of the Beast. The ribbed tunnels and muscular walls form natural corridors, creating an organic maze that pulses and drips with every step you take deeper into madness.
+
+The Gonyoku Samurai Clan were the first to enter portals into the Belly of the Beast. Jealous of the power that the Fallen Shogun and his Takobake Clan had gained by being the first to master the Dark Stone, they greedily sent all of their armies through the gates, sight unseen, to be the first to pilfer the riches of whatever lay beyond.
+
+The leaders of the Gonyoku soon realized that this was a horrible miscalculation, but it was to late! Virtually the entire clan was wiped out as legions of Samurai marched blindly into the maw, devoured by the living world on the other side. Now the only remnants of the Gonyoku Clan are the occasional corroded Sword or Helmet found stuck in the mucus walls within the creature, and the shambling Devoured Dead samurai that roam the chambers of the Beast, still searching for glory as the last spark of memory running through their melted brains.
+
+Those that have ventured through the portals that lead into the Belly of the Beast and have managed to return, tell tales of being inside a world that is itself, alive! Stories of exploring the fleshy passages and chambers within the creature depict a nightmare land of dripping mucus and humid air, thick with the smell of bile and decay. Massive blobs of gelatinous acid scour the corridors, burning away anything they touch, while shelled insect-like creatures scurry in the shadows, chirping and clicking in the dark. Few have ever returned from these expeditions into the Beast, and those that have are covered in horrible acid scars and ramble incoherently that it knew they were there, and it wanted them to stay...forever.
+
+It is impossible to tell how old the Beast is, or indeed if it even has a beginning or an end in size or age. What is known is that when larger portals have been ripped open, massive tendrils of the Beast have erupted out smashing everything within their reach and devouring anything that strays close enough to be consumed by its countless feeder tentacles and jagged maws! It is as if the Beast hungers to feed on all other worlds, growing across dimensions and realities as it absorbs all in its path.
 
 ### Trederra
 
@@ -114,6 +173,16 @@ danger.
 
 ## Hero Classes
 These Hero Class descriptions help flesh out a better narrative picture of their roles within the setting of Shadows of Brimstone.  
+
+### Assassin
+Infamous for their stealth and deadly skills, the Ninja Assassins of Feudal Japan were not honorable warriors with social standing like the Samurai, or traveling protectors like the Yamabushi Monks. They were outlaws and killers, operating on their own code of ethics. Masters of martial arts and an array of exotic weaponry, the Ninja could complete their deadly missions of sabotage, espionage, and death, and be gone without leaving a trace!
+
+The Ninja Assassin is the most deadly fighter in the game, but they are also the most fragile. Masters of movement and stealth, they have the ability to freely traverse the board, getting into the best position to strike, and cutting down their targets with ruthless efficiency. Just don't let yourself get cornered.
+
+### Enforcer
+Enforcers are low level thugs within the organized criminal underground operating throughout Feudal Japan. Tattooing their bodies all over with elaborate ink, these outlaws make their living doing the dirty work of higher ups in their organization. Though they work outside the law, living a lavish lifestyle, they still operate on a code of honor that can require harsh penalties for failing in their tasks.
+
+The Enforcer is a tough hand-to-hand fighter with a High Pain Threshold that allows him to limit the Damage that he takes from more dangerous Enemies. He is also adept at Scavenging and shaking down lesser Enemies for Gold as he mercilessly beats them with his club.
 ### Valkyrie Shield Maiden
 Riding down from the sky on a winged steed, the death dealing Valkyrie is a warrior maiden in the service of Odin himself, the god of war! Though their numbers are few next to the hordes of beasts and demons that have overrun the land now tainted by the void energies of the Dark Stone, the Valkyries have come to help defend the lands of mortal men from the encroaching Darkness.  
 
@@ -305,6 +374,15 @@ While most factions and creatures are usually treated as dangerous Enemies in th
 Each enemy design is often narratively connected and native to one of the world settings in Shadows of Brimstone. Of course, due to Gates creating temporary bridges between two worlds, it is possible to encounter enemies that are not native to the world in which the Heroes find themselves exploring. But in general, encountering non-native enemies should be more rare in order to make each world setting feel more narratively cohesive. There are some enemies, such as the Shikari Nomad's, which are specifically designed as enemies that travel through Gates to worlds that are not native to themselves as part of their narrative design.  
 
 ### Enemies - Various
+
+**Harionago**
+A Harionago is a ghastly spectre of a powerful sorceress or noble lady of great wealth and distinction. In death, she is a cruel spirit with a mind for murder. Her long, flowing black hair holds her ghostly body aloft, while swirling around to ensnare her victims with barbed hooks, allowing her to drain away their life force, leaving behind little more than a desiccated husk.
+
+**Tengu**
+Born high on raven's black wings, the demonic Tengu descend from the skies with razor sharp talons and blades of flashing steel! They are unmatched in skill with the sword, parrying aside blows with ease while slicing and slashing with lightning speed. Wearing traditional, long-nosed masks, the Tengu hide their true faces from the prying eyes of the unworthy.
+
+Once thought to be creatures of legend, the Tengu have been emboldened by the return of the one they call master, Sho-Riu...The Dragon King! Now the skies grow dark with swarms of these vicious killers, attacking travelers on the road with impunity and frequently raiding villages and sailors at sea.
+
 **Bastet Assassins**  
 Using the shadows to move quickly, unseen and silent, the Bastet Assassins are nimble warriors of the Goddess Bastet. They strike without warning and fade back into the darkness with a whispering purr.  
 
