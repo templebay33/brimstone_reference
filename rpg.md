@@ -205,9 +205,47 @@ The Persistent Town charts provided, have a few convenient features which make t
 While it can be tempting to gloss over an approach this simple, you might be pleasantly surprised how easily this one small change can increase the immersiveness of your campaign. Instead of adding new gameplay systems, rules, and components for increased immersion, I've found that this can all be achieved through the Travel Events themselves. For example, instead of adding a survival system requiring your Posse to eat food while traveling the region, a simple Travel Event can be shuffled into the mix which requires the Hero Posse to test their hunting/gathering skills or risk penalties due to malnourishment. Combining the expanded Travel Events module suggested by Horizons with the Persistent Town module, should provide increased immersion into your campaigns without much additional rules overhead.
 # Travel Encounters
 
-# Fights on Battle-Maps
-
 # Open Adventure Missions
+
+## Open Adventure Missions - Components
+
+### Environment Exploration Cards
+Environment Exploration Cards work just like normal 
+
+### Environment Cards
+Environment 
+### Environment Map Tiles
+Every Environment Card should have at least one corresponding Environment Map Tile. Environment Map Tiles do not have puzzle-cut edges, and are not generally inteded to combine with other Map Tiles. Environment Map Tiles can be of any size or shape, but it is generally much easier from a "homebrew" perspective to stick to rectangular shapes. 
+
+Environment Map Tiles can be sourced from anywhere: other games, commercially produced battle-maps and tiles sold by publishers intended for RPG's or skirmish games, hand-drawn tiles on paper, AI-generated tiles printed at home, etc. One of the primary goals of Open Adventure Missions is to provide a simple framework for fans to get creative with their own Shadows of Brimstone collection. The only general requirement is for the size of the squares/spaces on the tile to approximately fit the Shadows of Brimstone bases.
+
+**Fights on Environment Map Tiles**  
+The only real gameplay need for an Environment Map Tile is during a Fight. While players are welcome to still place Environment Map Tiles on the table during non-combat Encounters for increased immersion, they only have a practical use during Fights.
+
+Setting up for Fights on the tiles can be done mostly according to vanilla rules, placing Enemies by Initiative order in a checkboard pattern on the opposite edge of the tile from the Heroes. Sticking to rectangular tiles is helpful so that you can simply use a D8 roll to randomly pick one of the four edges the heroes will start on.
+
+Larger tiles and battle-maps are interesting in that you have more options on where to initially place models for a Fight. I like to use the black numbered square tokens provided with the core sets to place possible spawn points at interesting locations spread out across a larger map, and then randomly pick spawn locations for Heroes and Enemies. If some artwork element of the tile you are playing on makes narrative sense as a location for model placement, go for it!
+
+There is no need for a strict set of rules to govern how to intially place models on a tile for a Fight. Get creative, have fun, and do what feels right.
+
+**Environment Map Tile Sets**  
+If you have the resources, you can add a lot of variety to your adventures by compiling a set of multiple Environment Map Tiles to match a single Environment Card. This works especially well with "Wilderness" Keyword tiles. If you have a set of 6 different tiles appropriate for representing a "Riverbank" Environment, roll a D6 when the "Riverbank" Environment Card is drawn to pick one randomly from your set.
+
+**Environment "Furniture"**  
+A classic, tried-and-true method for increasing the variety of Environment layouts is to rely on modular "Furniture" tiles or 3D "scatter terrain". Instead of relying on static 2D artwork featured on your Environment Tiles, it can be helpful to have some tiles representing generic rooms and outdoor patches of land. With a big enough library of furiniture or scatter terrain to place on top of the tile, you can create just about any kind of environment you want with nearly infinite variation. If you plan to print most of your tiles at home, I recommend considering this approach as it can save quite a bit of ink in the long-run!
+
+
+### Environment Encounters
+Environment Encounters work just like normal Encounter cards in Shadows of Brimstone. The only difference is in how they are split into different categories/settings. Each Environment Card and Tile combination, lists as its first Keyword the narrative "tone" of the location. These are Keywords such as:
+
+- **Mundane:** *Every day Environments inhabited by some form of civilization (Library, Ranch, Well, City Street, etc.).*
+- **Dread:** *Unsettling Environments with a sense of foreboding and despair (Graveyard, Ritual Altar, Battlefield, etc.)*
+- **Wild:** *Environments un-touched by cilivization (Forest Clearing, Creek Bank, Dense Jungle, etc.)*
+
+The back of each Environment Encounter Card matches one of these Keywords, so that the narrative description of the Encounter can better match the "tone" of the Environment. Whenever an Environment Encounter is drawn, it is drawn from the deck of Environment Encounters which match the corresponding Keyword on the Environment Card.
+
+
+### Environment Depth Charts
 
 # Mini-Games
 # Campaign Generation
