@@ -234,6 +234,9 @@ If you have the resources, you can add a lot of variety to your adventures by co
 **Environment "Furniture"**  
 A classic, tried-and-true method for increasing the variety of Environment layouts is to rely on modular "Furniture" tiles or 3D "scatter terrain". Instead of relying on static 2D artwork featured on your Environment Tiles, it can be helpful to have some tiles representing generic rooms and outdoor patches of land. With a big enough library of furiniture or scatter terrain to place on top of the tile, you can create just about any kind of environment you want with nearly infinite variation. If you plan to print most of your tiles at home, I recommend considering this approach as it can save quite a bit of ink in the long-run!
 
+## Set-Piece Map Tiles
+
+A large map tile that has is abrubtly cut off on one side with puzzle-cut connectors. It can either be connect to another set-piece map tile to make one large "battle map", or it can be connected to its "map tile adapter" piece, which shrinks the "open edge" down to a standard 2-space wide puzzle-cut edge so that it can be used in your normal adventures.
 
 ### Environment Encounters
 Environment Encounters work just like normal Encounter cards in Shadows of Brimstone. The only difference is in how they are split into different categories/settings. Each Environment Card and Tile combination, lists as its first Keyword the narrative "tone" of the location. These are Keywords such as:
@@ -300,3 +303,13 @@ The rules for Companions are in a previous section. This section lists the vario
 
 
 # Narrative Oracle Tables
+
+## Narrative Event Hooks
+Narrative flavor text in *italics* that are used in Encounters and Events will make use of nouns that are displayed in <u><font color="red">*underlined red*</font></u> text. These are narrative hooks for ehanced role-playing and can be completely ignored if desired as they have no gameplay purpose.
+
+When some narrative text includes such a narrative hook, such as:
+
+"*As you make your way through the murky swamps, you come across a <u><font color="red">*mysterious plant*</font></u>...*"
+
+It is an opportunity for players interested to roll on a "Mysterious Plant" Oracle table:
+
