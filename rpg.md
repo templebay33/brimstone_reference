@@ -204,6 +204,12 @@ The Persistent Town charts provided, have a few convenient features which make t
 
 While it can be tempting to gloss over an approach this simple, you might be pleasantly surprised how easily this one small change can increase the immersiveness of your campaign. Instead of adding new gameplay systems, rules, and components for increased immersion, I've found that this can all be achieved through the Travel Events themselves. For example, instead of adding a survival system requiring your Posse to eat food while traveling the region, a simple Travel Event can be shuffled into the mix which requires the Hero Posse to test their hunting/gathering skills or risk penalties due to malnourishment. Combining the expanded Travel Events module suggested by Horizons with the Persistent Town module, should provide increased immersion into your campaigns without much additional rules overhead.
 # Travel Encounters
+The addition of new Travel Encounters which expand the ones found in the core game has been explored in several fan expansions of Shadows of Brimstone to date. It's an obvious way to expand the variety in the game that has not yet been done officially by Flying Frog Productions for one reason or another. 
+
+Horizons uses Travel Encounters as a kind of "glue" to bring all of the other concepts together. Instead of introducing new core game mechanics, Horizons relies on new random events peppered throughout the game as a vehicle to express new gameplay elements. 
+
+One example ais the addition of outdoor random combat encounters. Instead of procedurally making checks as you progress across the map to determine if your heroes find themselves in an outdoor confrontation, a few random Travel Events are added into the mix which trigger a Fight when rolled. The same technique is used to trigger other gameplay elements like NPC Encounters and Mini-Games. 
+
 
 # Open Adventure Missions
 
@@ -305,11 +311,11 @@ The rules for Companions are in a previous section. This section lists the vario
 # Narrative Oracle Tables
 
 ## Narrative Event Hooks
-Narrative flavor text in *italics* that are used in Encounters and Events will make use of nouns that are displayed in <u><font color="red">*underlined red*</font></u> text. These are narrative hooks for ehanced role-playing and can be completely ignored if desired as they have no gameplay purpose.
+Narrative flavor text in *italics* that are used in Encounters and Events will make use of nouns that are displayed in <u><font color="green">*underlined green*</font></u> text. These are narrative hooks for ehanced role-playing and can be completely ignored if desired as they have no gameplay purpose.
 
 When some narrative text includes such a narrative hook, such as:
 
-"*As you make your way through the murky swamps, you come across a <u><font color="red">*mysterious plant*</font></u>...*"
+"*As you make your way through the murky swamps, you come across a <u><font color="green">*mysterious plant*</font></u>...*"
 
 It is an opportunity for players interested to roll on a "Mysterious Plant" Oracle table:
 
