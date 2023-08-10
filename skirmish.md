@@ -84,8 +84,9 @@ Model profiles are simple and have the following elements:
 - **Traits:** Special rules that apply to the model.
 - **Weapons:** One or more weapon profiles describing the number of dice and any other effects, such as Range and Shots, when making basic attacks.
 
-## Abilities
-Unique abilities for models are not part of their main profile, but instead depicted on separate cards. When a model is recruited to your Force, all of the ability cards provided by the model are added to the player deck.
+## Cards
+Unique abilities for models are not part of their main profile, but instead depicted on separate cards. When a model is recruited to your Force, all of the ability cards provided by the model are added to the player deck. 
+Cards are used in the Advanced Game only. Players build a custom deck of cards when builing a Force, using a pool of cards determined by the Faction and models that make up their Force. 
 
 
 
@@ -106,6 +107,22 @@ When both opponents are playing a Beast Faction, each player bids until one side
 The Void faction features creatures from the Void. The Void does not use Grit as a resource, but instead uses Sanity as a resource. The Void is the only faction that may apply their resource (Sanity) to Enemy Models.
 
 The Void is immune to Corruption.
+
+### Serpentmen
+
+### Targa Defense
+
+### Crimson Hand
+
+### Takobake
+
+### Army of the Dragon King
+
+### Black Fang Tribe
+
+### Scafford Gang
+
+
 
 ## Maps
 Uses the same rules for Frontier Town and Feudal Japan for movement, line of sight, cover, etc.
