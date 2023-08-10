@@ -258,6 +258,30 @@ The back of each Environment Encounter Card matches one of these Keywords, so th
 
 # Mini-Games
 # Campaign Generation
+- Choose main world
+  - old west
+- Choose rival faction in main world
+  - assemble card sets for rival missions (darkness, growing dread, threat, etc.)
+  - werewolves
+- create enemy pool for main world (5 normal and 2 XL?)
+- create card pool for main world missions  (darkness, growing dread, threat, etc.)
+- Choose a single OtherWorld (trederra)
+  - assemble enemy sets for OtherWorld
+  - assemble card pools for OtherWorld
+- Choose Big Boss XXL Enemy (either main or OtherWorld)
+  - assemble card sets for xxl enemy missions
+  - can go for challege pack instead
+- create mission pool for campaign:
+  - 5 main world basic missions
+  - all faction missions
+  - all OtherWorld missions
+  - Town missions
+  - XXL/Challenge missions
+- Select starting and finale missions from the pool.
+- Select campaign goal & length
+- Create hero party
+  - Optional: Hero backstory, personality, personal goal, and personal rival (Hero Rivals)
+- roll for starting mission!
 
 # Companion Classes
 The rules for Companions are in a previous section. This section lists the various Companion Classes (facsimiles of Hero classes) available when creating one. A few tables are provided to help you pick Companion Classes randomly if you prefer.
