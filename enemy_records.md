@@ -1,7 +1,7 @@
 # Shadows of Brimstone - Enemy Record Sheets
-This document provides text description of all the information in the Enemy Record sheet for enemies in Shadows of Brimstone. The real enemy record sheets have graphical design elements like artwork, icons, and different fonts to indicate the type of information being displayed. These reference will use simple text only and rely on basic key/value pairs to store the same information. The intent of this reference is to provide a knowledge base to AI models so that all of the rules and information contained in each Enemy Record Sheet can be easily parsed by an AI.  
+This document provides text description of all the information in the Enemy Record sheet for enemies in Shadows of Brimstone. The real enemy record sheets have graphical design elements like artwork, icons, and different fonts to indicate the type of information being displayed. This reference will use simple text only and rely on basic key/value pairs to store the same information. The intent of this reference is to provide data to AI models so that all of the rules and information contained in each Enemy Record Sheet can be easily parsed by an AI.  
 
-The *Brutal* version of each each Enemy Record Sheet is also included.  
+The *Brutal* version of each each Enemy Record Sheet (which appears on the reverse side of the physical sheets) is also included.  
 
 ## Drowned Dead
 Keywords: Undead, Soldier  
@@ -60,3 +60,58 @@ XP: 25
 4. Piercing: +2 Combat and Drowned Dead To Hit rolls of 6+ ignore Armor.
 5. Flintlock Pistols: At the end of its move, each Drowned Dead makes a free Ranged Attack at a Random Hero using: *Range 5, Shots 2, Damage D6*
 6. Burning Eyes: Once per Turn, Drowned Dead may Re-roll their To Hit rolls of 1. Also, Horror Hits caused by Drowned Dead now do +1 Sanity Damage each.
+
+## Xenocyte Impalers
+Keywords: Alien, Beast, Fiend 
+Side: Medium  
+Initiative: 8
+Move: 9  
+Escape: 4+  
+To Hit (Range): -  
+To Hit (Melee): 3+  
+Combat: 3  
+Damage: 3  
+Defense: 2  
+Health: 5  
+XP: 25  
+
+**Abilities**
+- Wall Scurry: Moves through other models.
+- Impaling Tail: Any Hero that ends their move adjacent to one or more Xenocyte Impalers must pass an Agility 5+ test or gain a Bleeding marker.
+- Shadow Dodge: This Enemy is +1 Defense against Attacks for each space away the Attacker is from it.
+
+**Elite Chart**  
+
+1. Razor Talons: This Enemy's Combat Hits are +2 Damage
+2. Swift Stroke: The Impaling Tail ability now requires Agility 6+
+3. Hardened Skin: +3 Health
+4. Slicing Arms: +2 Combat
+5. Clicking Language: Gains Fear (1) - A Hero starting their Activation adjacent takes 1 Horrot Hit.
+6. Deadly Tails: The Impaling Tail ability now requires one success on the Agility test for each adjacent Xenocyte Impaler. Gain 1 Bleeding marker for each success needed that you didn't get.
+
+## Xenocyte Impalers - Brutal
+Keywords: Alien, Beast, Fiend 
+Side: Medium  
+Initiative: 8
+Move: 9  
+Escape: 4+  
+To Hit (Range): -  
+To Hit (Melee): 3+  
+Combat: 5  
+Damage: 3  
+Defense: 2  
+Health: 8  
+XP: 35  
+
+**Abilities**
+- Wall Scurry: Moves through other models.
+- Impaling Tail: Any Hero that ends their move adjacent to one or more Xenocyte Impalers must pass an Agility 6+ test or gain a Bleeding marker.
+- Shadow Dodge: This Enemy is +1 Defense against Attacks for each space away the Attacker is from it.
+
+**Elite Chart**  
+1. Razor Talons: This Enemy's Combat Hits are +2 Damage
+2. Run Through: The Impaling Tail ability now causes D3 Bleeding markers.
+3. Deflective Shell: Armor 5+
+4. Skewering Arms: +3 Combat
+5. Clicking Language: Gains Fear (1) - A Hero starting their Activation adjacent takes 1 Horrot Hit.
+6. Deadly Tails: The Impaling Tail ability now requires one success on the Agility test for each adjacent Xenocyte Impaler. Gain 1 Bleeding marker for each success needed that you didn't get.

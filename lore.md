@@ -440,6 +440,11 @@ that have been corrupted, rising
 from their watery graves for
 revenge upon the living.  
 
+**Xenocyte Impalers**  
+The cold dark halls of the Derelict Ship are home to more than just stumbling undead Necronauts and jittering robots that have been corrupted by the power of the Void. Vile alien creatures also lurk within the dead ship, nesting in the bowels of the hulk, and swarming any explorers that wander too far into the dark. The Xenocyte Impalers crawl on viciously sharp legs, with a whipping tail to impale their foes. Deadly fast, they fade into the shadows before descending on their targets for the kill.
+
+These terrifying alien creatures scurry along walls, ceilings, and floors to reach their prey, bursting through vents and broken grates! With a lashing tail that can skewer unwary opponents, the Xenocyte Impalers are a formidable foe to battle at close quarters, while their Shadow Dodge allows them to evade all but the deadliest fire from any real distance.
+
 
 **Trolls**  
 One of the main Enemies that Viking Heroes will face in the Gates of Valhalla Brimstone Adventures Set are the monstrous and hateful Trolls of the Norse Lands! These hulking, Mythic Beasts live in the wild lands of the north, attacking nearby villages and ambushing unwary travelers to feed on. With jagged claws and a satchel of hefty boulders to throw, Trolls spread fear throughout the dark forests and icy crags they call home. Able to Regenerate even the most gruesome injuries, an angry Troll can be a terrifying foe to face, let alone a group of them.  
