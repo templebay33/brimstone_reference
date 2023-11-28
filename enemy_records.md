@@ -5,7 +5,7 @@ The *Brutal* version of each each Enemy Record Sheet (which appears on the rever
 
 ## Drowned Dead
 Keywords: Undead, Soldier  
-Side: Medium  
+Size: Medium  
 Initiative: 2  
 Move: 2  
 Escape: 4+  
@@ -35,7 +35,7 @@ Note: While they have *any* Elite ability, Drowned Dead also gain To Hit (Melee)
 
 ## Drowned Dead - Brutal
 Keywords: Undead, Soldier  
-Side: Medium  
+Size: Medium  
 Initiative: 2  
 Move: 3  
 Escape: 5+  
@@ -63,7 +63,7 @@ XP: 25
 
 ## Xenocyte Impalers
 Keywords: Alien, Beast, Fiend 
-Side: Medium  
+Size: Medium  
 Initiative: 8
 Move: 9  
 Escape: 4+  
@@ -91,7 +91,7 @@ XP: 25
 
 ## Xenocyte Impalers - Brutal
 Keywords: Alien, Beast, Fiend 
-Side: Medium  
+Size: Medium  
 Initiative: 8
 Move: 9  
 Escape: 4+  
