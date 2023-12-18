@@ -341,14 +341,14 @@ Focusing more on collecting Loot and hand-to-hand, this ability shifts the Bandi
 This ability is ideal if you want to roll a lot of dice! With two Pistols, the Bandido can unleash a serious Barrage, even if he doesn't hit much. But hey, that's what Grit is for. It also compensates for a low Ranged To Hit value by getting more dice and more potential Critical Hits.
 
 
-## Gambler Starting Upgrades
+## Bandido Starting Upgrades
 
 - **Explosives Expert:** Use 2 Grit to gain a Dynamyte Token. You also gain: Free Attack (Once per Adventure) - Throw Dynamite. Extra Starting Gear: Dynamite Satchel (with 2 Dynamite Tokens).
 - **Swindler:** Once per turn, when drawing one or more Loot cards, you may choose one to discard and draw a new one. +1 Combat.
 - **Twin Guns:** You may fire two single-handed Guns per turn, ignoring the penalty for Duel Wielding. Extra Starting Gear: Pistol (In addition to the first Pistol).
 
 
-## Gambler Starting Gear
+## Bandido Starting Gear
 
 ### Pistol
 - **Keywords:** Gear, Gun, Pistol
@@ -364,7 +364,7 @@ This ability is ideal if you want to roll a lot of dice! With two Pistols, the B
 ## Bandido Level Up Chart
 
 
-## Gambler Upgrade Chart
+## Bandido Upgrade Chart
 
 |   | **Guns** |   | **Explosives** |   | **Brawling** |   | **Scoundrel** |
 |:-:|---|---|---|---|---|---|---|
