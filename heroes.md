@@ -296,3 +296,76 @@ Gambling Tricks that allow you to re-roll or modify dice may be used on any dice
 | Battle Plan<br>Use 2 Grit to give every Hero +1 Damage on their Attacks until the end of the turn (or +2 Damage while there are more than one Enemy Type on the board). | Never Gives Up<br>While KO’d, at the start of each turn, roll a D6. On the roll of 5 or 6, Heal D6 Wounds/Sanity (any mix) and stand back up, without rolling for Injury/Madness. | Use 2 Grit to make all of your Hits count as Critical Hits until the end of the turn or to allow one of your Hits to ignore an Enemy’s Tough or Endurance Ability. | Once per Fight, use 1 Grit to add Damage to one of your Hits, or Damage if you are at less than half Health. |
 | Long Arm of the Law<br>+1 Combat and +1 Strength and +1 Max Grit | Learning to Live With It | Judge, Jury and Executioner<br>+1 Max Grit +1 Initiative | Justice Never Sleeps<br>+1 Initiative and +2 Max Grit |
 | Standing Your Ground<br>Once per Adventure, Ready your Badge. At the start of your Activation each turn during a Fight, Recover a Grit on the D6 roll of 4, 5, or 6.<br>+1 Spirit | | | |
+
+# Bandido
+
+## Bandido Hero Class Sheet
+
+- **Name:** Bandido
+- **Keywords:** Outlaw
+- **To Hit (Range):** 5+
+- **To Hit (Melee):** 4+
+- **Combat:** 2
+- **Max Grit:** 2
+- **Initiative:** 3
+- **Health:** 16
+- **Sanity:** 18
+- **Defense:** 4+
+- **Willpower:** 5+
+- **Agility:** 2
+- **Cunning:** 1
+- **Spirit:** 3
+- **Strength:** 4
+- **Lore:** 3
+- **Luck:** 2
+- **Starting Items:**  Pistol
+- **Abilities:**
+  - *Wild Card* - You may Recover a Grit on a Move roll of 1 or 2.
+
+
+## Bandido Gameplay Description
+With a healthy mix of stubbornness, a raging temper, and a lust for life, Bandidos are unpredicatable to say the least. Between blasting away at everything in sight with a hail of bullets and casually tossing dynamite across the room, there's never a dull moment when a Bandido is in the group!
+
+Bandidos are truly a wild card in that they can be played in so many different ways. Their built-in ability to recover Grit mixed with a low Ranged To Hit value means that the Bandido tends to roll a lot of dice, and then Re-roll a lot of dice just to blow things up. This gives them a lot of swing in luck, but makes for a fun adventure! It also means that they rarely have a shortage of Grit for activating abilities or using more powerful Grit-based Items they find along the way.
+
+## Bandido Starting Upgrade Choices
+The Bandido Starting upgrades each focus on a completely different aspect of the character and vastly change how he feels to play.
+
+### Explosives Expert
+The ability to create Dynamite Tokens using Grit allows the Bandido to blow up anything in sight (though sometimes this includes the other Heroes too, or even himself). The added bonus of starting with the Dynamite Satchel allows you to hold an abundance of explosives as well.
+
+### Swindler
+Focusing more on collecting Loot and hand-to-hand, this ability shifts the Bandido into a strong Melee fighter. This circumvents your low Ranged To Hit value by simply encouraging you to get up close and personal.
+
+### Twin Guns
+This ability is ideal if you want to roll a lot of dice! With two Pistols, the Bandido can unleash a serious Barrage, even if he doesn't hit much. But hey, that's what Grit is for. It also compensates for a low Ranged To Hit value by getting more dice and more potential Critical Hits.
+
+
+## Gambler Starting Upgrades
+
+- **Explosives Expert:** Use 2 Grit to gain a Dynamyte Token. You also gain: Free Attack (Once per Adventure) - Throw Dynamite. Extra Starting Gear: Dynamite Satchel (with 2 Dynamite Tokens).
+- **Swindler:** Once per turn, when drawing one or more Loot cards, you may choose one to discard and draw a new one. +1 Combat.
+- **Twin Guns:** You may fire two single-handed Guns per turn, ignoring the penalty for Duel Wielding. Extra Starting Gear: Pistol (In addition to the first Pistol).
+
+
+## Gambler Starting Gear
+
+### Pistol
+- **Keywords:** Gear, Gun, Pistol
+- **Range:** 6
+- **Shots:** 2
+- **Gold Sell Value:** $100
+- **Weight:** 1
+- **Upgrade Slots:** 2
+- **Hand Slots:** Single Handed
+
+## Bandido Rules Notes
+
+## Bandido Level Up Chart
+
+
+## Gambler Upgrade Chart
+
+|   | **Guns** |   | **Explosives** |   | **Brawling** |   | **Scoundrel** |
+|:-:|---|---|---|---|---|---|---|
+
