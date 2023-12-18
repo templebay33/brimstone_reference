@@ -309,7 +309,7 @@ Gambling Tricks that allow you to re-roll or modify dice may be used on any dice
 - **Max Grit:** 2
 - **Initiative:** 3
 - **Health:** 16
-- **Sanity:** 18
+- **Sanity:** 8
 - **Defense:** 4+
 - **Willpower:** 5+
 - **Agility:** 2
@@ -368,4 +368,70 @@ This ability is ideal if you want to roll a lot of dice! With two Pistols, the B
 
 |   | **Guns** |   | **Explosives** |   | **Brawling** |   | **Scoundrel** |
 |:-:|---|---|---|---|---|---|---|
+
+# Wandering Samurai
+
+## Wandering Samurai Hero Class Sheet
+
+- **Name:** Wandering Samurai
+- **Keywords:** Traveler, Showman, Samurai
+- **To Hit (Range):** 4+
+- **To Hit (Melee):** 3+
+- **Combat:** 2
+- **Max Grit:** 2
+- **Initiative:** 5
+- **Health:** 10
+- **Sanity:** 10
+- **Defense:** 3+
+- **Willpower:** 4+
+- **Agility:** 3
+- **Cunning:** 3
+- **Spirit:** 2
+- **Strength:** 3
+- **Lore:** 2
+- **Luck:** 2
+- **Starting Items:**  Wanderer's Katana
+- **Abilities:**
+  - *Max Fury* - 5.
+  - *Samurai Battle Tactics* - Starts with 2 Random Wanderer Samurai Battle Tactics (draw 3 choose 2). Battle Tactics may each only be used once per turn.
+  - *Battle Fury* - Any time you do one or more Wounds to an Enemy with a Combat Hit, gain 1 Fury Token.
+  - *Code of Honor* - May not use Guns or Explosives, and may not voluntarily Flee from an Adventure (though the rest of the Hero Posse may Flee without you).
+
+
+## Wandering Samurai Gameplay Description
+The Wandering Samurai is a powerful fighter and an honorable warrior, traveling the roads far from home; a fading relic of a bygone era. Following a strict Bushido code of honor and an unmatched mastery of the sword, he is often underestimated by locals and thugs on the Western Frontier...to their unfortunate ends. Once renowned as one of the most skilled and disciplined groups of warriors in the whole of human history, the Japanese Samurai's fire has all but gone out in the world. Whether wandering as a Ronin without a master, on a secret mission that has carried him across the sea, or striking out alone as his own master, the Wander Samurai will not go quietly into the night.
+
+The Wandering Samurai is a mater of cloes combat, both in attack and defene. With a flashing blade and a thunderous battle cry, he makes quick work of Enemies that stray too near. Building Fury as he fights, the Wandering Samurai unleashes deadly Battle Tactics in the form of powerful super attacks and cunning maneuvers to crush his enemies. Though his Code of Honor prevents him from fleeing a Mission, the Samurai never gives up.
+
+## Wandering Samurai Starting Upgrade Choices
+Wandering Samurai Starting Upgrades focus on Strength, maximizing Fury, and being deadly in Combat.
+
+### Ronin
+A Samurai without a master, the Ronin is a powerful and ruthless mercenary. Strong, well armored, and really only in it for the Loot, the Ronin is a tank in battle, shrugging off damage with ease and striking fear into the hearts of his foes!
+
+### Quiet Traveler
+With a cool and calm exterior, the Quiet Traveler is a man of few words, letting actions and the Fury of his blade speak for him. Trained in the art of balanced attacks, this Samurai can wield even the largest and most cumbersome hand weapons with skill and grace.
+
+### Sword Master
+This combat master is unmatched in the way of the sword! His flashing steel and furious attacks make quick work of even the largest horde of Enemies, limited only by the reach of his blade.
+
+
+## Wandering Samurai Starting Upgrades
+
+- **Ronin:** +1 Max Fury. +1 Strength. When drawing Loot cards you may draw one extra, then choose one to discard. May not use Samurai Battle Tactics that are Keyword Healing. Extra Starting Gear: Samurai Armor, Ronin's Helmet.
+- **Quiet Traveler:** Gain D3+1 Fury at the start of every Fight. Your two-handed Hand Weapons only take up one hand for you to use.
+- **Sword Master:** Rapid Strike (Blade) - Any time you kill an Enemy with a Combat Hit using a Blade Hand Weapon, you immediately gain +1 Combat for that Attack (Limit +3).
+
+
+## Wandering Samurai Starting Gear
+
+## Wandering Samurai Rules Notes
+
+## Wandering Samurai Level Up Chart
+
+## Wandering Samurai Upgrade Chart
+
+|   | **Battle Tactics** |   | **Fury** |   | **Way of the Sword** |   | **Journeyman** |
+|:-:|---|---|---|---|---|---|---|
+
 
