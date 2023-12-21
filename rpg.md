@@ -394,3 +394,49 @@ When some narrative text includes such a narrative hook, such as:
 
 It is an opportunity for players interested to roll on a "Mysterious Plant" Oracle table:
 
+# Quick Notes/Ideas
+
+### Overhauled Injury/Madness/Mutation Conditions
+Players can now only have 1 of each type. Whenever they would gain a 2nd of the same type, the existing condition worsens and becomes more severe. Intended to reduce tracking complexity.
+
+### Growing Dread Removal
+Growing Dread mechanic is completely removed from the game. I just don't like it.
+
+### No XP Earning
+Earning XP is removed. Instead, players level-up at specific points in a campaign all together.
+
+### No Roll-to-Move (Earn Grit via Combat)
+Completely replace the need to roll dice for move/grit. Grit is now earned as a reward similar to how XP used to be rewarded during combat: whenever a certain amount of damage is done to particular enemy types. For very weak enemies it could be eliminating more than one of that type of enemy in a single attack (2+ Void Spiders), for average enemies, it could be each model, for big bosses it could be doing larger amounts of damage in a single attack or hit.
+
+### Static Hero Attributes
+Hero Attributes (Agility, Cunning, etc.) do not change during a campaign or as the result of leveling up. They can be modified up or down, but can never exceed 6 or below 1. This makes temporarily modified attributes easy to track with a D6 placed on top of the attribute on the player sheet.
+
+### De-Emphasis on Volume of Loot
+To keep player-tracking more reasonable over a campaign. Heroes can have items currently "weilded" in their hand. Side-bag tokens are still the same. Heroes have 1-3 storage slots of more wieldable items that can be changed out, but that is the limit of "stuff" that a Hero can have in their face-up play area. See "Combat Deck" for how clothing/armor/abilities are handled.
+
+### Combat Deck
+Deck of action cards drawn from and played during combat encounteres. New abilities earned via leveling up are added as cards to this deck. Clothing/equipment/armor type items are also added as cards to this deck. Armor is represented as a card that can be played in response to taking damage during combat. At the beginning of an Adventure, a Hero shuffles their combat deck and draws 3. Those are the only 3 cards they have available during the entire adventure. Additional cards are earned during an Adventure when damage/sanity thresholds are reached (see Health/Sanity/Corruption tracks).
+
+### Health/Sanity/Corruption Tracks
+Each Hero has a track for each instead of using tokens. Max Health/Sanity/Corruption does NOT change as heroes level up (the 2d6 level chart goes away). Each track has thresholds where that Hero earns additional combat cards during an adventure as they lose Health/Sanity/Corruption, getting them back into the fight as things get more tense. This is the "Desparation" mechanic. Health is reset after each Fight.
+
+### Leveling Up
+Leveling up is now done by all Heroes at certain points along the campaign without any tracking of XP. This only consists of earning a new Perk. Each Hero class has a Perk tree that spans out in a web-like fashion where you can only earn a new Perk that is connected to one that you already have. Some Perks add combat cards, some Perks change or upgrade your single Class Ability card (see Class Ability cards). 
+
+### Simplified Combat Stats
+The following stats are removed: Max Grit, Combat, Melee To-Hit, Range To-Hit, Defense, Willpower, Initative. The combat system is modified to no longer require tracking these.
+
+### Fate Track
+A track used throughout the campaign. As "good" things happen to the Heroes (successfully completel mission, level up, earn rare artifacts) Fate decreases. As bad things happen (fail mission, injury/madness conditions, losing rare artifact) Fate increases. Darkness, Encounters, and Fights have things that get modified or triggered by the current level on the Fate track so that difficulty is dynamically adjusted/equialized during a campaign. The better you do, things get harder for a while, the worse you do, things get easier for a while.
+
+### Monolith Style Battle-Maps
+
+### Alternating Combat Activations
+
+### More hand-crafted guidance on Adventures, Encounters, Events, etc., to create more consistent experiences.
+Also emphasis on pacing.
+
+### Re-tooled Epic Fights
+No longer a long slog of slowly draining life from very tough bosses. Epic fights should not last much longer than normal fights, but rather just be more challenging.
+
+
